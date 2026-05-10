@@ -1,4 +1,0 @@
-numpy @ file:///Users/runner/miniforge3/conda-bld/bld/rattler-build_numpy_1773839133/work/dist/numpy-2.4.3-cp311-cp311-macosx_11_0_arm64.whl#sha256=d504db6f6752aa32980f1be87016bf47029509a7c1bc04497fb49ec2e22945c2
-pandas @ file:///Users/runner/miniforge3/conda-bld/bld/rattler-build_pandas_1774916748/work
-plotly @ file:///home/conda/feedstock_root/build_artifacts/plotly_1772628722729/work
-streamlit @ file:///home/conda/feedstock_root/build_artifacts/streamlit_1777421911225/work
