@@ -1,0 +1,2226 @@
+team,year,opponent,date,outcome,score,score_for,score_against,score_diff,total_points,win,margin_type,win_flag
+california-lutheran,2019,la-verne,2019-02-16 12:00:00,L,4-11,4.0,11.0,-7.0,15.0,False,blowout,0
+california-lutheran,2019,la-verne,2019-02-16 14:00:00,L,4-6,4.0,6.0,-2.0,10.0,False,close,0
+california-lutheran,2019,claremont-mudd-scripps,2019-02-23 12:00:00,L,6-9,6.0,9.0,-3.0,15.0,False,moderate,0
+california-lutheran,2019,claremont-mudd-scripps,2019-02-23 14:00:00,L,0-10,0.0,10.0,-10.0,10.0,False,blowout,0
+california-lutheran,2019,hiram,2019-03-04 12:00:00,W,5-1,5.0,1.0,4.0,6.0,True,moderate,1
+california-lutheran,2019,hiram,2019-03-04 14:00:00,W,16-10,16.0,10.0,6.0,26.0,True,blowout,1
+california-lutheran,2019,whittier,2019-03-09 12:00:00,L,7-12,7.0,12.0,-5.0,19.0,False,blowout,0
+california-lutheran,2019,whittier,2019-03-09 14:00:00,W,7-6,7.0,6.0,1.0,13.0,True,close,1
+california-lutheran,2019,manhattanville,2019-03-10 12:00:00,L,3-7,3.0,7.0,-4.0,10.0,False,moderate,0
+california-lutheran,2019,manhattanville,2019-03-10 14:00:00,L,7-12,7.0,12.0,-5.0,19.0,False,blowout,0
+california-lutheran,2019,alfred,2019-03-12 12:00:00,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+california-lutheran,2019,alfred,2019-03-12 14:00:00,W,6-5,6.0,5.0,1.0,11.0,True,close,1
+california-lutheran,2019,redlands,2019-03-16 12:00:00,L,3-11,3.0,11.0,-8.0,14.0,False,blowout,0
+california-lutheran,2019,redlands,2019-03-16 14:00:00,L,1-4,1.0,4.0,-3.0,5.0,False,moderate,0
+california-lutheran,2019,cortland,2019-03-17 12:00:00,W,6-2,6.0,2.0,4.0,8.0,True,moderate,1
+california-lutheran,2019,cortland,2019-03-17 14:00:00,L,1-6,1.0,6.0,-5.0,7.0,False,blowout,0
+california-lutheran,2019,williams,2019-03-19 13:00:00,L,5-6,5.0,6.0,-1.0,11.0,False,close,0
+california-lutheran,2019,williams,2019-03-19 15:00:00,W,3-1,3.0,1.0,2.0,4.0,True,close,1
+california-lutheran,2019,denison,2019-03-22 13:00:00,L,4-6,4.0,6.0,-2.0,10.0,False,close,0
+california-lutheran,2019,denison,2019-03-22 15:00:00,L,4-11,4.0,11.0,-7.0,15.0,False,blowout,0
+california-lutheran,2019,occidental,2019-03-23 12:00:00,L,3-11,3.0,11.0,-8.0,14.0,False,blowout,0
+california-lutheran,2019,occidental,2019-03-23 14:00:00,W,5-4,5.0,4.0,1.0,9.0,True,close,1
+california-lutheran,2019,pomona-pitzer,2019-03-29 12:00:00,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+california-lutheran,2019,pomona-pitzer,2019-03-29 14:00:00,L,5-14,5.0,14.0,-9.0,19.0,False,blowout,0
+california-lutheran,2019,la-verne,2019-03-30 12:00:00,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+california-lutheran,2019,la-verne,2019-03-30 14:00:00,L,0-13,0.0,13.0,-13.0,13.0,False,blowout,0
+california-lutheran,2019,chapman,2019-04-03 14:00:00,L,1-9,1.0,9.0,-8.0,10.0,False,blowout,0
+california-lutheran,2019,chapman,2019-04-03 16:00:00,L,10-11,10.0,11.0,-1.0,21.0,False,close,0
+california-lutheran,2019,claremont-mudd-scripps,2019-04-06 12:00:00,L,2-17,2.0,17.0,-15.0,19.0,False,blowout,0
+california-lutheran,2019,claremont-mudd-scripps,2019-04-06 14:00:00,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+california-lutheran,2019,chapman,2019-04-12 14:00:00,L,11-15,11.0,15.0,-4.0,26.0,False,moderate,0
+california-lutheran,2019,chapman,2019-04-12 16:00:00,L,3-14,3.0,14.0,-11.0,17.0,False,blowout,0
+california-lutheran,2019,whittier,2019-04-13 12:00:00,L,10-11,10.0,11.0,-1.0,21.0,False,close,0
+california-lutheran,2019,whittier,2019-04-13 14:00:00,L,2-11,2.0,11.0,-9.0,13.0,False,blowout,0
+california-lutheran,2019,redlands,2019-04-20 12:00:00,L,7-10,7.0,10.0,-3.0,17.0,False,moderate,0
+california-lutheran,2019,redlands,2019-04-20 14:00:00,W,13-11,13.0,11.0,2.0,24.0,True,close,1
+california-lutheran,2019,pomona-pitzer,2019-04-26 14:00:00,L,1-11,1.0,11.0,-10.0,12.0,False,blowout,0
+california-lutheran,2019,pomona-pitzer,2019-04-26 16:00:00,W,7-6,7.0,6.0,1.0,13.0,True,close,1
+california-lutheran,2019,occidental,2019-04-27 12:00:00,W,7-0,7.0,0.0,7.0,7.0,True,blowout,1
+california-lutheran,2019,occidental,2019-04-27 14:00:00,W,10-9,10.0,9.0,1.0,19.0,True,close,1
+california-lutheran,2020,of antelope valley,2020-01-28 12:00:00,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+california-lutheran,2020,of antelope valley,2020-01-28 14:00:00,W,7-4,7.0,4.0,3.0,11.0,True,moderate,1
+california-lutheran,2020,of antelope valley,2020-02-05 12:00:00,W,9-5,9.0,5.0,4.0,14.0,True,moderate,1
+california-lutheran,2020,of antelope valley,2020-02-05 14:00:00,L,2-10,2.0,10.0,-8.0,12.0,False,blowout,0
+california-lutheran,2020,pacific lutheran,2020-02-17 11:00:00,W,6-5,6.0,5.0,1.0,11.0,True,close,1
+california-lutheran,2020,pacific lutheran,2020-02-17 13:00:00,L,6-10,6.0,10.0,-4.0,16.0,False,moderate,0
+california-lutheran,2020,pomona-pitzer,2020-02-28 13:00:00,L,6-18,6.0,18.0,-12.0,24.0,False,blowout,0
+california-lutheran,2020,pomona-pitzer,2020-02-29 12:00:00,W,5-3,5.0,3.0,2.0,8.0,True,close,1
+california-lutheran,2020,pomona-pitzer,2020-02-29 14:00:00,L,4-14,4.0,14.0,-10.0,18.0,False,blowout,0
+california-lutheran,2020,la-verne,2020-03-06 14:00:00,W,4-1,4.0,1.0,3.0,5.0,True,moderate,1
+california-lutheran,2020,la-verne,2020-03-07 12:00:00,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+california-lutheran,2020,la-verne,2020-03-07 14:00:00,L,3-11,3.0,11.0,-8.0,14.0,False,blowout,0
+california-lutheran,2020,willamette,2020-03-21 12:00:00,,,,,,,False,,0
+california-lutheran,2020,willamette,,,,,,,,False,,0
+california-lutheran,2020,lewis clark,2020-03-22 12:00:00,,,,,,,False,,0
+california-lutheran,2020,lewis clark,2020-03-22 14:00:00,,,,,,,False,,0
+california-lutheran,2020,redlands,2020-03-27 14:00:00,,,,,,,False,,0
+california-lutheran,2020,redlands,2020-03-28 12:00:00,,,,,,,False,,0
+california-lutheran,2020,redlands,,,,,,,,False,,0
+california-lutheran,2020,whittier,2020-04-03 14:00:00,,,,,,,False,,0
+california-lutheran,2020,whittier,2020-04-04 12:00:00,,,,,,,False,,0
+california-lutheran,2020,whittier,2020-04-04 14:00:00,,,,,,,False,,0
+california-lutheran,2020,chapman,2020-04-10 14:00:00,,,,,,,False,,0
+california-lutheran,2020,chapman,2020-04-11 12:00:00,,,,,,,False,,0
+california-lutheran,2020,chapman,2020-04-11 14:00:00,,,,,,,False,,0
+california-lutheran,2020,claremont-mudd-scripps,2020-04-17 14:00:00,,,,,,,False,,0
+california-lutheran,2020,claremont-mudd-scripps,2020-04-18 12:00:00,,,,,,,False,,0
+california-lutheran,2020,claremont-mudd-scripps,2020-04-18 14:00:00,,,,,,,False,,0
+california-lutheran,2020,occidental,2020-04-24 14:00:00,,,,,,,False,,0
+california-lutheran,2020,occidental,2020-04-25 12:00:00,,,,,,,False,,0
+california-lutheran,2020,occidental,2020-04-25 14:00:00,,,,,,,False,,0
+california-lutheran,2021,chapman,2021-04-02 14:00:00,W,5-1,5.0,1.0,4.0,6.0,True,moderate,1
+california-lutheran,2021,chapman,2021-04-03 12:00:00,L,7-9,7.0,9.0,-2.0,16.0,False,close,0
+california-lutheran,2021,chapman,2021-04-03 14:00:00,L,0-13,0.0,13.0,-13.0,13.0,False,blowout,0
+california-lutheran,2021,redlands,2021-04-09 14:00:00,L,0-11,0.0,11.0,-11.0,11.0,False,blowout,0
+california-lutheran,2021,redlands,2021-04-10 12:00:00,L,1-10,1.0,10.0,-9.0,11.0,False,blowout,0
+california-lutheran,2021,redlands,,L,4-5,4.0,5.0,-1.0,9.0,False,close,0
+california-lutheran,2021,chapman,2021-04-23 14:00:00,L,3-11,3.0,11.0,-8.0,14.0,False,blowout,0
+california-lutheran,2021,chapman,2021-04-24 12:00:00,L,0-12,0.0,12.0,-12.0,12.0,False,blowout,0
+california-lutheran,2021,chapman,,L,2-7,2.0,7.0,-5.0,9.0,False,blowout,0
+california-lutheran,2021,redlands,2021-05-01 12:00:00,L,1-6,1.0,6.0,-5.0,7.0,False,blowout,0
+california-lutheran,2021,redlands,,L,1-11,1.0,11.0,-10.0,12.0,False,blowout,0
+california-lutheran,2021,redlands,2021-05-02 14:00:00,L,2-10,2.0,10.0,-8.0,12.0,False,blowout,0
+california-lutheran,2021,la-verne,2021-05-07 14:00:00,L,1-14,1.0,14.0,-13.0,15.0,False,blowout,0
+california-lutheran,2021,la-verne,2021-05-09 12:00:00,L,7-14,7.0,14.0,-7.0,21.0,False,blowout,0
+california-lutheran,2021,la-verne,2021-05-09 14:00:00,W,6-5,6.0,5.0,1.0,11.0,True,close,1
+california-lutheran,2021,redlands,2021-05-14 12:00:00,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+california-lutheran,2021,la-verne,2021-05-15 10:00:00,W,8-7,8.0,7.0,1.0,15.0,True,close,1
+california-lutheran,2021,chapman,,L,3-8,3.0,8.0,-5.0,11.0,False,blowout,0
+california-lutheran,2022,vanguard,2022-02-01 13:00:00,,,,,,,False,,0
+california-lutheran,2022,vanguard,2022-02-01 15:00:00,,,,,,,False,,0
+california-lutheran,2022,vanguard,2022-02-08 13:00:00,L,0-10,0.0,10.0,-10.0,10.0,False,blowout,0
+california-lutheran,2022,vanguard,2022-02-08 15:00:00,L,4-7,4.0,7.0,-3.0,11.0,False,moderate,0
+california-lutheran,2022,whitworth,2022-02-18 13:00:00,L,4-5,4.0,5.0,-1.0,9.0,False,close,0
+california-lutheran,2022,whitworth,2022-02-18 15:00:00,L,2-11,2.0,11.0,-9.0,13.0,False,blowout,0
+california-lutheran,2022,pacific lutheran,2022-02-21 11:00:00,L,0-10,0.0,10.0,-10.0,10.0,False,blowout,0
+california-lutheran,2022,pacific lutheran,2022-02-21 13:00:00,L,0-14,0.0,14.0,-14.0,14.0,False,blowout,0
+california-lutheran,2022,claremont-mudd-scripps,2022-02-25 14:00:00,W,11-9,11.0,9.0,2.0,20.0,True,close,1
+california-lutheran,2022,claremont-mudd-scripps,2022-02-26 12:00:00,L,2-5,2.0,5.0,-3.0,7.0,False,moderate,0
+california-lutheran,2022,claremont-mudd-scripps,2022-02-26 14:00:00,L,1-7,1.0,7.0,-6.0,8.0,False,blowout,0
+california-lutheran,2022,chapman,2022-03-05 12:00:00,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+california-lutheran,2022,chapman,2022-03-05 14:00:00,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+california-lutheran,2022,chapman,2022-03-06 12:00:00,L,1-10,1.0,10.0,-9.0,11.0,False,blowout,0
+california-lutheran,2022,carnegie mellon,2022-03-08 13:00:00,L,15-16,15.0,16.0,-1.0,31.0,False,close,0
+california-lutheran,2022,carnegie mellon,2022-03-08 15:00:00,W,6-5,6.0,5.0,1.0,11.0,True,close,1
+california-lutheran,2022,of texas-dallas,2022-03-12 12:00:00,L,4-12,4.0,12.0,-8.0,16.0,False,blowout,0
+california-lutheran,2022,of texas-dallas,2022-03-12 14:00:00,L,3-5,3.0,5.0,-2.0,8.0,False,close,0
+california-lutheran,2022,dickinson,2022-03-14 13:00:00,W,11-9,11.0,9.0,2.0,20.0,True,close,1
+california-lutheran,2022,dickinson,,W,8-7,8.0,7.0,1.0,15.0,True,close,1
+california-lutheran,2022,viterbo,2022-03-15 10:00:00,W,18-6,18.0,6.0,12.0,24.0,True,blowout,1
+california-lutheran,2022,dakota st,,L,4-5,4.0,5.0,-1.0,9.0,False,close,0
+california-lutheran,2022,dickinson,2022-03-16 13:00:00,W,6-0,6.0,0.0,6.0,6.0,True,blowout,1
+california-lutheran,2022,dickinson,,W,19-11,19.0,11.0,8.0,30.0,True,blowout,1
+california-lutheran,2022,pomona-pitzer,2022-04-01 15:00:00,L,3-13,3.0,13.0,-10.0,16.0,False,blowout,0
+california-lutheran,2022,pomona-pitzer,2022-04-02 12:00:00,L,1-6,1.0,6.0,-5.0,7.0,False,blowout,0
+california-lutheran,2022,pomona-pitzer,2022-04-02 14:00:00,L,4-10,4.0,10.0,-6.0,14.0,False,blowout,0
+california-lutheran,2022,redlands,2022-04-08 15:00:00,L,7-9,7.0,9.0,-2.0,16.0,False,close,0
+california-lutheran,2022,redlands,2022-04-09 12:00:00,L,6-12,6.0,12.0,-6.0,18.0,False,blowout,0
+california-lutheran,2022,redlands,2022-04-09 14:00:00,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+california-lutheran,2022,occidental,2022-04-15 15:00:00,W,8-6,8.0,6.0,2.0,14.0,True,close,1
+california-lutheran,2022,occidental,2022-04-16 12:00:00,L,1-6,1.0,6.0,-5.0,7.0,False,blowout,0
+california-lutheran,2022,occidental,2022-04-16 14:00:00,W,5-4,5.0,4.0,1.0,9.0,True,close,1
+california-lutheran,2022,la-verne,2022-04-22 15:00:00,L,5-6,5.0,6.0,-1.0,11.0,False,close,0
+california-lutheran,2022,la-verne,2022-04-23 12:00:00,L,0-1,0.0,1.0,-1.0,1.0,False,close,0
+california-lutheran,2022,la-verne,2022-04-23 14:00:00,L,2-8,2.0,8.0,-6.0,10.0,False,blowout,0
+california-lutheran,2022,whittier,2022-04-30 12:00:00,L,5-12,5.0,12.0,-7.0,17.0,False,blowout,0
+california-lutheran,2022,whittier,2022-05-01 12:00:00,W,5-2,5.0,2.0,3.0,7.0,True,moderate,1
+california-lutheran,2022,whittier,2022-05-01 14:00:00,W,9-5,9.0,5.0,4.0,14.0,True,moderate,1
+california-lutheran,2023,of antelope valley,2023-01-29 12:00:00,,,,,,,False,,0
+california-lutheran,2023,of antelope valley,2023-01-29 14:00:00,,,,,,,False,,0
+california-lutheran,2023,st katherine,2023-02-04 12:00:00,,,,,,,False,,0
+california-lutheran,2023,st katherine,2023-02-04 14:00:00,,,,,,,False,,0
+california-lutheran,2023,pacific,2023-02-12 10:00:00,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+california-lutheran,2023,pacific,2023-02-12 12:00:00,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+california-lutheran,2023,puget sound,2023-02-16 12:00:00,W,5-0,5.0,0.0,5.0,5.0,True,blowout,1
+california-lutheran,2023,puget sound,2023-02-16 14:00:00,L,3-8,3.0,8.0,-5.0,11.0,False,blowout,0
+california-lutheran,2023,lewis clark,2023-02-18 12:00:00,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+california-lutheran,2023,lewis clark,2023-02-18 14:00:00,L,1-4,1.0,4.0,-3.0,5.0,False,moderate,0
+california-lutheran,2023,westcliff,2023-02-24 17:00:00,,,,,,,False,,0
+california-lutheran,2023,westcliff,2023-02-24 19:00:00,,,,,,,False,,0
+california-lutheran,2023,manhattanville,2023-03-05 12:00:00,L,1-5,1.0,5.0,-4.0,6.0,False,moderate,0
+california-lutheran,2023,manhattanville,2023-03-05 14:00:00,W,14-10,14.0,10.0,4.0,24.0,True,moderate,1
+california-lutheran,2023,la sierra,2023-03-07 14:00:00,L,3-5,3.0,5.0,-2.0,8.0,False,close,0
+california-lutheran,2023,wittenberg,2023-03-09 13:00:00,W,3-1,3.0,1.0,2.0,4.0,True,close,1
+california-lutheran,2023,wittenberg,2023-03-09 15:00:00,W,10-8,10.0,8.0,2.0,18.0,True,close,1
+california-lutheran,2023,north central,2023-03-12 12:00:00,L,0-2,0.0,2.0,-2.0,2.0,False,close,0
+california-lutheran,2023,north central,2023-03-12 14:00:00,W,12-4,12.0,4.0,8.0,16.0,True,blowout,1
+california-lutheran,2023,williams,2023-03-22 13:00:00,,,,,,,False,,0
+california-lutheran,2023,williams,2023-03-22 15:00:00,,,,,,,False,,0
+california-lutheran,2023,claremont-mudd-scripps,2023-03-24 15:00:00,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+california-lutheran,2023,claremont-mudd-scripps,2023-03-25 12:00:00,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+california-lutheran,2023,claremont-mudd-scripps,2023-03-25 14:00:00,L,3-6,3.0,6.0,-3.0,9.0,False,moderate,0
+california-lutheran,2023,chapman,2023-03-31 15:00:00,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+california-lutheran,2023,chapman,2023-04-01 12:00:00,L,0-4,0.0,4.0,-4.0,4.0,False,moderate,0
+california-lutheran,2023,chapman,2023-04-01 14:00:00,L,0-4,0.0,4.0,-4.0,4.0,False,moderate,0
+california-lutheran,2023,pomona-pitzer,2023-04-07 15:00:00,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+california-lutheran,2023,pomona-pitzer,2023-04-08 12:00:00,L,4-5,4.0,5.0,-1.0,9.0,False,close,0
+california-lutheran,2023,pomona-pitzer,2023-04-08 14:00:00,L,0-2,0.0,2.0,-2.0,2.0,False,close,0
+california-lutheran,2023,redlands,2023-04-14 15:00:00,L,4-7,4.0,7.0,-3.0,11.0,False,moderate,0
+california-lutheran,2023,redlands,2023-04-15 12:00:00,L,0-4,0.0,4.0,-4.0,4.0,False,moderate,0
+california-lutheran,2023,redlands,2023-04-15 14:00:00,L,6-9,6.0,9.0,-3.0,15.0,False,moderate,0
+california-lutheran,2023,occidental,2023-04-21 15:00:00,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+california-lutheran,2023,occidental,2023-04-22 12:00:00,L,0-4,0.0,4.0,-4.0,4.0,False,moderate,0
+california-lutheran,2023,occidental,2023-04-22 14:00:00,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+california-lutheran,2023,la-verne,2023-04-28 15:00:00,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+california-lutheran,2023,la-verne,2023-04-29 12:00:00,W,4-2,4.0,2.0,2.0,6.0,True,close,1
+california-lutheran,2023,la-verne,2023-04-29 14:00:00,W,8-3,8.0,3.0,5.0,11.0,True,blowout,1
+california-lutheran,2023,whittier,2023-05-05 15:00:00,W,9-0,9.0,0.0,9.0,9.0,True,blowout,1
+california-lutheran,2023,whittier,2023-05-06 12:00:00,W,6-5,6.0,5.0,1.0,11.0,True,close,1
+california-lutheran,2023,whittier,2023-05-06 14:00:00,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+california-lutheran,2024,birmingham-southern,,W,11-3,11.0,3.0,8.0,14.0,True,blowout,1
+california-lutheran,2024,piedmont,,L,2-7,2.0,7.0,-5.0,9.0,False,blowout,0
+california-lutheran,2024,mount st joseph,,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+california-lutheran,2024,piedmont,,W,9-7,9.0,7.0,2.0,16.0,True,close,1
+california-lutheran,2024,emory,,L,4-5,4.0,5.0,-1.0,9.0,False,close,0
+california-lutheran,2024,emory,,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+california-lutheran,2024,baldwin wallace,2024-03-04 12:00:00,W,3-0,3.0,0.0,3.0,3.0,True,moderate,1
+california-lutheran,2024,baldwin wallace,2024-03-04 14:00:00,L,4-8,4.0,8.0,-4.0,12.0,False,moderate,0
+california-lutheran,2024,carnegie mellon,2024-03-06 11:00:00,,,,,,,False,,0
+california-lutheran,2024,carnegie mellon,2024-03-06 14:00:00,,,,,,,False,,0
+california-lutheran,2024,williams,2024-03-17 13:00:00,L,0-1,0.0,1.0,-1.0,1.0,False,close,0
+california-lutheran,2024,williams,2024-03-17 15:00:00,L,1-3,1.0,3.0,-2.0,4.0,False,close,0
+california-lutheran,2024,occidental,2024-03-22 15:00:00,W,6-0,6.0,0.0,6.0,6.0,True,blowout,1
+california-lutheran,2024,occidental,2024-03-26 13:00:00,W,4-1,4.0,1.0,3.0,5.0,True,moderate,1
+california-lutheran,2024,occidental,2024-03-26 15:00:00,W,1-0,1.0,0.0,1.0,1.0,True,close,1
+california-lutheran,2024,la-verne,2024-03-29 12:00:00,W,5-0,5.0,0.0,5.0,5.0,True,blowout,1
+california-lutheran,2024,la-verne,2024-03-29 14:00:00,L,1-10,1.0,10.0,-9.0,11.0,False,blowout,0
+california-lutheran,2024,claremont-mudd-scripps,2024-04-05 15:00:00,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+california-lutheran,2024,claremont-mudd-scripps,2024-04-06 12:00:00,L,0-5,0.0,5.0,-5.0,5.0,False,blowout,0
+california-lutheran,2024,claremont-mudd-scripps,2024-04-06 14:00:00,W,8-1,8.0,1.0,7.0,9.0,True,blowout,1
+california-lutheran,2024,la-verne,2024-04-09 16:00:00,W,4-1,4.0,1.0,3.0,5.0,True,moderate,1
+california-lutheran,2024,whittier,2024-04-12 15:00:00,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+california-lutheran,2024,pomona-pitzer,2024-04-19 15:00:00,L,5-11,5.0,11.0,-6.0,16.0,False,blowout,0
+california-lutheran,2024,pomona-pitzer,2024-04-20 12:00:00,L,3-7,3.0,7.0,-4.0,10.0,False,moderate,0
+california-lutheran,2024,pomona-pitzer,2024-04-20 14:00:00,W,3-1,3.0,1.0,2.0,4.0,True,close,1
+california-lutheran,2024,chapman,2024-04-26 15:00:00,W,7-2,7.0,2.0,5.0,9.0,True,blowout,1
+california-lutheran,2024,chapman,2024-04-27 12:00:00,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+california-lutheran,2024,chapman,2024-04-27 14:00:00,L,3-6,3.0,6.0,-3.0,9.0,False,moderate,0
+california-lutheran,2024,whittier,2024-04-28 12:00:00,L,6-8,6.0,8.0,-2.0,14.0,False,close,0
+california-lutheran,2024,whittier,2024-04-28 14:00:00,W,6-1,6.0,1.0,5.0,7.0,True,blowout,1
+california-lutheran,2024,redlands,2024-05-03 15:00:00,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+california-lutheran,2024,redlands,2024-05-04 12:00:00,W,7-6,7.0,6.0,1.0,13.0,True,close,1
+california-lutheran,2024,redlands,2024-05-04 14:00:00,L,2-11,2.0,11.0,-9.0,13.0,False,blowout,0
+california-lutheran,2024,redlands,2024-05-10 13:00:00,L,2-5,2.0,5.0,-3.0,7.0,False,moderate,0
+california-lutheran,2024,claremont-mudd-scripps,2024-05-11 11:00:00,W,7-3,7.0,3.0,4.0,10.0,True,moderate,1
+california-lutheran,2024,chapman,2024-05-11 16:00:00,L,0-9,0.0,9.0,-9.0,9.0,False,blowout,0
+california-lutheran,2025,ventura,2025-02-10 14:00:00,,,,,,,False,,0
+california-lutheran,2025,grace,2025-02-22 12:00:00,W,11-0,11.0,0.0,11.0,11.0,True,blowout,1
+california-lutheran,2025,grace,2025-02-22 14:00:00,W,10-0,10.0,0.0,10.0,10.0,True,blowout,1
+california-lutheran,2025,george fox,2025-03-02 12:00:00,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+california-lutheran,2025,george fox,2025-03-02 14:00:00,L,4-6,4.0,6.0,-2.0,10.0,False,close,0
+california-lutheran,2025,susquehanna,2025-03-03 12:00:00,W,9-2,9.0,2.0,7.0,11.0,True,blowout,1
+california-lutheran,2025,susquehanna,2025-03-03 14:00:00,W,9-1,9.0,1.0,8.0,10.0,True,blowout,1
+california-lutheran,2025,la-verne,2025-03-16 11:00:00,L,0-4,0.0,4.0,-4.0,4.0,False,moderate,0
+california-lutheran,2025,la-verne,,W,12-5,12.0,5.0,7.0,17.0,True,blowout,1
+california-lutheran,2025,occidental,2025-03-21 15:00:00,W,7-4,7.0,4.0,3.0,11.0,True,moderate,1
+california-lutheran,2025,occidental,2025-03-22 12:00:00,W,9-1,9.0,1.0,8.0,10.0,True,blowout,1
+california-lutheran,2025,occidental,2025-03-22 14:00:00,W,11-3,11.0,3.0,8.0,14.0,True,blowout,1
+california-lutheran,2025,whitworth,2025-03-23 12:00:00,W,10-4,10.0,4.0,6.0,14.0,True,blowout,1
+california-lutheran,2025,whitworth,2025-03-23 14:00:00,W,9-1,9.0,1.0,8.0,10.0,True,blowout,1
+california-lutheran,2025,carleton,2025-03-25 13:00:00,W,10-1,10.0,1.0,9.0,11.0,True,blowout,1
+california-lutheran,2025,carleton,2025-03-25 15:00:00,L,0-6,0.0,6.0,-6.0,6.0,False,blowout,0
+california-lutheran,2025,linfield,2025-03-28 13:00:00,L,6-9,6.0,9.0,-3.0,15.0,False,moderate,0
+california-lutheran,2025,linfield,2025-03-28 15:00:00,L,0-9,0.0,9.0,-9.0,9.0,False,blowout,0
+california-lutheran,2025,claremont-mudd-scripps,2025-04-04 15:00:00,W,3-1,3.0,1.0,2.0,4.0,True,close,1
+california-lutheran,2025,claremont-mudd-scripps,2025-04-05 12:00:00,L,0-2,0.0,2.0,-2.0,2.0,False,close,0
+california-lutheran,2025,claremont-mudd-scripps,2025-04-05 14:00:00,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+california-lutheran,2025,whittier,2025-04-11 15:00:00,W,2-0,2.0,0.0,2.0,2.0,True,close,1
+california-lutheran,2025,whittier,2025-04-12 12:00:00,W,9-3,9.0,3.0,6.0,12.0,True,blowout,1
+california-lutheran,2025,whittier,2025-04-12 14:00:00,W,7-2,7.0,2.0,5.0,9.0,True,blowout,1
+california-lutheran,2025,la-verne,2025-04-15 15:00:00,W,6-2,6.0,2.0,4.0,8.0,True,moderate,1
+california-lutheran,2025,pomona-pitzer,2025-04-18 15:00:00,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+california-lutheran,2025,pomona-pitzer,2025-04-19 12:00:00,L,0-5,0.0,5.0,-5.0,5.0,False,blowout,0
+california-lutheran,2025,pomona-pitzer,2025-04-19 14:00:00,L,7-8,7.0,8.0,-1.0,15.0,False,close,0
+california-lutheran,2025,chapman,2025-04-25 15:00:00,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+california-lutheran,2025,chapman,2025-04-26 15:00:00,L,1-3,1.0,3.0,-2.0,4.0,False,close,0
+california-lutheran,2025,chapman,2025-04-26 17:00:00,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+california-lutheran,2025,redlands,2025-05-02 15:00:00,L,0-2,0.0,2.0,-2.0,2.0,False,close,0
+california-lutheran,2025,redlands,2025-05-03 12:00:00,L,4-7,4.0,7.0,-3.0,11.0,False,moderate,0
+california-lutheran,2025,redlands,2025-05-03 14:00:00,L,4-9,4.0,9.0,-5.0,13.0,False,blowout,0
+redlands,2019,riverside city,,,,,,,,False,,0
+redlands,2019,la sierra,2019-01-25 13:00:00,,,,,,,False,,0
+redlands,2019,alumnae,2019-01-26 13:00:00,,,,,,,False,,0
+redlands,2019,puget sound,,W,10-1,10.0,1.0,9.0,11.0,True,blowout,1
+redlands,2019,puget sound,,W,3-1,3.0,1.0,2.0,4.0,True,close,1
+redlands,2019,whitworth,2019-02-11 11:00:00,L,2-13,2.0,13.0,-11.0,15.0,False,blowout,0
+redlands,2019,whitworth,2019-02-11 13:00:00,L,1-9,1.0,9.0,-8.0,10.0,False,blowout,0
+redlands,2019,occidental,2019-02-16 12:00:00,L,1-7,1.0,7.0,-6.0,8.0,False,blowout,0
+redlands,2019,occidental,2019-02-16 14:00:00,W,6-1,6.0,1.0,5.0,7.0,True,blowout,1
+redlands,2019,la-verne,2019-02-23 12:00:00,L,4-6,4.0,6.0,-2.0,10.0,False,close,0
+redlands,2019,la-verne,2019-02-23 14:00:00,W,4-2,4.0,2.0,2.0,6.0,True,close,1
+redlands,2019,chapman,2019-03-01 13:00:00,L,6-8,6.0,8.0,-2.0,14.0,False,close,0
+redlands,2019,chapman,2019-03-01 15:00:00,L,4-5,4.0,5.0,-1.0,9.0,False,close,0
+redlands,2019,hiram,2019-03-07 10:00:00,W,8-3,8.0,3.0,5.0,11.0,True,blowout,1
+redlands,2019,hiram,2019-03-07 12:00:00,L,4-6,4.0,6.0,-2.0,10.0,False,close,0
+redlands,2019,pomona-pitzer,2019-03-09 12:00:00,L,5-13,5.0,13.0,-8.0,18.0,False,blowout,0
+redlands,2019,pomona-pitzer,2019-03-09 14:00:00,L,5-6,5.0,6.0,-1.0,11.0,False,close,0
+redlands,2019,alfred,2019-03-11 12:00:00,L,3-10,3.0,10.0,-7.0,13.0,False,blowout,0
+redlands,2019,alfred,2019-03-11 14:00:00,W,10-2,10.0,2.0,8.0,12.0,True,blowout,1
+redlands,2019,manhattanville,2019-03-12 12:00:00,L,0-5,0.0,5.0,-5.0,5.0,False,blowout,0
+redlands,2019,manhattanville,2019-03-12 14:00:00,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+redlands,2019,california-lutheran,2019-03-16 12:00:00,W,11-3,11.0,3.0,8.0,14.0,True,blowout,1
+redlands,2019,california-lutheran,2019-03-16 14:00:00,W,4-1,4.0,1.0,3.0,5.0,True,moderate,1
+redlands,2019,whittier,2019-03-17 12:00:00,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+redlands,2019,whittier,2019-03-17 14:00:00,L,0-9,0.0,9.0,-9.0,9.0,False,blowout,0
+redlands,2019,willamette,2019-03-26 12:00:00,W,5-2,5.0,2.0,3.0,7.0,True,moderate,1
+redlands,2019,willamette,,W,16-3,16.0,3.0,13.0,19.0,True,blowout,1
+redlands,2019,claremont-mudd-scripps,2019-03-29 14:00:00,L,0-5,0.0,5.0,-5.0,5.0,False,blowout,0
+redlands,2019,claremont-mudd-scripps,2019-03-29 16:00:00,L,4-11,4.0,11.0,-7.0,15.0,False,blowout,0
+redlands,2019,occidental,2019-03-30 12:00:00,W,8-4,8.0,4.0,4.0,12.0,True,moderate,1
+redlands,2019,occidental,2019-03-30 14:00:00,W,9-5,9.0,5.0,4.0,14.0,True,moderate,1
+redlands,2019,la-verne,2019-04-06 12:00:00,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+redlands,2019,la-verne,2019-04-06 14:00:00,L,4-5,4.0,5.0,-1.0,9.0,False,close,0
+redlands,2019,whittier,2019-04-12 14:00:00,L,4-11,4.0,11.0,-7.0,15.0,False,blowout,0
+redlands,2019,whittier,2019-04-12 16:00:00,L,1-10,1.0,10.0,-9.0,11.0,False,blowout,0
+redlands,2019,pomona-pitzer,2019-04-13 12:00:00,L,8-11,8.0,11.0,-3.0,19.0,False,moderate,0
+redlands,2019,pomona-pitzer,2019-04-13 14:00:00,L,3-7,3.0,7.0,-4.0,10.0,False,moderate,0
+redlands,2019,claremont-mudd-scripps,2019-04-19 14:00:00,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+redlands,2019,claremont-mudd-scripps,2019-04-19 16:00:00,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+redlands,2019,california-lutheran,2019-04-20 12:00:00,W,10-7,10.0,7.0,3.0,17.0,True,moderate,1
+redlands,2019,california-lutheran,2019-04-20 14:00:00,L,11-13,11.0,13.0,-2.0,24.0,False,close,0
+redlands,2019,chapman,2019-04-27 12:00:00,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+redlands,2019,chapman,2019-04-27 14:00:00,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+redlands,2020,alumnae,2020-01-25 13:00:00,,,,,,,False,,0
+redlands,2020,whitworth,2020-02-07 12:00:00,L,3-5,3.0,5.0,-2.0,8.0,False,close,0
+redlands,2020,whitworth,,W,5-2,5.0,2.0,3.0,7.0,True,moderate,1
+redlands,2020,chapman,2020-02-14 13:00:00,W,8-7,8.0,7.0,1.0,15.0,True,close,1
+redlands,2020,chapman,2020-02-15 12:00:00,W,7-5,7.0,5.0,2.0,12.0,True,close,1
+redlands,2020,chapman,,W,8-3,8.0,3.0,5.0,11.0,True,blowout,1
+redlands,2020,george fox,2020-02-20 12:00:00,W,6-4,6.0,4.0,2.0,10.0,True,close,1
+redlands,2020,george fox,,L,0-14,0.0,14.0,-14.0,14.0,False,blowout,0
+redlands,2020,brandeis,2020-02-21 12:00:00,W,8-7,8.0,7.0,1.0,15.0,True,close,1
+redlands,2020,brandeis,,W,6-0,6.0,0.0,6.0,6.0,True,blowout,1
+redlands,2020,la-verne,2020-02-28 15:00:00,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+redlands,2020,la-verne,2020-02-29 12:00:00,W,8-2,8.0,2.0,6.0,10.0,True,blowout,1
+redlands,2020,la-verne,,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+redlands,2020,pomona-pitzer,2020-03-06 13:00:00,W,5-2,5.0,2.0,3.0,7.0,True,moderate,1
+redlands,2020,pomona-pitzer,2020-03-07 12:00:00,W,4-2,4.0,2.0,2.0,6.0,True,close,1
+redlands,2020,pomona-pitzer,,W,9-7,9.0,7.0,2.0,16.0,True,close,1
+redlands,2020,wpi,2020-03-12 13:00:00,,,,,,,False,,0
+redlands,2020,wpi,,,,,,,,False,,0
+redlands,2020,dallas,2020-03-14 12:00:00,,,,,,,False,,0
+redlands,2020,dallas,2020-03-14 14:00:00,,,,,,,False,,0
+redlands,2020,willamette,2020-03-23 13:00:00,,,,,,,False,,0
+redlands,2020,willamette,,,,,,,,False,,0
+redlands,2020,lewis clark,2020-03-25 12:00:00,,,,,,,False,,0
+redlands,2020,lewis clark,,,,,,,,False,,0
+redlands,2020,california-lutheran,2020-03-27 14:00:00,,,,,,,False,,0
+redlands,2020,california-lutheran,2020-03-28 12:00:00,,,,,,,False,,0
+redlands,2020,california-lutheran,,,,,,,,False,,0
+redlands,2020,occidental,2020-04-03 14:00:00,,,,,,,False,,0
+redlands,2020,occidental,2020-04-04 12:00:00,,,,,,,False,,0
+redlands,2020,occidental,,,,,,,,False,,0
+redlands,2020,whittier,2020-04-10 14:00:00,,,,,,,False,,0
+redlands,2020,whittier,2020-04-11 12:00:00,,,,,,,False,,0
+redlands,2020,whittier,,,,,,,,False,,0
+redlands,2020,claremont-mudd-scripps,2020-04-24 14:00:00,,,,,,,False,,0
+redlands,2020,claremont-mudd-scripps,2020-04-25 12:00:00,,,,,,,False,,0
+redlands,2020,claremont-mudd-scripps,,,,,,,,False,,0
+redlands,2021,concordia,2021-03-27 12:00:00,L,0-3,0.0,3.0,-3.0,3.0,False,moderate,0
+redlands,2021,concordia,,L,7-8,7.0,8.0,-1.0,15.0,False,close,0
+redlands,2021,azusa pacific,2021-04-01 17:00:00,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+redlands,2021,azusa pacific,2021-04-01 19:00:00,L,1-3,1.0,3.0,-2.0,4.0,False,close,0
+redlands,2021,california-lutheran,2021-04-09 14:00:00,W,11-0,11.0,0.0,11.0,11.0,True,blowout,1
+redlands,2021,california-lutheran,2021-04-10 12:00:00,W,10-1,10.0,1.0,9.0,11.0,True,blowout,1
+redlands,2021,california-lutheran,,W,5-4,5.0,4.0,1.0,9.0,True,close,1
+redlands,2021,chapman,2021-04-16 14:00:00,W,2-0,2.0,0.0,2.0,2.0,True,close,1
+redlands,2021,chapman,2021-04-18 12:00:00,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+redlands,2021,chapman,,W,8-1,8.0,1.0,7.0,9.0,True,blowout,1
+redlands,2021,california-lutheran,2021-05-01 12:00:00,W,6-1,6.0,1.0,5.0,7.0,True,blowout,1
+redlands,2021,california-lutheran,,W,11-1,11.0,1.0,10.0,12.0,True,blowout,1
+redlands,2021,california-lutheran,2021-05-02 14:00:00,W,10-2,10.0,2.0,8.0,12.0,True,blowout,1
+redlands,2021,la-verne,2021-05-05 16:00:00,,,,,,,False,,0
+redlands,2021,la-verne,2021-05-05 18:00:00,,,,,,,False,,0
+redlands,2021,chapman,2021-05-08 12:00:00,L,0-3,0.0,3.0,-3.0,3.0,False,moderate,0
+redlands,2021,chapman,,W,12-6,12.0,6.0,6.0,18.0,True,blowout,1
+redlands,2021,chapman,2021-05-09 11:00:00,W,16-3,16.0,3.0,13.0,19.0,True,blowout,1
+redlands,2021,california-lutheran,2021-05-14 12:00:00,W,4-2,4.0,2.0,2.0,6.0,True,close,1
+redlands,2021,chapman,2021-05-15 13:00:00,W,9-2,9.0,2.0,7.0,11.0,True,blowout,1
+redlands,2021,chapman,2021-05-16 11:00:00,W,6-2,6.0,2.0,4.0,8.0,True,moderate,1
+redlands,2021,birmingham southern,2021-05-21 14:00:00,L,4-5,4.0,5.0,-1.0,9.0,False,close,0
+redlands,2021,east tex baptist,2021-05-22 11:00:00,L,1-6,1.0,6.0,-5.0,7.0,False,blowout,0
+redlands,2022,riverside cc,2022-10-15 16:00:00,,,,,,,False,,0
+redlands,2022,alumnae,2022-01-29 13:00:00,,,,,,,False,,0
+redlands,2022,saint katherine,2022-02-01 11:00:00,W,5-2,5.0,2.0,3.0,7.0,True,moderate,1
+redlands,2022,saint katherine,2022-02-01 13:00:00,W,9-0,9.0,0.0,9.0,9.0,True,blowout,1
+redlands,2022,puget sound,2022-02-12 11:00:00,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+redlands,2022,puget sound,2022-02-12 13:00:00,W,10-2,10.0,2.0,8.0,12.0,True,blowout,1
+redlands,2022,pomona-pitzer,2022-02-18 14:00:00,W,8-3,8.0,3.0,5.0,11.0,True,blowout,1
+redlands,2022,pomona-pitzer,2022-02-19 12:00:00,W,7-4,7.0,4.0,3.0,11.0,True,moderate,1
+redlands,2022,pomona-pitzer,2022-02-19 14:00:00,W,10-1,10.0,1.0,9.0,11.0,True,blowout,1
+redlands,2022,whitworth,2022-02-20 10:00:00,L,1-4,1.0,4.0,-3.0,5.0,False,moderate,0
+redlands,2022,whitworth,2022-02-20 12:00:00,L,0-3,0.0,3.0,-3.0,3.0,False,moderate,0
+redlands,2022,brandeis,2022-02-26 10:00:00,W,5-2,5.0,2.0,3.0,7.0,True,moderate,1
+redlands,2022,brandeis,2022-02-26 12:00:00,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+redlands,2022,bridgewater,2022-02-27 12:00:00,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+redlands,2022,bridgewater,2022-02-27 14:00:00,L,1-14,1.0,14.0,-13.0,15.0,False,blowout,0
+redlands,2022,whittier,2022-03-04 14:00:00,W,7-4,7.0,4.0,3.0,11.0,True,moderate,1
+redlands,2022,whittier,2022-03-05 12:00:00,L,10-20,10.0,20.0,-10.0,30.0,False,blowout,0
+redlands,2022,whittier,2022-03-05 14:00:00,L,2-6,2.0,6.0,-4.0,8.0,False,moderate,0
+redlands,2022,carnegie mellon,2022-03-06 11:00:00,,,,,,,False,,0
+redlands,2022,carnegie mellon,2022-03-06 13:00:00,,,,,,,False,,0
+redlands,2022,rochester,2022-03-07 12:00:00,,,,,,,False,,0
+redlands,2022,rochester,2022-03-07 14:00:00,,,,,,,False,,0
+redlands,2022,wpi,2022-03-09 14:00:00,,,,,,,False,,0
+redlands,2022,wpi,2022-03-09 16:00:00,,,,,,,False,,0
+redlands,2022,claremont-mudd-scripps,2022-03-18 15:00:00,W,8-3,8.0,3.0,5.0,11.0,True,blowout,1
+redlands,2022,claremont-mudd-scripps,2022-03-19 12:00:00,L,6-9,6.0,9.0,-3.0,15.0,False,moderate,0
+redlands,2022,claremont-mudd-scripps,2022-03-19 14:00:00,L,7-10,7.0,10.0,-3.0,17.0,False,moderate,0
+redlands,2022,willamette,2022-03-24 12:00:00,L,10-11,10.0,11.0,-1.0,21.0,False,close,0
+redlands,2022,willamette,2022-03-24 14:00:00,W,5-4,5.0,4.0,1.0,9.0,True,close,1
+redlands,2022,lewis clark,2022-03-26 12:00:00,W,10-2,10.0,2.0,8.0,12.0,True,blowout,1
+redlands,2022,lewis clark,2022-03-26 14:00:00,W,8-7,8.0,7.0,1.0,15.0,True,close,1
+redlands,2022,depauw,2022-03-29 15:00:00,L,0-4,0.0,4.0,-4.0,4.0,False,moderate,0
+redlands,2022,chapman,2022-04-01 15:00:00,W,3-1,3.0,1.0,2.0,4.0,True,close,1
+redlands,2022,chapman,2022-04-02 12:00:00,L,3-16,3.0,16.0,-13.0,19.0,False,blowout,0
+redlands,2022,chapman,2022-04-02 14:00:00,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+redlands,2022,california-lutheran,2022-04-08 15:00:00,W,9-7,9.0,7.0,2.0,16.0,True,close,1
+redlands,2022,california-lutheran,2022-04-09 12:00:00,W,12-6,12.0,6.0,6.0,18.0,True,blowout,1
+redlands,2022,california-lutheran,2022-04-09 14:00:00,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+redlands,2022,la-verne,2022-04-15 15:00:00,W,10-0,10.0,0.0,10.0,10.0,True,blowout,1
+redlands,2022,la-verne,2022-04-16 12:00:00,W,6-1,6.0,1.0,5.0,7.0,True,blowout,1
+redlands,2022,la-verne,2022-04-16 14:00:00,W,5-4,5.0,4.0,1.0,9.0,True,close,1
+redlands,2022,occidental,2022-04-29 15:00:00,W,5-4,5.0,4.0,1.0,9.0,True,close,1
+redlands,2022,occidental,2022-04-30 12:00:00,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+redlands,2022,occidental,2022-04-30 14:00:00,W,12-2,12.0,2.0,10.0,14.0,True,blowout,1
+redlands,2022,pomona-pitzer,,L,0-10,0.0,10.0,-10.0,10.0,False,blowout,0
+redlands,2022,la-verne,2022-05-07 11:00:00,W,8-5,8.0,5.0,3.0,13.0,True,moderate,1
+redlands,2022,pomona-pitzer,,W,8-7,8.0,7.0,1.0,15.0,True,close,1
+redlands,2022,chapman,2022-05-08 12:00:00,L,2-5,2.0,5.0,-3.0,7.0,False,moderate,0
+redlands,2023,el camino,2023-01-21 11:00:00,,,,,,,False,,0
+redlands,2023,el camino,2023-01-21 13:00:00,,,,,,,False,,0
+redlands,2023,alumni,2023-01-28 13:00:00,,,,,,,False,,0
+redlands,2023,pacific lutheran,,L,6-8,6.0,8.0,-2.0,14.0,False,close,0
+redlands,2023,whitworth,2023-02-17 12:00:00,L,2-7,2.0,7.0,-5.0,9.0,False,blowout,0
+redlands,2023,whitworth,,W,13-5,13.0,5.0,8.0,18.0,True,blowout,1
+redlands,2023,no linfield,2023-02-18 11:00:00,L,0-1,0.0,1.0,-1.0,1.0,False,close,0
+redlands,2023,no linfield,2023-02-18 13:00:00,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+redlands,2023,la-verne,2023-03-02 15:00:00,L,5-9,5.0,9.0,-4.0,14.0,False,moderate,0
+redlands,2023,la-verne,2023-03-02 17:00:00,W,5-4,5.0,4.0,1.0,9.0,True,close,1
+redlands,2023,baldwin wallace,2023-03-04 11:00:00,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+redlands,2023,baldwin wallace,,W,5-3,5.0,3.0,2.0,8.0,True,close,1
+redlands,2023,alfred,2023-03-06 12:00:00,W,4-0,4.0,0.0,4.0,4.0,True,moderate,1
+redlands,2023,alfred,2023-03-06 14:00:00,W,9-6,9.0,6.0,3.0,15.0,True,moderate,1
+redlands,2023,wis-la crosse,2023-03-11 10:00:00,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+redlands,2023,central,,L,3-14,3.0,14.0,-11.0,17.0,False,blowout,0
+redlands,2023,rit,2023-03-12 11:00:00,W,10-2,10.0,2.0,8.0,12.0,True,blowout,1
+redlands,2023,rensselaer,,L,5-7,5.0,7.0,-2.0,12.0,False,close,0
+redlands,2023,north central,,W,16-0,16.0,0.0,16.0,16.0,True,blowout,1
+redlands,2023,williams,2023-03-20 12:00:00,L,1-3,1.0,3.0,-2.0,4.0,False,close,0
+redlands,2023,williams,2023-03-20 14:00:00,W,7-0,7.0,0.0,7.0,7.0,True,blowout,1
+redlands,2023,whittier,2023-03-24 15:00:00,W,7-2,7.0,2.0,5.0,9.0,True,blowout,1
+redlands,2023,whittier,2023-03-25 12:00:00,W,5-4,5.0,4.0,1.0,9.0,True,close,1
+redlands,2023,whittier,2023-03-25 14:00:00,W,6-3,6.0,3.0,3.0,9.0,True,moderate,1
+redlands,2023,pomona-pitzer,2023-03-31 15:00:00,L,3-6,3.0,6.0,-3.0,9.0,False,moderate,0
+redlands,2023,pomona-pitzer,2023-04-01 12:00:00,W,7-6,7.0,6.0,1.0,13.0,True,close,1
+redlands,2023,pomona-pitzer,2023-04-01 14:00:00,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+redlands,2023,chapman,2023-04-07 15:00:00,L,5-9,5.0,9.0,-4.0,14.0,False,moderate,0
+redlands,2023,chapman,2023-04-08 12:00:00,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+redlands,2023,chapman,2023-04-08 14:00:00,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+redlands,2023,la-verne,2023-04-11 15:00:00,W,4-1,4.0,1.0,3.0,5.0,True,moderate,1
+redlands,2023,california-lutheran,2023-04-14 15:00:00,W,7-4,7.0,4.0,3.0,11.0,True,moderate,1
+redlands,2023,california-lutheran,2023-04-15 12:00:00,W,4-0,4.0,0.0,4.0,4.0,True,moderate,1
+redlands,2023,california-lutheran,2023-04-15 14:00:00,W,9-6,9.0,6.0,3.0,15.0,True,moderate,1
+redlands,2023,claremont-mudd-scripps,2023-04-28 15:00:00,W,6-2,6.0,2.0,4.0,8.0,True,moderate,1
+redlands,2023,claremont-mudd-scripps,2023-04-29 11:00:00,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+redlands,2023,claremont-mudd-scripps,2023-04-29 13:00:00,W,4-1,4.0,1.0,3.0,5.0,True,moderate,1
+redlands,2023,occidental,2023-05-05 15:00:00,W,3-0,3.0,0.0,3.0,3.0,True,moderate,1
+redlands,2023,occidental,2023-05-06 12:00:00,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+redlands,2023,occidental,2023-05-06 14:00:00,L,1-4,1.0,4.0,-3.0,5.0,False,moderate,0
+redlands,2023,chapman,,W,10-4,10.0,4.0,6.0,14.0,True,blowout,1
+redlands,2023,pomona-pitzer,,W,5-0,5.0,0.0,5.0,5.0,True,blowout,1
+redlands,2023,chapman,2023-05-14 12:00:00,L,0-2,0.0,2.0,-2.0,2.0,False,close,0
+redlands,2023,chapman,2023-05-14 14:00:00,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+redlands,2023,no linfield,2023-05-18 16:00:00,L,6-7,6.0,7.0,-1.0,13.0,False,close,0
+redlands,2023,no linfield,2023-05-19 14:00:00,L,0-14,0.0,14.0,-14.0,14.0,False,blowout,0
+redlands,2023,no linfield,,L,0-7,0.0,7.0,-7.0,7.0,False,blowout,0
+redlands,2024,riverside city,,,,,,,,False,,0
+redlands,2024,california baptist,,,,,,,,False,,0
+redlands,2024,alumni,,,,,,,,False,,0
+redlands,2024,of saint katherine,,,,,,,,False,,0
+redlands,2024,of saint katherine,,,,,,,,False,,0
+redlands,2024,chapman,,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+redlands,2024,claremont-mudd-scripps,,W,15-7,15.0,7.0,8.0,22.0,True,blowout,1
+redlands,2024,la sierra,,W,10-2,10.0,2.0,8.0,12.0,True,blowout,1
+redlands,2024,whitworth,,L,5-7,5.0,7.0,-2.0,12.0,False,close,0
+redlands,2024,whitworth,,W,9-4,9.0,4.0,5.0,13.0,True,blowout,1
+redlands,2024,pacific lutheran,,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+redlands,2024,pacific lutheran,,W,7-3,7.0,3.0,4.0,10.0,True,moderate,1
+redlands,2024,york of pennsylvania,,W,11-1,11.0,1.0,10.0,12.0,True,blowout,1
+redlands,2024,york of pennsylvania,,W,15-7,15.0,7.0,8.0,22.0,True,blowout,1
+redlands,2024,carnegie mellon,,L,0-1,0.0,1.0,-1.0,1.0,False,close,0
+redlands,2024,carnegie mellon,,W,6-3,6.0,3.0,3.0,9.0,True,moderate,1
+redlands,2024,baldwin wallace,,L,0-6,0.0,6.0,-6.0,6.0,False,blowout,0
+redlands,2024,baldwin wallace,,W,8-3,8.0,3.0,5.0,11.0,True,blowout,1
+redlands,2024,john carroll,,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+redlands,2024,john carroll,,W,9-1,9.0,1.0,8.0,10.0,True,blowout,1
+redlands,2024,la-verne,,W,9-1,9.0,1.0,8.0,10.0,True,blowout,1
+redlands,2024,la-verne,,L,3-5,3.0,5.0,-2.0,8.0,False,close,0
+redlands,2024,la-verne,,W,6-5,6.0,5.0,1.0,11.0,True,close,1
+redlands,2024,williams,,W,5-0,5.0,0.0,5.0,5.0,True,blowout,1
+redlands,2024,williams,,W,6-5,6.0,5.0,1.0,11.0,True,close,1
+redlands,2024,pomona-pitzer,,W,11-2,11.0,2.0,9.0,13.0,True,blowout,1
+redlands,2024,pomona-pitzer,,W,6-3,6.0,3.0,3.0,9.0,True,moderate,1
+redlands,2024,pomona-pitzer,,L,0-5,0.0,5.0,-5.0,5.0,False,blowout,0
+redlands,2024,linfield,,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+redlands,2024,linfield,,L,9-11,9.0,11.0,-2.0,20.0,False,close,0
+redlands,2024,chapman,,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+redlands,2024,chapman,,L,1-9,1.0,9.0,-8.0,10.0,False,blowout,0
+redlands,2024,whittier,,W,8-6,8.0,6.0,2.0,14.0,True,close,1
+redlands,2024,whittier,,W,5-4,5.0,4.0,1.0,9.0,True,close,1
+redlands,2024,whittier,,W,16-8,16.0,8.0,8.0,24.0,True,blowout,1
+redlands,2024,claremont-mudd-scripps,,W,6-5,6.0,5.0,1.0,11.0,True,close,1
+redlands,2024,claremont-mudd-scripps,,W,11-0,11.0,0.0,11.0,11.0,True,blowout,1
+redlands,2024,claremont-mudd-scripps,,L,1-3,1.0,3.0,-2.0,4.0,False,close,0
+redlands,2024,chapman,,W,6-3,6.0,3.0,3.0,9.0,True,moderate,1
+redlands,2024,occidental,,W,7-6,7.0,6.0,1.0,13.0,True,close,1
+redlands,2024,occidental,,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+redlands,2024,occidental,,W,9-1,9.0,1.0,8.0,10.0,True,blowout,1
+redlands,2024,california-lutheran,,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+redlands,2024,california-lutheran,,L,6-7,6.0,7.0,-1.0,13.0,False,close,0
+redlands,2024,california-lutheran,,W,11-2,11.0,2.0,9.0,13.0,True,blowout,1
+redlands,2024,california-lutheran,,W,5-2,5.0,2.0,3.0,7.0,True,moderate,1
+redlands,2024,chapman,,,,,,,,False,,0
+redlands,2024,california-lutheran,,,,,,,,False,,0
+redlands,2024,chapman,,W,6-3,6.0,3.0,3.0,9.0,True,moderate,1
+redlands,2024,chapman,,,,,,,,False,,0
+redlands,2024,chapman,,W,6-0,6.0,0.0,6.0,6.0,True,blowout,1
+redlands,2024,linfield,,L,3-11,3.0,11.0,-8.0,14.0,False,blowout,0
+redlands,2024,linfield,,W,4-2,4.0,2.0,2.0,6.0,True,close,1
+redlands,2024,linfield,,L,7-17,7.0,17.0,-10.0,24.0,False,blowout,0
+redlands,2024,linfield,,L,2-7,2.0,7.0,-5.0,9.0,False,blowout,0
+redlands,2025,riverside city,,,,,,,,False,,0
+redlands,2025,csu bakersfield,,,,,,,,False,,0
+redlands,2025,alumni,,,,,,,,False,,0
+redlands,2025,grace,,,,,,,,False,,0
+redlands,2025,grace,,,,,,,,False,,0
+redlands,2025,hope international,,L,0-1,0.0,1.0,-1.0,1.0,False,close,0
+redlands,2025,pomona-pitzer,,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+redlands,2025,pomona-pitzer,,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+redlands,2025,pomona-pitzer,,W,8-7,8.0,7.0,1.0,15.0,True,close,1
+redlands,2025,occidental,,W,9-1,9.0,1.0,8.0,10.0,True,blowout,1
+redlands,2025,occidental,,W,13-5,13.0,5.0,8.0,18.0,True,blowout,1
+redlands,2025,occidental,,W,8-1,8.0,1.0,7.0,9.0,True,blowout,1
+redlands,2025,wartburg,,W,13-4,13.0,4.0,9.0,17.0,True,blowout,1
+redlands,2025,pfeiffer,,W,4-2,4.0,2.0,2.0,6.0,True,close,1
+redlands,2025,of saint benedict,,W,11-3,11.0,3.0,8.0,14.0,True,blowout,1
+redlands,2025,belhaven,,W,12-9,12.0,9.0,3.0,21.0,True,moderate,1
+redlands,2025,piedmont,,W,17-2,17.0,2.0,15.0,19.0,True,blowout,1
+redlands,2025,huntingdon,,W,9-5,9.0,5.0,4.0,14.0,True,moderate,1
+redlands,2025,susquehanna,,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+redlands,2025,susquehanna,,W,9-1,9.0,1.0,8.0,10.0,True,blowout,1
+redlands,2025,case western reserve,,W,8-6,8.0,6.0,2.0,14.0,True,close,1
+redlands,2025,case western reserve,,W,10-2,10.0,2.0,8.0,12.0,True,blowout,1
+redlands,2025,washington in st louis,,W,4-2,4.0,2.0,2.0,6.0,True,close,1
+redlands,2025,washington in st louis,,L,4-7,4.0,7.0,-3.0,11.0,False,moderate,0
+redlands,2025,whitworth,,W,11-3,11.0,3.0,8.0,14.0,True,blowout,1
+redlands,2025,whitworth,,W,4-1,4.0,1.0,3.0,5.0,True,moderate,1
+redlands,2025,williams,,L,1-5,1.0,5.0,-4.0,6.0,False,moderate,0
+redlands,2025,williams,,W,5-2,5.0,2.0,3.0,7.0,True,moderate,1
+redlands,2025,chapman,,L,0-2,0.0,2.0,-2.0,2.0,False,close,0
+redlands,2025,chapman,,L,4-5,4.0,5.0,-1.0,9.0,False,close,0
+redlands,2025,chapman,,W,6-1,6.0,1.0,5.0,7.0,True,blowout,1
+redlands,2025,linfield,,L,8-12,8.0,12.0,-4.0,20.0,False,moderate,0
+redlands,2025,linfield,,W,6-2,6.0,2.0,4.0,8.0,True,moderate,1
+redlands,2025,whittier,,W,7-3,7.0,3.0,4.0,10.0,True,moderate,1
+redlands,2025,whittier,,W,9-4,9.0,4.0,5.0,13.0,True,blowout,1
+redlands,2025,whittier,,W,5-0,5.0,0.0,5.0,5.0,True,blowout,1
+redlands,2025,claremont-mudd-scripps,,W,9-1,9.0,1.0,8.0,10.0,True,blowout,1
+redlands,2025,claremont-mudd-scripps,,W,5-4,5.0,4.0,1.0,9.0,True,close,1
+redlands,2025,claremont-mudd-scripps,,W,4-1,4.0,1.0,3.0,5.0,True,moderate,1
+redlands,2025,la-verne,,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+redlands,2025,la-verne,,W,11-3,11.0,3.0,8.0,14.0,True,blowout,1
+redlands,2025,la-verne,,W,6-1,6.0,1.0,5.0,7.0,True,blowout,1
+redlands,2025,california-lutheran,,W,2-0,2.0,0.0,2.0,2.0,True,close,1
+redlands,2025,california-lutheran,,W,7-4,7.0,4.0,3.0,11.0,True,moderate,1
+redlands,2025,california-lutheran,,W,9-4,9.0,4.0,5.0,13.0,True,blowout,1
+redlands,2025,claremont-mudd-scripps,,L,6-7,6.0,7.0,-1.0,13.0,False,close,0
+redlands,2025,pomona-pitzer,,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+redlands,2025,chapman,,L,5-7,5.0,7.0,-2.0,12.0,False,close,0
+redlands,2025,lake forest,,W,13-5,13.0,5.0,8.0,18.0,True,blowout,1
+redlands,2025,wartburg,,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+redlands,2025,washington in st louis,,W,2-0,2.0,0.0,2.0,2.0,True,close,1
+redlands,2025,emory,,W,12-4,12.0,4.0,8.0,16.0,True,blowout,1
+redlands,2025,emory,,W,13-2,13.0,2.0,11.0,15.0,True,blowout,1
+redlands,2025,trine,,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+redlands,2025,texas lutheran,,W,2-0,2.0,0.0,2.0,2.0,True,close,1
+redlands,2025,linfield,,L,1-9,1.0,9.0,-8.0,10.0,False,blowout,0
+chapman,2019,alumni,2019-02-02 11:00:00,,,,,,,False,,0
+chapman,2019,whitworth,2019-02-10 17:00:00,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+chapman,2019,whitworth,2019-02-10 19:00:00,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+chapman,2019,claremont-mudd-scripps,2019-02-16 12:00:00,L,1-4,1.0,4.0,-3.0,5.0,False,moderate,0
+chapman,2019,claremont-mudd-scripps,2019-02-16 14:00:00,L,1-3,1.0,3.0,-2.0,4.0,False,close,0
+chapman,2019,whittier,2019-02-23 12:00:00,L,5-6,5.0,6.0,-1.0,11.0,False,close,0
+chapman,2019,whittier,2019-02-23 14:00:00,L,4-5,4.0,5.0,-1.0,9.0,False,close,0
+chapman,2019,redlands,2019-03-01 13:00:00,W,8-6,8.0,6.0,2.0,14.0,True,close,1
+chapman,2019,redlands,2019-03-01 15:00:00,W,5-4,5.0,4.0,1.0,9.0,True,close,1
+chapman,2019,occidental,2019-03-09 12:00:00,W,13-3,13.0,3.0,10.0,16.0,True,blowout,1
+chapman,2019,occidental,2019-03-09 14:00:00,W,12-9,12.0,9.0,3.0,21.0,True,moderate,1
+chapman,2019,ithaca,2019-03-10 11:00:00,L,1-4,1.0,4.0,-3.0,5.0,False,moderate,0
+chapman,2019,ithaca,2019-03-10 13:00:00,L,2-6,2.0,6.0,-4.0,8.0,False,moderate,0
+chapman,2019,berry,2019-03-12 14:00:00,L,5-8,5.0,8.0,-3.0,13.0,False,moderate,0
+chapman,2019,berry,2019-03-12 16:00:00,L,3-11,3.0,11.0,-8.0,14.0,False,blowout,0
+chapman,2019,alfred,2019-03-13 15:00:00,L,0-1,0.0,1.0,-1.0,1.0,False,close,0
+chapman,2019,alfred,2019-03-13 17:00:00,W,11-3,11.0,3.0,8.0,14.0,True,blowout,1
+chapman,2019,pomona-pitzer,2019-03-16 12:00:00,L,5-6,5.0,6.0,-1.0,11.0,False,close,0
+chapman,2019,pomona-pitzer,2019-03-16 14:00:00,W,6-2,6.0,2.0,4.0,8.0,True,moderate,1
+chapman,2019,williams,2019-03-17 13:00:00,L,0-5,0.0,5.0,-5.0,5.0,False,blowout,0
+chapman,2019,williams,2019-03-17 15:00:00,L,1-4,1.0,4.0,-3.0,5.0,False,moderate,0
+chapman,2019,cortland,2019-03-18 12:00:00,L,4-5,4.0,5.0,-1.0,9.0,False,close,0
+chapman,2019,cortland,2019-03-18 14:00:00,L,2-9,2.0,9.0,-7.0,11.0,False,blowout,0
+chapman,2019,la-verne,2019-03-29 14:00:00,W,3-1,3.0,1.0,2.0,4.0,True,close,1
+chapman,2019,la-verne,2019-03-29 16:00:00,W,10-3,10.0,3.0,7.0,13.0,True,blowout,1
+chapman,2019,claremont-mudd-scripps,2019-03-30 12:00:00,L,7-12,7.0,12.0,-5.0,19.0,False,blowout,0
+chapman,2019,claremont-mudd-scripps,2019-03-30 14:00:00,L,4-7,4.0,7.0,-3.0,11.0,False,moderate,0
+chapman,2019,california-lutheran,2019-04-03 14:00:00,W,9-1,9.0,1.0,8.0,10.0,True,blowout,1
+chapman,2019,california-lutheran,2019-04-03 16:00:00,W,11-10,11.0,10.0,1.0,21.0,True,close,1
+chapman,2019,whittier,2019-04-06 12:00:00,W,5-2,5.0,2.0,3.0,7.0,True,moderate,1
+chapman,2019,whittier,2019-04-06 14:00:00,W,10-9,10.0,9.0,1.0,19.0,True,close,1
+chapman,2019,california-lutheran,2019-04-12 14:00:00,W,15-11,15.0,11.0,4.0,26.0,True,moderate,1
+chapman,2019,california-lutheran,2019-04-12 16:00:00,W,14-3,14.0,3.0,11.0,17.0,True,blowout,1
+chapman,2019,occidental,2019-04-13 12:00:00,W,6-5,6.0,5.0,1.0,11.0,True,close,1
+chapman,2019,occidental,2019-04-13 14:00:00,W,10-4,10.0,4.0,6.0,14.0,True,blowout,1
+chapman,2019,pomona-pitzer,2019-04-20 12:00:00,L,9-10,9.0,10.0,-1.0,19.0,False,close,0
+chapman,2019,pomona-pitzer,2019-04-20 14:00:00,L,6-15,6.0,15.0,-9.0,21.0,False,blowout,0
+chapman,2019,la-verne,2019-04-26 14:00:00,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+chapman,2019,la-verne,2019-04-26 16:00:00,L,4-6,4.0,6.0,-2.0,10.0,False,close,0
+chapman,2019,redlands,2019-04-27 12:00:00,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+chapman,2019,redlands,2019-04-27 14:00:00,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+chapman,2019,pomona-pitzer,,L,2-6,2.0,6.0,-4.0,8.0,False,moderate,0
+chapman,2019,claremont-mudd-scripps,2019-05-04 11:00:00,L,1-3,1.0,3.0,-2.0,4.0,False,close,0
+chapman,2020,vanguard,2020-02-01 12:00:00,L,3-13,3.0,13.0,-10.0,16.0,False,blowout,0
+chapman,2020,vanguard,2020-02-01 14:00:00,L,0-4,0.0,4.0,-4.0,4.0,False,moderate,0
+chapman,2020,claremont-mudd-scripps,2020-02-07 13:00:00,L,0-6,0.0,6.0,-6.0,6.0,False,blowout,0
+chapman,2020,claremont-mudd-scripps,2020-02-08 12:00:00,W,11-3,11.0,3.0,8.0,14.0,True,blowout,1
+chapman,2020,claremont-mudd-scripps,2020-02-08 14:00:00,L,1-5,1.0,5.0,-4.0,6.0,False,moderate,0
+chapman,2020,whitworth,,,,,,,,False,,0
+chapman,2020,whitworth,2020-02-09 14:00:00,,,,,,,False,,0
+chapman,2020,redlands,2020-02-14 13:00:00,L,7-8,7.0,8.0,-1.0,15.0,False,close,0
+chapman,2020,redlands,2020-02-15 12:00:00,L,5-7,5.0,7.0,-2.0,12.0,False,close,0
+chapman,2020,redlands,,L,3-8,3.0,8.0,-5.0,11.0,False,blowout,0
+chapman,2020,hope intl,2020-02-18 16:00:00,W,7-6,7.0,6.0,1.0,13.0,True,close,1
+chapman,2020,hope intl,2020-02-18 18:00:00,L,1-5,1.0,5.0,-4.0,6.0,False,moderate,0
+chapman,2020,occidental,2020-02-28 16:00:00,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+chapman,2020,occidental,2020-02-29 12:00:00,W,10-1,10.0,1.0,9.0,11.0,True,blowout,1
+chapman,2020,occidental,2020-02-29 14:00:00,W,5-3,5.0,3.0,2.0,8.0,True,close,1
+chapman,2020,whittier,2020-03-06 13:00:00,L,1-9,1.0,9.0,-8.0,10.0,False,blowout,0
+chapman,2020,whittier,2020-03-07 12:00:00,L,0-5,0.0,5.0,-5.0,5.0,False,blowout,0
+chapman,2020,whittier,2020-03-07 14:00:00,W,8-5,8.0,5.0,3.0,13.0,True,moderate,1
+chapman,2020,rochester,2020-03-11 15:00:00,,,,,,,False,,0
+chapman,2020,rochester,2020-03-11 17:00:00,,,,,,,False,,0
+chapman,2020,wpi,2020-03-14 11:00:00,,,,,,,False,,0
+chapman,2020,wpi,2020-03-14 13:00:00,,,,,,,False,,0
+chapman,2020,va wesleyan,2020-03-19 09:00:00,,,,,,,False,,0
+chapman,2020,babson,2020-03-20 08:00:00,,,,,,,False,,0
+chapman,2020,denison,2020-03-21 09:00:00,,,,,,,False,,0
+chapman,2020,denison,2020-03-21 11:00:00,,,,,,,False,,0
+chapman,2020,depauw,2020-03-22 09:00:00,,,,,,,False,,0
+chapman,2020,depauw,2020-03-22 11:00:00,,,,,,,False,,0
+chapman,2020,hawaii pacific,2020-03-23 13:00:00,,,,,,,False,,0
+chapman,2020,hawaii pacific,,,,,,,,False,,0
+chapman,2020,la-verne,2020-04-03 15:00:00,,,,,,,False,,0
+chapman,2020,la-verne,2020-04-04 12:00:00,,,,,,,False,,0
+chapman,2020,la-verne,2020-04-04 14:00:00,,,,,,,False,,0
+chapman,2020,california-lutheran,2020-04-10 14:00:00,,,,,,,False,,0
+chapman,2020,california-lutheran,2020-04-11 12:00:00,,,,,,,False,,0
+chapman,2020,california-lutheran,2020-04-11 14:00:00,,,,,,,False,,0
+chapman,2020,pomona-pitzer,2020-04-24 14:00:00,,,,,,,False,,0
+chapman,2020,pomona-pitzer,2020-04-25 12:00:00,,,,,,,False,,0
+chapman,2020,pomona-pitzer,2020-04-25 14:00:00,,,,,,,False,,0
+chapman,2021,vanguard,2021-03-26 14:00:00,L,0-15,0.0,15.0,-15.0,15.0,False,blowout,0
+chapman,2021,vanguard,2021-03-26 16:00:00,L,2-9,2.0,9.0,-7.0,11.0,False,blowout,0
+chapman,2021,california-lutheran,2021-04-02 14:00:00,L,1-5,1.0,5.0,-4.0,6.0,False,moderate,0
+chapman,2021,california-lutheran,2021-04-03 12:00:00,W,9-7,9.0,7.0,2.0,16.0,True,close,1
+chapman,2021,california-lutheran,2021-04-03 14:00:00,W,13-0,13.0,0.0,13.0,13.0,True,blowout,1
+chapman,2021,azusa pacific,2021-04-07 16:00:00,L,1-9,1.0,9.0,-8.0,10.0,False,blowout,0
+chapman,2021,azusa pacific,2021-04-07 18:00:00,L,3-10,3.0,10.0,-7.0,13.0,False,blowout,0
+chapman,2021,redlands,2021-04-16 14:00:00,L,0-2,0.0,2.0,-2.0,2.0,False,close,0
+chapman,2021,redlands,2021-04-18 12:00:00,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+chapman,2021,redlands,,L,1-8,1.0,8.0,-7.0,9.0,False,blowout,0
+chapman,2021,california-lutheran,2021-04-23 14:00:00,W,11-3,11.0,3.0,8.0,14.0,True,blowout,1
+chapman,2021,california-lutheran,2021-04-24 12:00:00,W,12-0,12.0,0.0,12.0,12.0,True,blowout,1
+chapman,2021,california-lutheran,,W,7-2,7.0,2.0,5.0,9.0,True,blowout,1
+chapman,2021,la-verne,2021-05-01 14:00:00,L,2-8,2.0,8.0,-6.0,10.0,False,blowout,0
+chapman,2021,la-verne,2021-05-01 16:00:00,W,11-3,11.0,3.0,8.0,14.0,True,blowout,1
+chapman,2021,la-verne,2021-05-02 14:00:00,W,11-4,11.0,4.0,7.0,15.0,True,blowout,1
+chapman,2021,redlands,2021-05-08 12:00:00,W,3-0,3.0,0.0,3.0,3.0,True,moderate,1
+chapman,2021,redlands,,L,6-12,6.0,12.0,-6.0,18.0,False,blowout,0
+chapman,2021,redlands,2021-05-09 11:00:00,L,3-16,3.0,16.0,-13.0,19.0,False,blowout,0
+chapman,2021,la-verne,2021-05-14 14:00:00,W,7-2,7.0,2.0,5.0,9.0,True,blowout,1
+chapman,2021,redlands,2021-05-15 13:00:00,L,2-9,2.0,9.0,-7.0,11.0,False,blowout,0
+chapman,2021,california-lutheran,,W,8-3,8.0,3.0,5.0,11.0,True,blowout,1
+chapman,2021,redlands,2021-05-16 11:00:00,L,2-6,2.0,6.0,-4.0,8.0,False,moderate,0
+chapman,2022,alumni game,2022-02-05 11:00:00,,,,,,,False,,0
+chapman,2022,westcliff,2022-02-08 15:00:00,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+chapman,2022,westcliff,2022-02-08 17:00:00,W,2-0,2.0,0.0,2.0,2.0,True,close,1
+chapman,2022,puget sound,2022-02-13 09:00:00,W,2-0,2.0,0.0,2.0,2.0,True,close,1
+chapman,2022,puget sound,2022-02-13 11:00:00,W,9-1,9.0,1.0,8.0,10.0,True,blowout,1
+chapman,2022,pacific lutheran,2022-02-20 12:00:00,W,8-4,8.0,4.0,4.0,12.0,True,moderate,1
+chapman,2022,pacific lutheran,2022-02-20 14:00:00,W,3-0,3.0,0.0,3.0,3.0,True,moderate,1
+chapman,2022,occidental,2022-02-26 12:00:00,W,4-1,4.0,1.0,3.0,5.0,True,moderate,1
+chapman,2022,occidental,2022-02-26 14:00:00,W,6-5,6.0,5.0,1.0,11.0,True,close,1
+chapman,2022,california-lutheran,2022-03-05 12:00:00,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+chapman,2022,california-lutheran,2022-03-05 14:00:00,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+chapman,2022,california-lutheran,2022-03-06 12:00:00,W,10-1,10.0,1.0,9.0,11.0,True,blowout,1
+chapman,2022,rochester,2022-03-08 16:00:00,W,8-1,8.0,1.0,7.0,9.0,True,blowout,1
+chapman,2022,rochester,2022-03-08 18:00:00,W,11-10,11.0,10.0,1.0,21.0,True,close,1
+chapman,2022,occidental,2022-03-11 14:00:00,W,3-0,3.0,0.0,3.0,3.0,True,moderate,1
+chapman,2022,wpi,2022-03-12 12:00:00,L,2-5,2.0,5.0,-3.0,7.0,False,moderate,0
+chapman,2022,wpi,2022-03-12 14:00:00,W,8-6,8.0,6.0,2.0,14.0,True,close,1
+chapman,2022,pomona-pitzer,2022-03-16 14:00:00,L,5-9,5.0,9.0,-4.0,14.0,False,moderate,0
+chapman,2022,westcliff,2022-03-17 15:00:00,W,6-0,6.0,0.0,6.0,6.0,True,blowout,1
+chapman,2022,westcliff,2022-03-17 17:00:00,W,7-0,7.0,0.0,7.0,7.0,True,blowout,1
+chapman,2022,depauw,2022-03-30 12:00:00,L,0-3,0.0,3.0,-3.0,3.0,False,moderate,0
+chapman,2022,depauw,2022-03-30 14:00:00,W,13-12,13.0,12.0,1.0,25.0,True,close,1
+chapman,2022,redlands,2022-04-01 15:00:00,L,1-3,1.0,3.0,-2.0,4.0,False,close,0
+chapman,2022,redlands,2022-04-02 12:00:00,W,16-3,16.0,3.0,13.0,19.0,True,blowout,1
+chapman,2022,redlands,2022-04-02 14:00:00,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+chapman,2022,pomona-pitzer,2022-04-08 15:00:00,L,1-11,1.0,11.0,-10.0,12.0,False,blowout,0
+chapman,2022,pomona-pitzer,2022-04-09 12:00:00,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+chapman,2022,pomona-pitzer,2022-04-09 14:00:00,W,3-0,3.0,0.0,3.0,3.0,True,moderate,1
+chapman,2022,claremont-mudd-scripps,2022-04-15 15:00:00,W,5-1,5.0,1.0,4.0,6.0,True,moderate,1
+chapman,2022,claremont-mudd-scripps,2022-04-16 12:00:00,L,1-6,1.0,6.0,-5.0,7.0,False,blowout,0
+chapman,2022,claremont-mudd-scripps,2022-04-16 14:00:00,L,0-2,0.0,2.0,-2.0,2.0,False,close,0
+chapman,2022,whittier,2022-04-22 15:00:00,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+chapman,2022,whittier,2022-04-23 12:00:00,L,4-6,4.0,6.0,-2.0,10.0,False,close,0
+chapman,2022,whittier,2022-04-23 14:00:00,W,8-6,8.0,6.0,2.0,14.0,True,close,1
+chapman,2022,la-verne,2022-04-29 15:00:00,W,5-2,5.0,2.0,3.0,7.0,True,moderate,1
+chapman,2022,la-verne,2022-04-30 12:00:00,L,3-6,3.0,6.0,-3.0,9.0,False,moderate,0
+chapman,2022,la-verne,2022-04-30 14:00:00,W,4-1,4.0,1.0,3.0,5.0,True,moderate,1
+chapman,2022,la-verne,2022-05-06 16:00:00,W,8-7,8.0,7.0,1.0,15.0,True,close,1
+chapman,2022,pomona-pitzer,,W,6-4,6.0,4.0,2.0,10.0,True,close,1
+chapman,2022,redlands,2022-05-08 12:00:00,W,5-2,5.0,2.0,3.0,7.0,True,moderate,1
+chapman,2022,texas lutheran,2022-05-13 19:00:00,L,1-9,1.0,9.0,-8.0,10.0,False,blowout,0
+chapman,2022,texas lutheran,2022-05-14 17:00:00,L,3-16,3.0,16.0,-13.0,19.0,False,blowout,0
+chapman,2022,texas lutheran,,L,0-5,0.0,5.0,-5.0,5.0,False,blowout,0
+chapman,2023,westcliff,2023-02-05 12:00:00,L,1-3,1.0,3.0,-2.0,4.0,False,close,0
+chapman,2023,westcliff,2023-02-05 14:00:00,W,4-2,4.0,2.0,2.0,6.0,True,close,1
+chapman,2023,pacific,,W,1-0,1.0,0.0,1.0,1.0,True,close,1
+chapman,2023,pacific lutheran,2023-02-12 11:00:00,L,3-5,3.0,5.0,-2.0,8.0,False,close,0
+chapman,2023,pacific lutheran,2023-02-12 13:00:00,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+chapman,2023,occidental,2023-03-04 15:00:00,W,13-4,13.0,4.0,9.0,17.0,True,blowout,1
+chapman,2023,occidental,2023-03-04 17:00:00,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+chapman,2023,wpi,2023-03-06 14:00:00,W,5-1,5.0,1.0,4.0,6.0,True,moderate,1
+chapman,2023,wpi,2023-03-06 16:00:00,W,8-4,8.0,4.0,4.0,12.0,True,moderate,1
+chapman,2023,alfred,2023-03-07 15:00:00,L,1-3,1.0,3.0,-2.0,4.0,False,close,0
+chapman,2023,alfred,2023-03-07 17:00:00,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+chapman,2023,buena vista,2023-03-08 14:00:00,W,8-2,8.0,2.0,6.0,10.0,True,blowout,1
+chapman,2023,buena vista,2023-03-08 16:00:00,W,7-2,7.0,2.0,5.0,9.0,True,blowout,1
+chapman,2023,manhattanville,2023-03-09 14:00:00,L,1-3,1.0,3.0,-2.0,4.0,False,close,0
+chapman,2023,manhattanville,2023-03-09 16:00:00,W,5-0,5.0,0.0,5.0,5.0,True,blowout,1
+chapman,2023,north central,2023-03-16 15:00:00,,,,,,,False,,0
+chapman,2023,north central,2023-03-16 17:00:00,,,,,,,False,,0
+chapman,2023,occidental,2023-03-24 15:00:00,W,3-1,3.0,1.0,2.0,4.0,True,close,1
+chapman,2023,whitworth,2023-03-25 14:00:00,L,0-5,0.0,5.0,-5.0,5.0,False,blowout,0
+chapman,2023,whitworth,2023-03-25 16:00:00,W,8-3,8.0,3.0,5.0,11.0,True,blowout,1
+chapman,2023,williams,2023-03-28 13:00:00,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+chapman,2023,williams,2023-03-28 15:00:00,W,9-8,9.0,8.0,1.0,17.0,True,close,1
+chapman,2023,california-lutheran,2023-03-31 15:00:00,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+chapman,2023,california-lutheran,2023-04-01 12:00:00,W,4-0,4.0,0.0,4.0,4.0,True,moderate,1
+chapman,2023,california-lutheran,2023-04-01 14:00:00,W,4-0,4.0,0.0,4.0,4.0,True,moderate,1
+chapman,2023,redlands,2023-04-07 15:00:00,W,9-5,9.0,5.0,4.0,14.0,True,moderate,1
+chapman,2023,redlands,2023-04-08 12:00:00,W,4-2,4.0,2.0,2.0,6.0,True,close,1
+chapman,2023,redlands,2023-04-08 14:00:00,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+chapman,2023,pomona-pitzer,2023-04-14 15:00:00,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+chapman,2023,pomona-pitzer,2023-04-15 12:00:00,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+chapman,2023,pomona-pitzer,2023-04-15 14:00:00,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+chapman,2023,claremont-mudd-scripps,2023-04-21 15:00:00,L,4-8,4.0,8.0,-4.0,12.0,False,moderate,0
+chapman,2023,claremont-mudd-scripps,2023-04-22 12:00:00,L,4-7,4.0,7.0,-3.0,11.0,False,moderate,0
+chapman,2023,claremont-mudd-scripps,2023-04-22 14:00:00,L,1-3,1.0,3.0,-2.0,4.0,False,close,0
+chapman,2023,whittier,2023-04-29 14:00:00,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+chapman,2023,whittier,2023-04-30 12:00:00,W,5-1,5.0,1.0,4.0,6.0,True,moderate,1
+chapman,2023,whittier,2023-04-30 14:00:00,W,9-3,9.0,3.0,6.0,12.0,True,blowout,1
+chapman,2023,la-verne,2023-05-05 19:00:00,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+chapman,2023,la-verne,2023-05-06 12:00:00,L,0-6,0.0,6.0,-6.0,6.0,False,blowout,0
+chapman,2023,la-verne,,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+chapman,2023,redlands,,L,4-10,4.0,10.0,-6.0,14.0,False,blowout,0
+chapman,2023,claremont-mudd-scripps,2023-05-13 10:00:00,W,7-3,7.0,3.0,4.0,10.0,True,moderate,1
+chapman,2023,pomona-pitzer,2023-05-13 16:00:00,W,4-1,4.0,1.0,3.0,5.0,True,moderate,1
+chapman,2023,redlands,2023-05-14 12:00:00,W,2-0,2.0,0.0,2.0,2.0,True,close,1
+chapman,2023,redlands,2023-05-14 14:00:00,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+chapman,2024,of saint katherine,,L,2-5,2.0,5.0,-3.0,7.0,False,moderate,0
+chapman,2024,redlands,,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+chapman,2024,claremont-mudd-scripps,,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+chapman,2024,westcliff,,L,2-5,2.0,5.0,-3.0,7.0,False,moderate,0
+chapman,2024,westcliff,,L,0-3,0.0,3.0,-3.0,3.0,False,moderate,0
+chapman,2024,brandeis,,W,9-1,9.0,1.0,8.0,10.0,True,blowout,1
+chapman,2024,pacific lutheran,,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+chapman,2024,pacific lutheran,,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+chapman,2024,of mary hardin-baylor,,,,,,,,False,,0
+chapman,2024,linfield,,,,,,,,False,,0
+chapman,2024,babson,,W,5-2,5.0,2.0,3.0,7.0,True,moderate,1
+chapman,2024,illinois wesleyan,,L,0-3,0.0,3.0,-3.0,3.0,False,moderate,0
+chapman,2024,central,,W,6-4,6.0,4.0,2.0,10.0,True,close,1
+chapman,2024,moravian,,W,12-1,12.0,1.0,11.0,13.0,True,blowout,1
+chapman,2024,baldwin-wallace,,L,5-6,5.0,6.0,-1.0,11.0,False,close,0
+chapman,2024,la-verne,,W,5-1,5.0,1.0,4.0,6.0,True,moderate,1
+chapman,2024,whittier,,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+chapman,2024,williams,,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+chapman,2024,williams,,L,1-6,1.0,6.0,-5.0,7.0,False,blowout,0
+chapman,2024,redlands,,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+chapman,2024,redlands,,W,9-1,9.0,1.0,8.0,10.0,True,blowout,1
+chapman,2024,pomona-pitzer,,W,6-1,6.0,1.0,5.0,7.0,True,blowout,1
+chapman,2024,pomona-pitzer,,W,12-4,12.0,4.0,8.0,16.0,True,blowout,1
+chapman,2024,pomona-pitzer,,W,1-0,1.0,0.0,1.0,1.0,True,close,1
+chapman,2024,whittier,,W,7-2,7.0,2.0,5.0,9.0,True,blowout,1
+chapman,2024,whittier,,W,4-1,4.0,1.0,3.0,5.0,True,moderate,1
+chapman,2024,occidental,,W,1-0,1.0,0.0,1.0,1.0,True,close,1
+chapman,2024,redlands,,L,3-6,3.0,6.0,-3.0,9.0,False,moderate,0
+chapman,2024,la-verne,,W,6-2,6.0,2.0,4.0,8.0,True,moderate,1
+chapman,2024,la-verne,,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+chapman,2024,la-verne,,W,7-6,7.0,6.0,1.0,13.0,True,close,1
+chapman,2024,occidental,,W,7-5,7.0,5.0,2.0,12.0,True,close,1
+chapman,2024,occidental,,W,2-0,2.0,0.0,2.0,2.0,True,close,1
+chapman,2024,california-lutheran,,L,2-7,2.0,7.0,-5.0,9.0,False,blowout,0
+chapman,2024,california-lutheran,,W,4-2,4.0,2.0,2.0,6.0,True,close,1
+chapman,2024,california-lutheran,,W,6-3,6.0,3.0,3.0,9.0,True,moderate,1
+chapman,2024,claremont-mudd-scripps,,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+chapman,2024,claremont-mudd-scripps,,L,2-12,2.0,12.0,-10.0,14.0,False,blowout,0
+chapman,2024,claremont-mudd-scripps,,W,7-3,7.0,3.0,4.0,10.0,True,moderate,1
+chapman,2024,claremont-mudd-scripps,,W,9-0,9.0,0.0,9.0,9.0,True,blowout,1
+chapman,2024,redlands,,L,3-6,3.0,6.0,-3.0,9.0,False,moderate,0
+chapman,2024,california-lutheran,,W,9-0,9.0,0.0,9.0,9.0,True,blowout,1
+chapman,2024,redlands,,L,0-6,0.0,6.0,-6.0,6.0,False,blowout,0
+chapman,2024,texas lutheran,,L,0-4,0.0,4.0,-4.0,4.0,False,moderate,0
+chapman,2024,simmons,,W,5-1,5.0,1.0,4.0,6.0,True,moderate,1
+chapman,2024,texas lutheran,,L,1-3,1.0,3.0,-2.0,4.0,False,close,0
+chapman,2025,austin,,W,12-2,12.0,2.0,10.0,14.0,True,blowout,1
+chapman,2025,austin,,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+chapman,2025,brandeis,,W,5-0,5.0,0.0,5.0,5.0,True,blowout,1
+chapman,2025,brandeis,,W,3-0,3.0,0.0,3.0,3.0,True,moderate,1
+chapman,2025,whittier,,L,0-1,0.0,1.0,-1.0,1.0,False,close,0
+chapman,2025,whittier,,W,6-4,6.0,4.0,2.0,10.0,True,close,1
+chapman,2025,of pittsburgh at bradford,,W,13-4,13.0,4.0,9.0,17.0,True,blowout,1
+chapman,2025,of pittsburgh at bradford,,W,10-2,10.0,2.0,8.0,12.0,True,blowout,1
+chapman,2025,susquehanna,,,,,,,,False,,0
+chapman,2025,susquehanna,,,,,,,,False,,0
+chapman,2025,illinois wesleyan,,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+chapman,2025,illinois wesleyan,,L,0-3,0.0,3.0,-3.0,3.0,False,moderate,0
+chapman,2025,haverford,,W,9-1,9.0,1.0,8.0,10.0,True,blowout,1
+chapman,2025,haverford,,W,10-6,10.0,6.0,4.0,16.0,True,moderate,1
+chapman,2025,case western reserve,,,,,,,,False,,0
+chapman,2025,case western reserve,,,,,,,,False,,0
+chapman,2025,whittier,,W,8-2,8.0,2.0,6.0,10.0,True,blowout,1
+chapman,2025,carleton,,W,2-0,2.0,0.0,2.0,2.0,True,close,1
+chapman,2025,carleton,,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+chapman,2025,williams,,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+chapman,2025,williams,,W,3-0,3.0,0.0,3.0,3.0,True,moderate,1
+chapman,2025,redlands,,W,2-0,2.0,0.0,2.0,2.0,True,close,1
+chapman,2025,redlands,,W,5-4,5.0,4.0,1.0,9.0,True,close,1
+chapman,2025,redlands,,L,1-6,1.0,6.0,-5.0,7.0,False,blowout,0
+chapman,2025,pomona-pitzer,,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+chapman,2025,pomona-pitzer,,W,7-0,7.0,0.0,7.0,7.0,True,blowout,1
+chapman,2025,pomona-pitzer,,W,5-3,5.0,3.0,2.0,8.0,True,close,1
+chapman,2025,occidental,,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+chapman,2025,occidental,,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+chapman,2025,occidental,,W,3-1,3.0,1.0,2.0,4.0,True,close,1
+chapman,2025,la-verne,,W,7-0,7.0,0.0,7.0,7.0,True,blowout,1
+chapman,2025,la-verne,,W,7-2,7.0,2.0,5.0,9.0,True,blowout,1
+chapman,2025,la-verne,,W,6-5,6.0,5.0,1.0,11.0,True,close,1
+chapman,2025,california-lutheran,,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+chapman,2025,california-lutheran,,W,3-1,3.0,1.0,2.0,4.0,True,close,1
+chapman,2025,california-lutheran,,W,4-2,4.0,2.0,2.0,6.0,True,close,1
+chapman,2025,claremont-mudd-scripps,,W,3-1,3.0,1.0,2.0,4.0,True,close,1
+chapman,2025,claremont-mudd-scripps,,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+chapman,2025,claremont-mudd-scripps,,L,1-8,1.0,8.0,-7.0,9.0,False,blowout,0
+chapman,2025,pomona-pitzer,,W,5-0,5.0,0.0,5.0,5.0,True,blowout,1
+chapman,2025,claremont-mudd-scripps,,L,0-7,0.0,7.0,-7.0,7.0,False,blowout,0
+chapman,2025,redlands,,W,7-5,7.0,5.0,2.0,12.0,True,close,1
+chapman,2025,claremont-mudd-scripps,,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+chapman,2025,claremont-mudd-scripps,,W,4-0,4.0,0.0,4.0,4.0,True,moderate,1
+chapman,2025,lewis clark,,L,4-7,4.0,7.0,-3.0,11.0,False,moderate,0
+chapman,2025,johnson wales,,W,5-0,5.0,0.0,5.0,5.0,True,blowout,1
+chapman,2025,lewis clark,,W,10-1,10.0,1.0,9.0,11.0,True,blowout,1
+chapman,2025,linfield,,L,3-5,3.0,5.0,-2.0,8.0,False,close,0
+pomona-pitzer,2019,puget sound,,W,5-3,5.0,3.0,2.0,8.0,True,close,1
+pomona-pitzer,2019,puget sound,,W,13-1,13.0,1.0,12.0,14.0,True,blowout,1
+pomona-pitzer,2019,whittier,,W,7-1,7.0,1.0,6.0,8.0,True,blowout,1
+pomona-pitzer,2019,whittier,,W,2-0,2.0,0.0,2.0,2.0,True,close,1
+pomona-pitzer,2019,linfield,,W,7-3,7.0,3.0,4.0,10.0,True,moderate,1
+pomona-pitzer,2019,linfield,,T,7-7,7.0,7.0,0.0,14.0,False,close,0
+pomona-pitzer,2019,occidental,2019-02-23 12:00:00,W,9-0,9.0,0.0,9.0,9.0,True,blowout,1
+pomona-pitzer,2019,occidental,2019-02-23 14:00:00,W,9-0,9.0,0.0,9.0,9.0,True,blowout,1
+pomona-pitzer,2019,claremont-mudd-scripps,2019-03-01 12:00:00,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+pomona-pitzer,2019,claremont-mudd-scripps,2019-03-01 14:00:00,L,0-2,0.0,2.0,-2.0,2.0,False,close,0
+pomona-pitzer,2019,hiram,2019-03-08 13:00:00,W,8-1,8.0,1.0,7.0,9.0,True,blowout,1
+pomona-pitzer,2019,hiram,2019-03-08 15:00:00,W,6-3,6.0,3.0,3.0,9.0,True,moderate,1
+pomona-pitzer,2019,redlands,2019-03-09 12:00:00,W,13-5,13.0,5.0,8.0,18.0,True,blowout,1
+pomona-pitzer,2019,redlands,2019-03-09 14:00:00,W,6-5,6.0,5.0,1.0,11.0,True,close,1
+pomona-pitzer,2019,alfred,2019-03-15 13:00:00,W,2-0,2.0,0.0,2.0,2.0,True,close,1
+pomona-pitzer,2019,alfred,2019-03-15 15:00:00,W,6-0,6.0,0.0,6.0,6.0,True,blowout,1
+pomona-pitzer,2019,chapman,2019-03-16 12:00:00,W,6-5,6.0,5.0,1.0,11.0,True,close,1
+pomona-pitzer,2019,chapman,2019-03-16 14:00:00,L,2-6,2.0,6.0,-4.0,8.0,False,moderate,0
+pomona-pitzer,2019,denison,2019-03-18 12:00:00,W,9-5,9.0,5.0,4.0,14.0,True,moderate,1
+pomona-pitzer,2019,denison,2019-03-18 14:00:00,L,3-9,3.0,9.0,-6.0,12.0,False,blowout,0
+pomona-pitzer,2019,la-verne,2019-03-23 12:00:00,W,6-0,6.0,0.0,6.0,6.0,True,blowout,1
+pomona-pitzer,2019,la-verne,2019-03-23 14:00:00,L,1-8,1.0,8.0,-7.0,9.0,False,blowout,0
+pomona-pitzer,2019,williams,,L,5-6,5.0,6.0,-1.0,11.0,False,close,0
+pomona-pitzer,2019,williams,,L,4-9,4.0,9.0,-5.0,13.0,False,blowout,0
+pomona-pitzer,2019,california-lutheran,2019-03-29 12:00:00,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+pomona-pitzer,2019,california-lutheran,2019-03-29 14:00:00,W,14-5,14.0,5.0,9.0,19.0,True,blowout,1
+pomona-pitzer,2019,whittier,2019-03-30 12:00:00,W,8-7,8.0,7.0,1.0,15.0,True,close,1
+pomona-pitzer,2019,whittier,2019-03-30 14:00:00,W,5-1,5.0,1.0,4.0,6.0,True,moderate,1
+pomona-pitzer,2019,occidental,2019-04-06 12:00:00,W,11-0,11.0,0.0,11.0,11.0,True,blowout,1
+pomona-pitzer,2019,occidental,2019-04-06 14:00:00,W,12-6,12.0,6.0,6.0,18.0,True,blowout,1
+pomona-pitzer,2019,claremont-mudd-scripps,2019-04-12 14:00:00,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+pomona-pitzer,2019,claremont-mudd-scripps,2019-04-12 16:00:00,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+pomona-pitzer,2019,redlands,2019-04-13 12:00:00,W,11-8,11.0,8.0,3.0,19.0,True,moderate,1
+pomona-pitzer,2019,redlands,2019-04-13 14:00:00,W,7-3,7.0,3.0,4.0,10.0,True,moderate,1
+pomona-pitzer,2019,chapman,2019-04-20 12:00:00,W,10-9,10.0,9.0,1.0,19.0,True,close,1
+pomona-pitzer,2019,chapman,2019-04-20 14:00:00,W,15-6,15.0,6.0,9.0,21.0,True,blowout,1
+pomona-pitzer,2019,california-lutheran,2019-04-26 14:00:00,W,11-1,11.0,1.0,10.0,12.0,True,blowout,1
+pomona-pitzer,2019,california-lutheran,2019-04-26 16:00:00,L,6-7,6.0,7.0,-1.0,13.0,False,close,0
+pomona-pitzer,2019,la-verne,2019-04-27 12:00:00,W,1-0,1.0,0.0,1.0,1.0,True,close,1
+pomona-pitzer,2019,la-verne,2019-04-27 14:00:00,L,2-10,2.0,10.0,-8.0,12.0,False,blowout,0
+pomona-pitzer,2019,chapman,,W,6-2,6.0,2.0,4.0,8.0,True,moderate,1
+pomona-pitzer,2019,whittier,,W,6-5,6.0,5.0,1.0,11.0,True,close,1
+pomona-pitzer,2019,whittier,2019-05-05 12:00:00,L,3-5,3.0,5.0,-2.0,8.0,False,close,0
+pomona-pitzer,2019,whittier,2019-05-05 15:00:00,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+pomona-pitzer,2020,puget sound,,W,8-4,8.0,4.0,4.0,12.0,True,moderate,1
+pomona-pitzer,2020,puget sound,,,,,,,,False,,0
+pomona-pitzer,2020,whitworth,2020-02-08 12:00:00,W,6-5,6.0,5.0,1.0,11.0,True,close,1
+pomona-pitzer,2020,whitworth,2020-02-08 14:00:00,L,4-12,4.0,12.0,-8.0,16.0,False,blowout,0
+pomona-pitzer,2020,alumni game,2020-02-15 14:00:00,,,,,,,False,,0
+pomona-pitzer,2020,vanguard,2020-02-23 13:00:00,L,0-6,0.0,6.0,-6.0,6.0,False,blowout,0
+pomona-pitzer,2020,vanguard,2020-02-23 15:00:00,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+pomona-pitzer,2020,california-lutheran,2020-02-28 13:00:00,W,18-6,18.0,6.0,12.0,24.0,True,blowout,1
+pomona-pitzer,2020,california-lutheran,2020-02-29 12:00:00,L,3-5,3.0,5.0,-2.0,8.0,False,close,0
+pomona-pitzer,2020,california-lutheran,2020-02-29 14:00:00,W,14-4,14.0,4.0,10.0,18.0,True,blowout,1
+pomona-pitzer,2020,redlands,2020-03-06 13:00:00,L,2-5,2.0,5.0,-3.0,7.0,False,moderate,0
+pomona-pitzer,2020,redlands,2020-03-07 12:00:00,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+pomona-pitzer,2020,redlands,,L,7-9,7.0,9.0,-2.0,16.0,False,close,0
+pomona-pitzer,2020,va wesleyan,2020-03-17 11:00:00,,,,,,,False,,0
+pomona-pitzer,2020,babson,2020-03-18 12:00:00,,,,,,,False,,0
+pomona-pitzer,2020,denison,2020-03-20 14:00:00,,,,,,,False,,0
+pomona-pitzer,2020,depauw,,,,,,,,False,,0
+pomona-pitzer,2020,la-verne,2020-03-27 15:00:00,,,,,,,False,,0
+pomona-pitzer,2020,la-verne,2020-03-28 12:00:00,,,,,,,False,,0
+pomona-pitzer,2020,la-verne,2020-03-28 14:00:00,,,,,,,False,,0
+pomona-pitzer,2020,claremont-mudd-scripps,2020-04-03 14:00:00,,,,,,,False,,0
+pomona-pitzer,2020,claremont-mudd-scripps,2020-04-04 12:00:00,,,,,,,False,,0
+pomona-pitzer,2020,claremont-mudd-scripps,2020-04-04 14:00:00,,,,,,,False,,0
+pomona-pitzer,2020,occidental,2020-04-10 14:00:00,,,,,,,False,,0
+pomona-pitzer,2020,occidental,2020-04-11 12:00:00,,,,,,,False,,0
+pomona-pitzer,2020,occidental,2020-04-11 14:00:00,,,,,,,False,,0
+pomona-pitzer,2020,whittier,2020-04-17 14:00:00,,,,,,,False,,0
+pomona-pitzer,2020,whittier,2020-04-18 12:00:00,,,,,,,False,,0
+pomona-pitzer,2020,whittier,2020-04-18 14:00:00,,,,,,,False,,0
+pomona-pitzer,2020,chapman,2020-04-24 14:00:00,,,,,,,False,,0
+pomona-pitzer,2020,chapman,2020-04-25 12:00:00,,,,,,,False,,0
+pomona-pitzer,2020,chapman,2020-04-25 14:00:00,,,,,,,False,,0
+pomona-pitzer,2020,sciac tournament,,,,,,,,False,,0
+pomona-pitzer,2021,alumni game,,,,,,,,False,,0
+pomona-pitzer,2021,claremont-mudd-scripps,,L,1-4,1.0,4.0,-3.0,5.0,False,moderate,0
+pomona-pitzer,2021,claremont-mudd-scripps,,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+pomona-pitzer,2021,claremont-mudd-scripps,,L,4-5,4.0,5.0,-1.0,9.0,False,close,0
+pomona-pitzer,2021,lewis clark,,L,5-7,5.0,7.0,-2.0,12.0,False,close,0
+pomona-pitzer,2021,lewis clark,,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+pomona-pitzer,2021,linfield,,L,1-11,1.0,11.0,-10.0,12.0,False,blowout,0
+pomona-pitzer,2021,linfield,,L,3-11,3.0,11.0,-8.0,14.0,False,blowout,0
+pomona-pitzer,2021,saint marys of minnesota,,L,0-2,0.0,2.0,-2.0,2.0,False,close,0
+pomona-pitzer,2021,of saint benedict,,L,6-9,6.0,9.0,-3.0,15.0,False,moderate,0
+pomona-pitzer,2021,east texas baptist,,L,3-7,3.0,7.0,-4.0,10.0,False,moderate,0
+pomona-pitzer,2021,of mount union,,W,11-5,11.0,5.0,6.0,16.0,True,blowout,1
+pomona-pitzer,2021,denison,,L,1-9,1.0,9.0,-8.0,10.0,False,blowout,0
+pomona-pitzer,2021,pfeiffer,,L,2-7,2.0,7.0,-5.0,9.0,False,blowout,0
+pomona-pitzer,2021,pacific lutheran,,L,2-6,2.0,6.0,-4.0,8.0,False,moderate,0
+pomona-pitzer,2021,pacific lutheran,,L,4-8,4.0,8.0,-4.0,12.0,False,moderate,0
+pomona-pitzer,2021,hamline,,W,9-6,9.0,6.0,3.0,15.0,True,moderate,1
+pomona-pitzer,2021,hamline,,W,9-1,9.0,1.0,8.0,10.0,True,blowout,1
+pomona-pitzer,2021,redlands,,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+pomona-pitzer,2021,suny oneonta,,W,10-2,10.0,2.0,8.0,12.0,True,blowout,1
+pomona-pitzer,2021,suny oneonta,,W,12-0,12.0,0.0,12.0,12.0,True,blowout,1
+pomona-pitzer,2021,california-lutheran,,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+pomona-pitzer,2021,california-lutheran,,W,11-1,11.0,1.0,10.0,12.0,True,blowout,1
+pomona-pitzer,2021,california-lutheran,,W,9-4,9.0,4.0,5.0,13.0,True,blowout,1
+pomona-pitzer,2021,williams,,L,0-9,0.0,9.0,-9.0,9.0,False,blowout,0
+pomona-pitzer,2021,williams,,W,1-0,1.0,0.0,1.0,1.0,True,close,1
+pomona-pitzer,2021,chapman,,W,2-0,2.0,0.0,2.0,2.0,True,close,1
+pomona-pitzer,2021,chapman,,L,4-5,4.0,5.0,-1.0,9.0,False,close,0
+pomona-pitzer,2021,chapman,,W,4-2,4.0,2.0,2.0,6.0,True,close,1
+pomona-pitzer,2021,whittier,,L,4-12,4.0,12.0,-8.0,16.0,False,blowout,0
+pomona-pitzer,2021,whittier,,W,8-7,8.0,7.0,1.0,15.0,True,close,1
+pomona-pitzer,2021,whittier,,L,1-4,1.0,4.0,-3.0,5.0,False,moderate,0
+pomona-pitzer,2021,occidental,,W,6-0,6.0,0.0,6.0,6.0,True,blowout,1
+pomona-pitzer,2021,occidental,,W,2-0,2.0,0.0,2.0,2.0,True,close,1
+pomona-pitzer,2021,occidental,,W,7-4,7.0,4.0,3.0,11.0,True,moderate,1
+pomona-pitzer,2021,la-verne,,,,,,,,False,,0
+pomona-pitzer,2021,la-verne,,,,,,,,False,,0
+pomona-pitzer,2021,la-verne,,,,,,,,False,,0
+pomona-pitzer,2021,redlands,,,,,,,,False,,0
+pomona-pitzer,2021,redlands,,,,,,,,False,,0
+pomona-pitzer,2021,redlands,,,,,,,,False,,0
+pomona-pitzer,2021,sciac tournament,,,,,,,,False,,0
+pomona-pitzer,2021,sciac tournament,,,,,,,,False,,0
+pomona-pitzer,2022,pacific,2022-02-12 12:00:00,W,3-1,3.0,1.0,2.0,4.0,True,close,1
+pomona-pitzer,2022,pacific,2022-02-12 14:00:00,W,12-4,12.0,4.0,8.0,16.0,True,blowout,1
+pomona-pitzer,2022,redlands,2022-02-18 14:00:00,L,3-8,3.0,8.0,-5.0,11.0,False,blowout,0
+pomona-pitzer,2022,redlands,2022-02-19 12:00:00,L,4-7,4.0,7.0,-3.0,11.0,False,moderate,0
+pomona-pitzer,2022,redlands,2022-02-19 14:00:00,L,1-10,1.0,10.0,-9.0,11.0,False,blowout,0
+pomona-pitzer,2022,linfield,2022-02-20 12:00:00,L,1-9,1.0,9.0,-8.0,10.0,False,blowout,0
+pomona-pitzer,2022,linfield,2022-02-20 14:00:00,L,5-11,5.0,11.0,-6.0,16.0,False,blowout,0
+pomona-pitzer,2022,la-verne,2022-02-25 14:00:00,L,4-8,4.0,8.0,-4.0,12.0,False,moderate,0
+pomona-pitzer,2022,la-verne,2022-02-26 12:00:00,W,9-4,9.0,4.0,5.0,13.0,True,blowout,1
+pomona-pitzer,2022,la-verne,,L,5-10,5.0,10.0,-5.0,15.0,False,blowout,0
+pomona-pitzer,2022,bridgewater,2022-03-01 13:00:00,W,3-0,3.0,0.0,3.0,3.0,True,moderate,1
+pomona-pitzer,2022,bridgewater,2022-03-01 15:00:00,L,2-10,2.0,10.0,-8.0,12.0,False,blowout,0
+pomona-pitzer,2022,piedmont,,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+pomona-pitzer,2022,emory,,W,11-0,11.0,0.0,11.0,11.0,True,blowout,1
+pomona-pitzer,2022,va wesleyan,2022-03-05 10:00:00,L,1-5,1.0,5.0,-4.0,6.0,False,moderate,0
+pomona-pitzer,2022,berry,2022-03-05 12:00:00,L,4-5,4.0,5.0,-1.0,9.0,False,close,0
+pomona-pitzer,2022,chris newport,2022-03-06 09:00:00,L,0-11,0.0,11.0,-11.0,11.0,False,blowout,0
+pomona-pitzer,2022,coe,2022-03-06 11:00:00,L,4-5,4.0,5.0,-1.0,9.0,False,close,0
+pomona-pitzer,2022,rochester,2022-03-11 13:00:00,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+pomona-pitzer,2022,rochester,2022-03-11 15:00:00,W,5-3,5.0,3.0,2.0,8.0,True,close,1
+pomona-pitzer,2022,chapman,2022-03-16 14:00:00,W,9-5,9.0,5.0,4.0,14.0,True,moderate,1
+pomona-pitzer,2022,lewis clark,2022-03-25 13:00:00,L,4-9,4.0,9.0,-5.0,13.0,False,blowout,0
+pomona-pitzer,2022,lewis clark,2022-03-25 15:00:00,L,2-10,2.0,10.0,-8.0,12.0,False,blowout,0
+pomona-pitzer,2022,depauw,2022-03-26 12:00:00,L,1-6,1.0,6.0,-5.0,7.0,False,blowout,0
+pomona-pitzer,2022,depauw,2022-03-26 14:00:00,L,1-11,1.0,11.0,-10.0,12.0,False,blowout,0
+pomona-pitzer,2022,california-lutheran,2022-04-01 15:00:00,W,13-3,13.0,3.0,10.0,16.0,True,blowout,1
+pomona-pitzer,2022,california-lutheran,2022-04-02 12:00:00,W,6-1,6.0,1.0,5.0,7.0,True,blowout,1
+pomona-pitzer,2022,california-lutheran,2022-04-02 14:00:00,W,10-4,10.0,4.0,6.0,14.0,True,blowout,1
+pomona-pitzer,2022,chapman,2022-04-08 15:00:00,W,11-1,11.0,1.0,10.0,12.0,True,blowout,1
+pomona-pitzer,2022,chapman,2022-04-09 12:00:00,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+pomona-pitzer,2022,chapman,2022-04-09 14:00:00,L,0-3,0.0,3.0,-3.0,3.0,False,moderate,0
+pomona-pitzer,2022,whittier,2022-04-15 15:00:00,W,1-0,1.0,0.0,1.0,1.0,True,close,1
+pomona-pitzer,2022,whittier,2022-04-16 12:00:00,L,4-5,4.0,5.0,-1.0,9.0,False,close,0
+pomona-pitzer,2022,whittier,2022-04-16 14:00:00,W,10-2,10.0,2.0,8.0,12.0,True,blowout,1
+pomona-pitzer,2022,occidental,2022-04-22 15:00:00,W,10-0,10.0,0.0,10.0,10.0,True,blowout,1
+pomona-pitzer,2022,occidental,2022-04-23 12:00:00,W,4-2,4.0,2.0,2.0,6.0,True,close,1
+pomona-pitzer,2022,occidental,2022-04-23 14:00:00,L,7-8,7.0,8.0,-1.0,15.0,False,close,0
+pomona-pitzer,2022,claremont-mudd-scripps,2022-04-29 15:00:00,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+pomona-pitzer,2022,claremont-mudd-scripps,2022-04-30 12:00:00,W,10-0,10.0,0.0,10.0,10.0,True,blowout,1
+pomona-pitzer,2022,claremont-mudd-scripps,2022-04-30 14:00:00,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+pomona-pitzer,2022,redlands,,W,10-0,10.0,0.0,10.0,10.0,True,blowout,1
+pomona-pitzer,2022,chapman,,L,4-6,4.0,6.0,-2.0,10.0,False,close,0
+pomona-pitzer,2022,redlands,,L,7-8,7.0,8.0,-1.0,15.0,False,close,0
+pomona-pitzer,2023,westcliff,2023-02-03 12:00:00,,,,,,,False,,0
+pomona-pitzer,2023,westcliff,2023-02-03 14:00:00,,,,,,,False,,0
+pomona-pitzer,2023,pacific lutheran,2023-02-10 12:00:00,W,11-10,11.0,10.0,1.0,21.0,True,close,1
+pomona-pitzer,2023,pacific lutheran,2023-02-10 14:00:00,L,0-3,0.0,3.0,-3.0,3.0,False,moderate,0
+pomona-pitzer,2023,george fox,2023-02-11 12:00:00,L,4-5,4.0,5.0,-1.0,9.0,False,close,0
+pomona-pitzer,2023,george fox,2023-02-11 14:00:00,W,4-0,4.0,0.0,4.0,4.0,True,moderate,1
+pomona-pitzer,2023,linfield,2023-02-17 12:00:00,L,1-6,1.0,6.0,-5.0,7.0,False,blowout,0
+pomona-pitzer,2023,linfield,2023-02-17 14:00:00,L,5-11,5.0,11.0,-6.0,16.0,False,blowout,0
+pomona-pitzer,2023,whitworth,2023-02-18 12:00:00,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+pomona-pitzer,2023,whitworth,2023-02-18 14:00:00,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+pomona-pitzer,2023,brandeis,2023-02-25 12:00:00,,,,,,,False,,0
+pomona-pitzer,2023,brandeis,2023-02-25 14:00:00,,,,,,,False,,0
+pomona-pitzer,2023,hope intl,2023-03-03 12:00:00,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+pomona-pitzer,2023,hope intl,2023-03-03 14:00:00,W,10-1,10.0,1.0,9.0,11.0,True,blowout,1
+pomona-pitzer,2023,wpi,2023-03-08 13:00:00,W,4-1,4.0,1.0,3.0,5.0,True,moderate,1
+pomona-pitzer,2023,wpi,2023-03-08 15:00:00,W,5-0,5.0,0.0,5.0,5.0,True,blowout,1
+pomona-pitzer,2023,buena vista,2023-03-09 13:00:00,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+pomona-pitzer,2023,buena vista,2023-03-09 15:00:00,W,6-4,6.0,4.0,2.0,10.0,True,close,1
+pomona-pitzer,2023,manhattanville,2023-03-10 13:00:00,,,,,,,False,,0
+pomona-pitzer,2023,manhattanville,2023-03-10 15:00:00,,,,,,,False,,0
+pomona-pitzer,2023,north central,2023-03-16 12:00:00,W,2-0,2.0,0.0,2.0,2.0,True,close,1
+pomona-pitzer,2023,la-verne,2023-03-17 15:00:00,L,2-5,2.0,5.0,-3.0,7.0,False,moderate,0
+pomona-pitzer,2023,la-verne,2023-03-18 12:00:00,W,14-3,14.0,3.0,11.0,17.0,True,blowout,1
+pomona-pitzer,2023,la-verne,2023-03-18 14:00:00,W,7-1,7.0,1.0,6.0,8.0,True,blowout,1
+pomona-pitzer,2023,williams,2023-03-24 13:00:00,W,2-0,2.0,0.0,2.0,2.0,True,close,1
+pomona-pitzer,2023,williams,2023-03-24 15:00:00,L,0-3,0.0,3.0,-3.0,3.0,False,moderate,0
+pomona-pitzer,2023,redlands,2023-03-31 15:00:00,W,6-3,6.0,3.0,3.0,9.0,True,moderate,1
+pomona-pitzer,2023,redlands,2023-04-01 12:00:00,L,6-7,6.0,7.0,-1.0,13.0,False,close,0
+pomona-pitzer,2023,redlands,2023-04-01 14:00:00,W,4-2,4.0,2.0,2.0,6.0,True,close,1
+pomona-pitzer,2023,california-lutheran,2023-04-07 15:00:00,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+pomona-pitzer,2023,california-lutheran,2023-04-08 12:00:00,W,5-4,5.0,4.0,1.0,9.0,True,close,1
+pomona-pitzer,2023,california-lutheran,2023-04-08 14:00:00,W,2-0,2.0,0.0,2.0,2.0,True,close,1
+pomona-pitzer,2023,chapman,2023-04-14 15:00:00,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+pomona-pitzer,2023,chapman,2023-04-15 12:00:00,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+pomona-pitzer,2023,chapman,2023-04-15 14:00:00,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+pomona-pitzer,2023,whittier,2023-04-21 15:00:00,L,4-5,4.0,5.0,-1.0,9.0,False,close,0
+pomona-pitzer,2023,whittier,2023-04-22 12:00:00,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+pomona-pitzer,2023,whittier,2023-04-22 14:00:00,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+pomona-pitzer,2023,occidental,2023-04-28 15:00:00,W,4-2,4.0,2.0,2.0,6.0,True,close,1
+pomona-pitzer,2023,occidental,2023-04-29 12:00:00,W,7-1,7.0,1.0,6.0,8.0,True,blowout,1
+pomona-pitzer,2023,occidental,2023-04-29 14:00:00,W,10-1,10.0,1.0,9.0,11.0,True,blowout,1
+pomona-pitzer,2023,claremont-mudd-scripps,2023-05-05 15:00:00,W,5-1,5.0,1.0,4.0,6.0,True,moderate,1
+pomona-pitzer,2023,claremont-mudd-scripps,2023-05-06 12:00:00,L,0-2,0.0,2.0,-2.0,2.0,False,close,0
+pomona-pitzer,2023,claremont-mudd-scripps,2023-05-06 15:00:00,L,0-2,0.0,2.0,-2.0,2.0,False,close,0
+pomona-pitzer,2023,claremont-mudd-scripps,2023-05-12 13:00:00,W,3-1,3.0,1.0,2.0,4.0,True,close,1
+pomona-pitzer,2023,redlands,,L,0-5,0.0,5.0,-5.0,5.0,False,blowout,0
+pomona-pitzer,2023,chapman,2023-05-13 16:00:00,L,1-4,1.0,4.0,-3.0,5.0,False,moderate,0
+pomona-pitzer,2024,vanguard,,L,0-2,0.0,2.0,-2.0,2.0,False,close,0
+pomona-pitzer,2024,vanguard,,L,1-5,1.0,5.0,-4.0,6.0,False,moderate,0
+pomona-pitzer,2024,whitworth,,W,5-0,5.0,0.0,5.0,5.0,True,blowout,1
+pomona-pitzer,2024,whitworth,,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+pomona-pitzer,2024,hope international,,L,5-10,5.0,10.0,-5.0,15.0,False,blowout,0
+pomona-pitzer,2024,hope international,,L,1-3,1.0,3.0,-2.0,4.0,False,close,0
+pomona-pitzer,2024,whittier,,L,5-8,5.0,8.0,-3.0,13.0,False,moderate,0
+pomona-pitzer,2024,baldwin wallace,,L,1-4,1.0,4.0,-3.0,5.0,False,moderate,0
+pomona-pitzer,2024,baldwin wallace,,W,9-1,9.0,1.0,8.0,10.0,True,blowout,1
+pomona-pitzer,2024,whittier,,W,5-2,5.0,2.0,3.0,7.0,True,moderate,1
+pomona-pitzer,2024,whittier,,W,10-3,10.0,3.0,7.0,13.0,True,blowout,1
+pomona-pitzer,2024,george fox,,W,5-1,5.0,1.0,4.0,6.0,True,moderate,1
+pomona-pitzer,2024,george fox,,W,6-4,6.0,4.0,2.0,10.0,True,close,1
+pomona-pitzer,2024,willamette,,W,13-12,13.0,12.0,1.0,25.0,True,close,1
+pomona-pitzer,2024,willamette,,L,3-5,3.0,5.0,-2.0,8.0,False,close,0
+pomona-pitzer,2024,lewis clark,,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+pomona-pitzer,2024,lewis clark,,L,1-5,1.0,5.0,-4.0,6.0,False,moderate,0
+pomona-pitzer,2024,redlands,,L,2-11,2.0,11.0,-9.0,13.0,False,blowout,0
+pomona-pitzer,2024,redlands,,L,3-6,3.0,6.0,-3.0,9.0,False,moderate,0
+pomona-pitzer,2024,redlands,,W,5-0,5.0,0.0,5.0,5.0,True,blowout,1
+pomona-pitzer,2024,williams,,L,4-7,4.0,7.0,-3.0,11.0,False,moderate,0
+pomona-pitzer,2024,williams,,,,,,,,False,,0
+pomona-pitzer,2024,oberlin,,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+pomona-pitzer,2024,oberlin,,W,5-0,5.0,0.0,5.0,5.0,True,blowout,1
+pomona-pitzer,2024,chapman,,L,1-6,1.0,6.0,-5.0,7.0,False,blowout,0
+pomona-pitzer,2024,chapman,,L,4-12,4.0,12.0,-8.0,16.0,False,blowout,0
+pomona-pitzer,2024,chapman,,L,0-1,0.0,1.0,-1.0,1.0,False,close,0
+pomona-pitzer,2024,la-verne,,W,11-1,11.0,1.0,10.0,12.0,True,blowout,1
+pomona-pitzer,2024,la-verne,,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+pomona-pitzer,2024,la-verne,,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+pomona-pitzer,2024,california-lutheran,,W,11-5,11.0,5.0,6.0,16.0,True,blowout,1
+pomona-pitzer,2024,california-lutheran,,W,7-3,7.0,3.0,4.0,10.0,True,moderate,1
+pomona-pitzer,2024,california-lutheran,,L,1-3,1.0,3.0,-2.0,4.0,False,close,0
+pomona-pitzer,2024,claremont-mudd-scripps,,L,4-8,4.0,8.0,-4.0,12.0,False,moderate,0
+pomona-pitzer,2024,claremont-mudd-scripps,,L,2-5,2.0,5.0,-3.0,7.0,False,moderate,0
+pomona-pitzer,2024,claremont-mudd-scripps,,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+pomona-pitzer,2024,occidental,,L,0-1,0.0,1.0,-1.0,1.0,False,close,0
+pomona-pitzer,2024,occidental,,W,8-1,8.0,1.0,7.0,9.0,True,blowout,1
+pomona-pitzer,2024,occidental,,W,9-3,9.0,3.0,6.0,12.0,True,blowout,1
+pomona-pitzer,2025,austin,,W,16-0,16.0,0.0,16.0,16.0,True,blowout,1
+pomona-pitzer,2025,austin,,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+pomona-pitzer,2025,redlands,,W,4-2,4.0,2.0,2.0,6.0,True,close,1
+pomona-pitzer,2025,redlands,,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+pomona-pitzer,2025,redlands,,L,7-8,7.0,8.0,-1.0,15.0,False,close,0
+pomona-pitzer,2025,brandeis,,W,7-4,7.0,4.0,3.0,11.0,True,moderate,1
+pomona-pitzer,2025,brandeis,,W,5-0,5.0,0.0,5.0,5.0,True,blowout,1
+pomona-pitzer,2025,whittier,,W,11-7,11.0,7.0,4.0,18.0,True,moderate,1
+pomona-pitzer,2025,whittier,,W,14-11,14.0,11.0,3.0,25.0,True,moderate,1
+pomona-pitzer,2025,whittier,,W,4-1,4.0,1.0,3.0,5.0,True,moderate,1
+pomona-pitzer,2025,manhattanville,,L,1-7,1.0,7.0,-6.0,8.0,False,blowout,0
+pomona-pitzer,2025,manhattanville,,W,14-6,14.0,6.0,8.0,20.0,True,blowout,1
+pomona-pitzer,2025,haverford,,,,,,,,False,,0
+pomona-pitzer,2025,bethel,,L,3-5,3.0,5.0,-2.0,8.0,False,close,0
+pomona-pitzer,2025,bethel,,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+pomona-pitzer,2025,whitworth,,W,8-2,8.0,2.0,6.0,10.0,True,blowout,1
+pomona-pitzer,2025,whitworth,,W,5-2,5.0,2.0,3.0,7.0,True,moderate,1
+pomona-pitzer,2025,carleton,,L,5-8,5.0,8.0,-3.0,13.0,False,moderate,0
+pomona-pitzer,2025,carleton,,W,9-1,9.0,1.0,8.0,10.0,True,blowout,1
+pomona-pitzer,2025,st olaf,,W,7-0,7.0,0.0,7.0,7.0,True,blowout,1
+pomona-pitzer,2025,st olaf,,W,5-2,5.0,2.0,3.0,7.0,True,moderate,1
+pomona-pitzer,2025,williams,,L,0-3,0.0,3.0,-3.0,3.0,False,moderate,0
+pomona-pitzer,2025,williams,,L,3-7,3.0,7.0,-4.0,10.0,False,moderate,0
+pomona-pitzer,2025,chapman,,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+pomona-pitzer,2025,chapman,,L,0-7,0.0,7.0,-7.0,7.0,False,blowout,0
+pomona-pitzer,2025,chapman,,L,3-5,3.0,5.0,-2.0,8.0,False,close,0
+pomona-pitzer,2025,la-verne,,W,5-1,5.0,1.0,4.0,6.0,True,moderate,1
+pomona-pitzer,2025,la-verne,,L,5-9,5.0,9.0,-4.0,14.0,False,moderate,0
+pomona-pitzer,2025,la-verne,,W,3-0,3.0,0.0,3.0,3.0,True,moderate,1
+pomona-pitzer,2025,california-lutheran,,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+pomona-pitzer,2025,california-lutheran,,W,5-0,5.0,0.0,5.0,5.0,True,blowout,1
+pomona-pitzer,2025,california-lutheran,,W,8-7,8.0,7.0,1.0,15.0,True,close,1
+pomona-pitzer,2025,claremont-mudd-scripps,,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+pomona-pitzer,2025,claremont-mudd-scripps,,L,1-4,1.0,4.0,-3.0,5.0,False,moderate,0
+pomona-pitzer,2025,claremont-mudd-scripps,,W,9-1,9.0,1.0,8.0,10.0,True,blowout,1
+pomona-pitzer,2025,occidental,,W,9-8,9.0,8.0,1.0,17.0,True,close,1
+pomona-pitzer,2025,occidental,,W,5-3,5.0,3.0,2.0,8.0,True,close,1
+pomona-pitzer,2025,occidental,,W,13-5,13.0,5.0,8.0,18.0,True,blowout,1
+pomona-pitzer,2025,chapman,,L,0-5,0.0,5.0,-5.0,5.0,False,blowout,0
+pomona-pitzer,2025,redlands,,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+whittier,2019,palomar,2019-11-03 11:00:00,,,,,,,False,,0
+whittier,2019,fullerton,,,,,,,,False,,0
+whittier,2019,pacific lutheran,2019-02-10 11:00:00,L,12-14,12.0,14.0,-2.0,26.0,False,close,0
+whittier,2019,pacific lutheran,2019-02-10 13:00:00,,,,,,,False,,0
+whittier,2019,pomona-pitzer,,L,1-7,1.0,7.0,-6.0,8.0,False,blowout,0
+whittier,2019,pomona-pitzer,,L,0-2,0.0,2.0,-2.0,2.0,False,close,0
+whittier,2019,chapman,2019-02-23 12:00:00,W,6-5,6.0,5.0,1.0,11.0,True,close,1
+whittier,2019,chapman,2019-02-23 14:00:00,W,5-4,5.0,4.0,1.0,9.0,True,close,1
+whittier,2019,hiram,2019-03-03 13:00:00,W,7-1,7.0,1.0,6.0,8.0,True,blowout,1
+whittier,2019,hiram,2019-03-03 15:00:00,T,7-7,7.0,7.0,0.0,14.0,False,close,0
+whittier,2019,california-lutheran,2019-03-09 12:00:00,W,12-7,12.0,7.0,5.0,19.0,True,blowout,1
+whittier,2019,california-lutheran,2019-03-09 14:00:00,L,6-7,6.0,7.0,-1.0,13.0,False,close,0
+whittier,2019,alfred,2019-03-10 12:00:00,W,7-2,7.0,2.0,5.0,9.0,True,blowout,1
+whittier,2019,alfred,2019-03-10 14:00:00,L,4-6,4.0,6.0,-2.0,10.0,False,close,0
+whittier,2019,ithaca,2019-03-14 12:00:00,W,7-6,7.0,6.0,1.0,13.0,True,close,1
+whittier,2019,ithaca,2019-03-14 14:00:00,L,0-2,0.0,2.0,-2.0,2.0,False,close,0
+whittier,2019,la-verne,2019-03-16 12:00:00,W,13-5,13.0,5.0,8.0,18.0,True,blowout,1
+whittier,2019,la-verne,2019-03-16 14:00:00,L,7-8,7.0,8.0,-1.0,15.0,False,close,0
+whittier,2019,redlands,2019-03-17 12:00:00,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+whittier,2019,redlands,2019-03-17 14:00:00,W,9-0,9.0,0.0,9.0,9.0,True,blowout,1
+whittier,2019,denison,2019-03-21 13:00:00,,,,,,,False,,0
+whittier,2019,denison,2019-03-21 15:00:00,,,,,,,False,,0
+whittier,2019,williams,2019-03-22 12:00:00,L,0-2,0.0,2.0,-2.0,2.0,False,close,0
+whittier,2019,williams,2019-03-22 14:00:00,L,2-5,2.0,5.0,-3.0,7.0,False,moderate,0
+whittier,2019,claremont-mudd-scripps,2019-03-23 12:00:00,L,4-6,4.0,6.0,-2.0,10.0,False,close,0
+whittier,2019,claremont-mudd-scripps,2019-03-23 14:00:00,L,0-2,0.0,2.0,-2.0,2.0,False,close,0
+whittier,2019,occidental,2019-03-29 14:00:00,W,7-6,7.0,6.0,1.0,13.0,True,close,1
+whittier,2019,occidental,2019-03-29 16:00:00,W,10-2,10.0,2.0,8.0,12.0,True,blowout,1
+whittier,2019,pomona-pitzer,2019-03-30 12:00:00,L,7-8,7.0,8.0,-1.0,15.0,False,close,0
+whittier,2019,pomona-pitzer,2019-03-30 14:00:00,L,1-5,1.0,5.0,-4.0,6.0,False,moderate,0
+whittier,2019,chapman,2019-04-06 12:00:00,L,2-5,2.0,5.0,-3.0,7.0,False,moderate,0
+whittier,2019,chapman,2019-04-06 14:00:00,L,9-10,9.0,10.0,-1.0,19.0,False,close,0
+whittier,2019,redlands,2019-04-12 14:00:00,W,11-4,11.0,4.0,7.0,15.0,True,blowout,1
+whittier,2019,redlands,2019-04-12 16:00:00,W,10-1,10.0,1.0,9.0,11.0,True,blowout,1
+whittier,2019,california-lutheran,2019-04-13 12:00:00,W,11-10,11.0,10.0,1.0,21.0,True,close,1
+whittier,2019,california-lutheran,2019-04-13 14:00:00,W,11-2,11.0,2.0,9.0,13.0,True,blowout,1
+whittier,2019,la-verne,2019-04-20 12:00:00,W,8-4,8.0,4.0,4.0,12.0,True,moderate,1
+whittier,2019,la-verne,2019-04-20 14:00:00,W,4-2,4.0,2.0,2.0,6.0,True,close,1
+whittier,2019,occidental,2019-04-26 14:00:00,W,8-4,8.0,4.0,4.0,12.0,True,moderate,1
+whittier,2019,occidental,2019-04-26 16:00:00,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+whittier,2019,claremont-mudd-scripps,2019-04-27 12:00:00,W,5-4,5.0,4.0,1.0,9.0,True,close,1
+whittier,2019,claremont-mudd-scripps,2019-04-27 14:00:00,W,5-4,5.0,4.0,1.0,9.0,True,close,1
+whittier,2019,claremont-mudd-scripps,2019-05-03 13:00:00,W,8-3,8.0,3.0,5.0,11.0,True,blowout,1
+whittier,2019,pomona-pitzer,,L,5-6,5.0,6.0,-1.0,11.0,False,close,0
+whittier,2019,claremont-mudd-scripps,,W,9-8,9.0,8.0,1.0,17.0,True,close,1
+whittier,2019,pomona-pitzer,2019-05-05 12:00:00,W,5-3,5.0,3.0,2.0,8.0,True,close,1
+whittier,2019,pomona-pitzer,2019-05-05 15:00:00,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+whittier,2019,claremont-mudd-scripps,2019-05-10 12:00:00,W,9-1,9.0,1.0,8.0,10.0,True,blowout,1
+whittier,2019,linfield,,L,5-6,5.0,6.0,-1.0,11.0,False,close,0
+whittier,2019,linfield,,L,4-8,4.0,8.0,-4.0,12.0,False,moderate,0
+whittier,2020,alumni,2020-02-01 11:00:00,,,,,,,False,,0
+whittier,2020,puget sound,2020-02-08 12:00:00,W,5-4,5.0,4.0,1.0,9.0,True,close,1
+whittier,2020,puget sound,2020-02-08 14:00:00,W,11-3,11.0,3.0,8.0,14.0,True,blowout,1
+whittier,2020,no brandeis,,L,3-7,3.0,7.0,-4.0,10.0,False,moderate,0
+whittier,2020,no brandeis,,L,8-13,8.0,13.0,-5.0,21.0,False,blowout,0
+whittier,2020,no linfield,,L,0-9,0.0,9.0,-9.0,9.0,False,blowout,0
+whittier,2020,no linfield,,L,2-10,2.0,10.0,-8.0,12.0,False,blowout,0
+whittier,2020,george fox,2020-02-22 11:00:00,L,0-6,0.0,6.0,-6.0,6.0,False,blowout,0
+whittier,2020,george fox,,W,7-5,7.0,5.0,2.0,12.0,True,close,1
+whittier,2020,claremont-mudd-scripps,2020-02-28 13:00:00,L,3-11,3.0,11.0,-8.0,14.0,False,blowout,0
+whittier,2020,claremont-mudd-scripps,,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+whittier,2020,claremont-mudd-scripps,2020-02-29 14:00:00,W,6-5,6.0,5.0,1.0,11.0,True,close,1
+whittier,2020,chapman,2020-03-06 13:00:00,W,9-1,9.0,1.0,8.0,10.0,True,blowout,1
+whittier,2020,chapman,2020-03-07 12:00:00,W,5-0,5.0,0.0,5.0,5.0,True,blowout,1
+whittier,2020,chapman,2020-03-07 14:00:00,L,5-8,5.0,8.0,-3.0,13.0,False,moderate,0
+whittier,2020,wpi,2020-03-13 13:00:00,,,,,,,False,,0
+whittier,2020,wpi,2020-03-13 15:00:00,,,,,,,False,,0
+whittier,2020,rochester,2020-03-14 12:00:00,,,,,,,False,,0
+whittier,2020,rochester,2020-03-14 14:00:00,,,,,,,False,,0
+whittier,2020,grinnell,2020-03-16 11:00:00,,,,,,,False,,0
+whittier,2020,southwestern,,,,,,,,False,,0
+whittier,2020,southwestern,2020-03-17 11:00:00,,,,,,,False,,0
+whittier,2020,stevenson,,,,,,,,False,,0
+whittier,2020,willamette,2020-03-24 13:00:00,,,,,,,False,,0
+whittier,2020,occidental,2020-03-27 14:00:00,,,,,,,False,,0
+whittier,2020,occidental,2020-03-28 12:00:00,,,,,,,False,,0
+whittier,2020,occidental,2020-03-28 14:00:00,,,,,,,False,,0
+whittier,2020,california-lutheran,2020-04-03 14:00:00,,,,,,,False,,0
+whittier,2020,california-lutheran,2020-04-04 12:00:00,,,,,,,False,,0
+whittier,2020,california-lutheran,2020-04-04 14:00:00,,,,,,,False,,0
+whittier,2020,redlands,2020-04-10 14:00:00,,,,,,,False,,0
+whittier,2020,redlands,2020-04-11 12:00:00,,,,,,,False,,0
+whittier,2020,redlands,,,,,,,,False,,0
+whittier,2020,pomona-pitzer,2020-04-17 14:00:00,,,,,,,False,,0
+whittier,2020,pomona-pitzer,2020-04-18 12:00:00,,,,,,,False,,0
+whittier,2020,pomona-pitzer,2020-04-18 14:00:00,,,,,,,False,,0
+whittier,2020,la-verne,2020-04-24 14:00:00,,,,,,,False,,0
+whittier,2020,la-verne,2020-04-25 12:00:00,,,,,,,False,,0
+whittier,2020,la-verne,2020-04-25 14:00:00,,,,,,,False,,0
+whittier,2020,sciac tournament,,,,,,,,False,,0
+whittier,2020,sciac tournament,,,,,,,,False,,0
+whittier,2020,sciac tournament,,,,,,,,False,,0
+whittier,2021,azusa pacific,,,,,,,,False,,0
+whittier,2021,alumni game,,,,,,,,False,,0
+whittier,2021,trinity,,W,14-9,14.0,9.0,5.0,23.0,True,blowout,1
+whittier,2021,trinity,,L,7-14,7.0,14.0,-7.0,21.0,False,blowout,0
+whittier,2021,pacific,,W,6-4,6.0,4.0,2.0,10.0,True,close,1
+whittier,2021,pacific,,L,7-14,7.0,14.0,-7.0,21.0,False,blowout,0
+whittier,2021,gustavus adolphus,,L,6-7,6.0,7.0,-1.0,13.0,False,close,0
+whittier,2021,bridgewater,,L,0-5,0.0,5.0,-5.0,5.0,False,blowout,0
+whittier,2021,bridgewater,,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+whittier,2021,la-verne,,L,2-8,2.0,8.0,-6.0,10.0,False,blowout,0
+whittier,2021,la-verne,,L,3-5,3.0,5.0,-2.0,8.0,False,close,0
+whittier,2021,la-verne,,W,14-11,14.0,11.0,3.0,25.0,True,moderate,1
+whittier,2021,hamline,,W,11-6,11.0,6.0,5.0,17.0,True,blowout,1
+whittier,2021,hamline,,W,10-0,10.0,0.0,10.0,10.0,True,blowout,1
+whittier,2021,suny oneonta,,W,9-1,9.0,1.0,8.0,10.0,True,blowout,1
+whittier,2021,suny oneonta,,L,4-6,4.0,6.0,-2.0,10.0,False,close,0
+whittier,2021,of minnesota morris,,W,6-2,6.0,2.0,4.0,8.0,True,moderate,1
+whittier,2021,of minnesota morris,,W,5-2,5.0,2.0,3.0,7.0,True,moderate,1
+whittier,2021,linfield,,L,0-11,0.0,11.0,-11.0,11.0,False,blowout,0
+whittier,2021,linfield,,L,5-14,5.0,14.0,-9.0,19.0,False,blowout,0
+whittier,2021,elmhurst,,W,7-5,7.0,5.0,2.0,12.0,True,close,1
+whittier,2021,elmhurst,,W,9-3,9.0,3.0,6.0,12.0,True,blowout,1
+whittier,2021,williams,,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+whittier,2021,williams,,W,15-6,15.0,6.0,9.0,21.0,True,blowout,1
+whittier,2021,redlands,,L,1-10,1.0,10.0,-9.0,11.0,False,blowout,0
+whittier,2021,redlands,,L,3-11,3.0,11.0,-8.0,14.0,False,blowout,0
+whittier,2021,redlands,,L,0-9,0.0,9.0,-9.0,9.0,False,blowout,0
+whittier,2021,occidental,,L,3-5,3.0,5.0,-2.0,8.0,False,close,0
+whittier,2021,occidental,,W,1-0,1.0,0.0,1.0,1.0,True,close,1
+whittier,2021,occidental,,W,16-0,16.0,0.0,16.0,16.0,True,blowout,1
+whittier,2021,pomona-pitzer,,W,12-4,12.0,4.0,8.0,16.0,True,blowout,1
+whittier,2021,pomona-pitzer,,L,7-8,7.0,8.0,-1.0,15.0,False,close,0
+whittier,2021,pomona-pitzer,,W,4-1,4.0,1.0,3.0,5.0,True,moderate,1
+whittier,2021,claremont-mudd-scripps,,W,8-3,8.0,3.0,5.0,11.0,True,blowout,1
+whittier,2021,claremont-mudd-scripps,,L,0-7,0.0,7.0,-7.0,7.0,False,blowout,0
+whittier,2021,claremont-mudd-scripps,,W,8-5,8.0,5.0,3.0,13.0,True,moderate,1
+whittier,2021,california-lutheran,,,,,,,,False,,0
+whittier,2021,california-lutheran,,,,,,,,False,,0
+whittier,2021,california-lutheran,,,,,,,,False,,0
+whittier,2021,chapman,,,,,,,,False,,0
+whittier,2021,chapman,,,,,,,,False,,0
+whittier,2021,chapman,,,,,,,,False,,0
+whittier,2022,puget sound,2022-02-11 12:00:00,W,6-1,6.0,1.0,5.0,7.0,True,blowout,1
+whittier,2022,puget sound,2022-02-11 14:00:00,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+whittier,2022,alumni game,2022-02-12 11:00:00,,,,,,,False,,0
+whittier,2022,linfield,2022-02-19 12:00:00,L,1-3,1.0,3.0,-2.0,4.0,False,close,0
+whittier,2022,linfield,2022-02-19 14:00:00,W,12-8,12.0,8.0,4.0,20.0,True,moderate,1
+whittier,2022,no brandeis,,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+whittier,2022,no brandeis,,L,2-5,2.0,5.0,-3.0,7.0,False,moderate,0
+whittier,2022,redlands,2022-03-04 14:00:00,L,4-7,4.0,7.0,-3.0,11.0,False,moderate,0
+whittier,2022,redlands,2022-03-05 12:00:00,W,20-10,20.0,10.0,10.0,30.0,True,blowout,1
+whittier,2022,redlands,2022-03-05 14:00:00,W,6-2,6.0,2.0,4.0,8.0,True,moderate,1
+whittier,2022,carnegie mellon,,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+whittier,2022,carnegie mellon,,W,2-0,2.0,0.0,2.0,2.0,True,close,1
+whittier,2022,wpi,2022-03-11 12:00:00,L,4-5,4.0,5.0,-1.0,9.0,False,close,0
+whittier,2022,wpi,2022-03-11 14:00:00,W,9-4,9.0,4.0,5.0,13.0,True,blowout,1
+whittier,2022,rochester,2022-03-12 13:00:00,W,5-2,5.0,2.0,3.0,7.0,True,moderate,1
+whittier,2022,rochester,2022-03-12 15:00:00,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+whittier,2022,la-verne,2022-03-18 15:00:00,L,6-7,6.0,7.0,-1.0,13.0,False,close,0
+whittier,2022,la-verne,2022-03-19 12:00:00,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+whittier,2022,la-verne,2022-03-19 14:00:00,W,6-2,6.0,2.0,4.0,8.0,True,moderate,1
+whittier,2022,lewis clark,2022-03-24 12:00:00,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+whittier,2022,lewis clark,2022-03-24 14:00:00,W,8-7,8.0,7.0,1.0,15.0,True,close,1
+whittier,2022,george fox,2022-03-26 12:00:00,L,2-6,2.0,6.0,-4.0,8.0,False,moderate,0
+whittier,2022,george fox,2022-03-26 14:00:00,L,1-5,1.0,5.0,-4.0,6.0,False,moderate,0
+whittier,2022,pacific,,W,6-4,6.0,4.0,2.0,10.0,True,close,1
+whittier,2022,pacific,2022-03-27 13:00:00,W,9-1,9.0,1.0,8.0,10.0,True,blowout,1
+whittier,2022,occidental,2022-04-01 15:00:00,W,7-3,7.0,3.0,4.0,10.0,True,moderate,1
+whittier,2022,occidental,2022-04-02 12:00:00,W,1-0,1.0,0.0,1.0,1.0,True,close,1
+whittier,2022,occidental,2022-04-02 14:00:00,W,7-6,7.0,6.0,1.0,13.0,True,close,1
+whittier,2022,claremont-mudd-scripps,2022-04-08 15:00:00,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+whittier,2022,claremont-mudd-scripps,2022-04-09 12:00:00,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+whittier,2022,claremont-mudd-scripps,2022-04-09 14:00:00,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+whittier,2022,pomona-pitzer,2022-04-15 15:00:00,L,0-1,0.0,1.0,-1.0,1.0,False,close,0
+whittier,2022,pomona-pitzer,2022-04-16 12:00:00,W,5-4,5.0,4.0,1.0,9.0,True,close,1
+whittier,2022,pomona-pitzer,2022-04-16 14:00:00,L,2-10,2.0,10.0,-8.0,12.0,False,blowout,0
+whittier,2022,chapman,2022-04-22 15:00:00,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+whittier,2022,chapman,2022-04-23 12:00:00,W,6-4,6.0,4.0,2.0,10.0,True,close,1
+whittier,2022,chapman,2022-04-23 14:00:00,L,6-8,6.0,8.0,-2.0,14.0,False,close,0
+whittier,2022,california-lutheran,2022-04-30 12:00:00,W,12-5,12.0,5.0,7.0,17.0,True,blowout,1
+whittier,2022,california-lutheran,2022-05-01 12:00:00,L,2-5,2.0,5.0,-3.0,7.0,False,moderate,0
+whittier,2022,california-lutheran,2022-05-01 14:00:00,L,5-9,5.0,9.0,-4.0,14.0,False,moderate,0
+whittier,2023,westcliff,2023-02-04 12:00:00,L,6-9,6.0,9.0,-3.0,15.0,False,moderate,0
+whittier,2023,westcliff,2023-02-04 14:00:00,W,8-5,8.0,5.0,3.0,13.0,True,moderate,1
+whittier,2023,george fox,2023-02-12 11:00:00,W,9-8,9.0,8.0,1.0,17.0,True,close,1
+whittier,2023,george fox,2023-02-12 13:00:00,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+whittier,2023,lewis clark,2023-02-17 12:00:00,W,6-2,6.0,2.0,4.0,8.0,True,moderate,1
+whittier,2023,lewis clark,2023-02-17 14:00:00,L,0-6,0.0,6.0,-6.0,6.0,False,blowout,0
+whittier,2023,whittier,2023-02-18 11:00:00,,,,,,,False,,0
+whittier,2023,no brandeis,,L,2-8,2.0,8.0,-6.0,10.0,False,blowout,0
+whittier,2023,no brandeis,,W,6-2,6.0,2.0,4.0,8.0,True,moderate,1
+whittier,2023,manhattanville,2023-03-06 12:00:00,L,0-2,0.0,2.0,-2.0,2.0,False,close,0
+whittier,2023,manhattanville,2023-03-06 14:00:00,W,11-3,11.0,3.0,8.0,14.0,True,blowout,1
+whittier,2023,alfred,2023-03-08 12:00:00,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+whittier,2023,alfred,2023-03-08 14:00:00,W,6-4,6.0,4.0,2.0,10.0,True,close,1
+whittier,2023,wpi,2023-03-11 12:00:00,,,,,,,False,,0
+whittier,2023,wpi,2023-03-11 15:00:00,,,,,,,False,,0
+whittier,2023,buena vista,2023-03-12 13:00:00,W,6-1,6.0,1.0,5.0,7.0,True,blowout,1
+whittier,2023,buena vista,2023-03-12 15:00:00,W,8-3,8.0,3.0,5.0,11.0,True,blowout,1
+whittier,2023,redlands,2023-03-24 15:00:00,L,2-7,2.0,7.0,-5.0,9.0,False,blowout,0
+whittier,2023,redlands,2023-03-25 12:00:00,L,4-5,4.0,5.0,-1.0,9.0,False,close,0
+whittier,2023,redlands,2023-03-25 14:00:00,L,3-6,3.0,6.0,-3.0,9.0,False,moderate,0
+whittier,2023,williams,2023-03-27 13:00:00,W,3-1,3.0,1.0,2.0,4.0,True,close,1
+whittier,2023,williams,2023-03-27 15:00:00,L,4-6,4.0,6.0,-2.0,10.0,False,close,0
+whittier,2023,la-verne,2023-03-31 15:00:00,W,5-0,5.0,0.0,5.0,5.0,True,blowout,1
+whittier,2023,la-verne,2023-04-01 12:00:00,W,4-2,4.0,2.0,2.0,6.0,True,close,1
+whittier,2023,la-verne,2023-04-01 14:00:00,W,7-2,7.0,2.0,5.0,9.0,True,blowout,1
+whittier,2023,occidental,2023-04-07 15:00:00,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+whittier,2023,occidental,2023-04-08 12:00:00,W,3-1,3.0,1.0,2.0,4.0,True,close,1
+whittier,2023,occidental,2023-04-08 14:00:00,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+whittier,2023,claremont-mudd-scripps,2023-04-14 16:00:00,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+whittier,2023,claremont-mudd-scripps,2023-04-15 12:00:00,L,3-6,3.0,6.0,-3.0,9.0,False,moderate,0
+whittier,2023,claremont-mudd-scripps,2023-04-15 14:00:00,W,5-4,5.0,4.0,1.0,9.0,True,close,1
+whittier,2023,pomona-pitzer,2023-04-21 15:00:00,W,5-4,5.0,4.0,1.0,9.0,True,close,1
+whittier,2023,pomona-pitzer,2023-04-22 12:00:00,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+whittier,2023,pomona-pitzer,2023-04-22 14:00:00,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+whittier,2023,chapman,2023-04-29 14:00:00,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+whittier,2023,chapman,2023-04-30 12:00:00,L,1-5,1.0,5.0,-4.0,6.0,False,moderate,0
+whittier,2023,chapman,2023-04-30 14:00:00,L,3-9,3.0,9.0,-6.0,12.0,False,blowout,0
+whittier,2023,california-lutheran,2023-05-05 15:00:00,L,0-9,0.0,9.0,-9.0,9.0,False,blowout,0
+whittier,2023,california-lutheran,2023-05-06 12:00:00,L,5-6,5.0,6.0,-1.0,11.0,False,close,0
+whittier,2023,california-lutheran,2023-05-06 14:00:00,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+whittier,2024,la sierra,,W,6-5,6.0,5.0,1.0,11.0,True,close,1
+whittier,2024,brandeis,,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+whittier,2024,york of pennsylvania,,L,1-5,1.0,5.0,-4.0,6.0,False,moderate,0
+whittier,2024,pomona-pitzer,,W,8-5,8.0,5.0,3.0,13.0,True,moderate,1
+whittier,2024,baldwin wallace,,W,11-3,11.0,3.0,8.0,14.0,True,blowout,1
+whittier,2024,baldwin wallace,,L,6-7,6.0,7.0,-1.0,13.0,False,close,0
+whittier,2024,john carroll,,W,11-3,11.0,3.0,8.0,14.0,True,blowout,1
+whittier,2024,john carroll,,,,,,,,False,,0
+whittier,2024,pomona-pitzer,,L,2-5,2.0,5.0,-3.0,7.0,False,moderate,0
+whittier,2024,pomona-pitzer,,L,3-10,3.0,10.0,-7.0,13.0,False,blowout,0
+whittier,2024,central,,L,2-5,2.0,5.0,-3.0,7.0,False,moderate,0
+whittier,2024,of hartford,,W,8-6,8.0,6.0,2.0,14.0,True,close,1
+whittier,2024,of wisconsin-la crosse,,W,8-2,8.0,2.0,6.0,10.0,True,blowout,1
+whittier,2024,dickinson,,W,14-6,14.0,6.0,8.0,20.0,True,blowout,1
+whittier,2024,eastern connecticut state,,W,10-1,10.0,1.0,9.0,11.0,True,blowout,1
+whittier,2024,williams,,W,6-5,6.0,5.0,1.0,11.0,True,close,1
+whittier,2024,williams,,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+whittier,2024,chapman,,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+whittier,2024,linfield,,L,5-18,5.0,18.0,-13.0,23.0,False,blowout,0
+whittier,2024,linfield,,L,0-11,0.0,11.0,-11.0,11.0,False,blowout,0
+whittier,2024,oberlin,,,,,,,,False,,0
+whittier,2024,oberlin,,,,,,,,False,,0
+whittier,2024,redlands,,L,6-8,6.0,8.0,-2.0,14.0,False,close,0
+whittier,2024,redlands,,L,4-5,4.0,5.0,-1.0,9.0,False,close,0
+whittier,2024,redlands,,L,8-16,8.0,16.0,-8.0,24.0,False,blowout,0
+whittier,2024,chapman,,L,2-7,2.0,7.0,-5.0,9.0,False,blowout,0
+whittier,2024,chapman,,L,1-4,1.0,4.0,-3.0,5.0,False,moderate,0
+whittier,2024,california-lutheran,,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+whittier,2024,claremont-mudd-scripps,,L,1-3,1.0,3.0,-2.0,4.0,False,close,0
+whittier,2024,claremont-mudd-scripps,,L,0-5,0.0,5.0,-5.0,5.0,False,blowout,0
+whittier,2024,claremont-mudd-scripps,,L,6-9,6.0,9.0,-3.0,15.0,False,moderate,0
+whittier,2024,occidental,,W,7-0,7.0,0.0,7.0,7.0,True,blowout,1
+whittier,2024,occidental,,W,5-2,5.0,2.0,3.0,7.0,True,moderate,1
+whittier,2024,occidental,,W,11-3,11.0,3.0,8.0,14.0,True,blowout,1
+whittier,2024,california-lutheran,,W,8-6,8.0,6.0,2.0,14.0,True,close,1
+whittier,2024,california-lutheran,,L,1-6,1.0,6.0,-5.0,7.0,False,blowout,0
+whittier,2024,la-verne,,L,5-6,5.0,6.0,-1.0,11.0,False,close,0
+whittier,2024,la-verne,,W,5-1,5.0,1.0,4.0,6.0,True,moderate,1
+whittier,2024,la-verne,,W,6-2,6.0,2.0,4.0,8.0,True,moderate,1
+whittier,2025,alumni game,,,,,,,,False,,0
+whittier,2025,la sierra,,W,10-2,10.0,2.0,8.0,12.0,True,blowout,1
+whittier,2025,brandeis,,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+whittier,2025,brandeis,,W,8-7,8.0,7.0,1.0,15.0,True,close,1
+whittier,2025,chapman,,W,1-0,1.0,0.0,1.0,1.0,True,close,1
+whittier,2025,chapman,,L,4-6,4.0,6.0,-2.0,10.0,False,close,0
+whittier,2025,pomona-pitzer,,L,7-12,7.0,12.0,-5.0,19.0,False,blowout,0
+whittier,2025,pomona-pitzer,,L,11-14,11.0,14.0,-3.0,25.0,False,moderate,0
+whittier,2025,pomona-pitzer,,L,1-4,1.0,4.0,-3.0,5.0,False,moderate,0
+whittier,2025,susquehanna,,W,8-6,8.0,6.0,2.0,14.0,True,close,1
+whittier,2025,susquehanna,,W,5-1,5.0,1.0,4.0,6.0,True,moderate,1
+whittier,2025,of pittsburgh at bradford,,W,10-2,10.0,2.0,8.0,12.0,True,blowout,1
+whittier,2025,of pittsburgh at bradford,,W,13-0,13.0,0.0,13.0,13.0,True,blowout,1
+whittier,2025,manhattanville,,L,3-7,3.0,7.0,-4.0,10.0,False,moderate,0
+whittier,2025,bethel,,W,6-3,6.0,3.0,3.0,9.0,True,moderate,1
+whittier,2025,haverford,,W,6-5,6.0,5.0,1.0,11.0,True,close,1
+whittier,2025,case western reserve,,L,1-3,1.0,3.0,-2.0,4.0,False,close,0
+whittier,2025,washington in st louis,,L,1-4,1.0,4.0,-3.0,5.0,False,moderate,0
+whittier,2025,washington in st louis,,L,2-6,2.0,6.0,-4.0,8.0,False,moderate,0
+whittier,2025,chapman,,L,2-8,2.0,8.0,-6.0,10.0,False,blowout,0
+whittier,2025,carleton,,W,6-5,6.0,5.0,1.0,11.0,True,close,1
+whittier,2025,carleton,,W,7-3,7.0,3.0,4.0,10.0,True,moderate,1
+whittier,2025,williams,,L,1-7,1.0,7.0,-6.0,8.0,False,blowout,0
+whittier,2025,williams,,W,7-6,7.0,6.0,1.0,13.0,True,close,1
+whittier,2025,st olaf,,W,6-4,6.0,4.0,2.0,10.0,True,close,1
+whittier,2025,st olaf,,W,5-4,5.0,4.0,1.0,9.0,True,close,1
+whittier,2025,redlands,,L,3-7,3.0,7.0,-4.0,10.0,False,moderate,0
+whittier,2025,redlands,,L,4-9,4.0,9.0,-5.0,13.0,False,blowout,0
+whittier,2025,redlands,,L,0-5,0.0,5.0,-5.0,5.0,False,blowout,0
+whittier,2025,california-lutheran,,L,0-2,0.0,2.0,-2.0,2.0,False,close,0
+whittier,2025,california-lutheran,,L,3-9,3.0,9.0,-6.0,12.0,False,blowout,0
+whittier,2025,california-lutheran,,L,2-7,2.0,7.0,-5.0,9.0,False,blowout,0
+whittier,2025,claremont-mudd-scripps,,L,2-5,2.0,5.0,-3.0,7.0,False,moderate,0
+whittier,2025,claremont-mudd-scripps,,L,4-5,4.0,5.0,-1.0,9.0,False,close,0
+whittier,2025,claremont-mudd-scripps,,W,5-2,5.0,2.0,3.0,7.0,True,moderate,1
+whittier,2025,occidental,,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+whittier,2025,occidental,,L,4-6,4.0,6.0,-2.0,10.0,False,close,0
+whittier,2025,occidental,,W,17-4,17.0,4.0,13.0,21.0,True,blowout,1
+whittier,2025,la-verne,,L,0-3,0.0,3.0,-3.0,3.0,False,moderate,0
+whittier,2025,la-verne,,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+whittier,2025,la-verne,,W,7-6,7.0,6.0,1.0,13.0,True,close,1
+occidental,2019,,,L,0-9,0.0,9.0,-9.0,9.0,False,blowout,0
+occidental,2019,,,L,0-9,0.0,9.0,-9.0,9.0,False,blowout,0
+occidental,2019,,,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+occidental,2019,,,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+occidental,2019,,,L,8-19,8.0,19.0,-11.0,27.0,False,blowout,0
+occidental,2019,,,L,8-19,8.0,19.0,-11.0,27.0,False,blowout,0
+occidental,2019,,,,,,,,,False,,0
+occidental,2019,,,,,,,,,False,,0
+occidental,2019,,,W,7-1,7.0,1.0,6.0,8.0,True,blowout,1
+occidental,2019,,,W,7-1,7.0,1.0,6.0,8.0,True,blowout,1
+occidental,2019,,,L,1-6,1.0,6.0,-5.0,7.0,False,blowout,0
+occidental,2019,,,L,1-6,1.0,6.0,-5.0,7.0,False,blowout,0
+occidental,2019,,,L,0-9,0.0,9.0,-9.0,9.0,False,blowout,0
+occidental,2019,,,L,0-9,0.0,9.0,-9.0,9.0,False,blowout,0
+occidental,2019,,,L,0-9,0.0,9.0,-9.0,9.0,False,blowout,0
+occidental,2019,,,L,0-9,0.0,9.0,-9.0,9.0,False,blowout,0
+occidental,2019,,,L,1-10,1.0,10.0,-9.0,11.0,False,blowout,0
+occidental,2019,,,L,1-10,1.0,10.0,-9.0,11.0,False,blowout,0
+occidental,2019,,,L,3-18,3.0,18.0,-15.0,21.0,False,blowout,0
+occidental,2019,,,L,3-18,3.0,18.0,-15.0,21.0,False,blowout,0
+occidental,2019,,,L,3-13,3.0,13.0,-10.0,16.0,False,blowout,0
+occidental,2019,,,L,3-13,3.0,13.0,-10.0,16.0,False,blowout,0
+occidental,2019,,,L,9-12,9.0,12.0,-3.0,21.0,False,moderate,0
+occidental,2019,,,L,9-12,9.0,12.0,-3.0,21.0,False,moderate,0
+occidental,2019,,,L,1-4,1.0,4.0,-3.0,5.0,False,moderate,0
+occidental,2019,,,L,1-4,1.0,4.0,-3.0,5.0,False,moderate,0
+occidental,2019,,,L,3-10,3.0,10.0,-7.0,13.0,False,blowout,0
+occidental,2019,,,L,3-10,3.0,10.0,-7.0,13.0,False,blowout,0
+occidental,2019,,,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+occidental,2019,,,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+occidental,2019,,,L,4-9,4.0,9.0,-5.0,13.0,False,blowout,0
+occidental,2019,,,L,4-9,4.0,9.0,-5.0,13.0,False,blowout,0
+occidental,2019,,,L,10-12,10.0,12.0,-2.0,22.0,False,close,0
+occidental,2019,,,L,10-12,10.0,12.0,-2.0,22.0,False,close,0
+occidental,2019,,,L,7-17,7.0,17.0,-10.0,24.0,False,blowout,0
+occidental,2019,,,L,7-17,7.0,17.0,-10.0,24.0,False,blowout,0
+occidental,2019,,,W,6-2,6.0,2.0,4.0,8.0,True,moderate,1
+occidental,2019,,,W,6-2,6.0,2.0,4.0,8.0,True,moderate,1
+occidental,2019,,,L,0-10,0.0,10.0,-10.0,10.0,False,blowout,0
+occidental,2019,,,L,0-10,0.0,10.0,-10.0,10.0,False,blowout,0
+occidental,2019,,,W,11-3,11.0,3.0,8.0,14.0,True,blowout,1
+occidental,2019,,,W,11-3,11.0,3.0,8.0,14.0,True,blowout,1
+occidental,2019,,,L,4-5,4.0,5.0,-1.0,9.0,False,close,0
+occidental,2019,,,L,4-5,4.0,5.0,-1.0,9.0,False,close,0
+occidental,2019,,,W,6-4,6.0,4.0,2.0,10.0,True,close,1
+occidental,2019,,,W,6-4,6.0,4.0,2.0,10.0,True,close,1
+occidental,2019,,,L,6-9,6.0,9.0,-3.0,15.0,False,moderate,0
+occidental,2019,,,L,6-9,6.0,9.0,-3.0,15.0,False,moderate,0
+occidental,2019,,,L,6-7,6.0,7.0,-1.0,13.0,False,close,0
+occidental,2019,,,L,6-7,6.0,7.0,-1.0,13.0,False,close,0
+occidental,2019,,,L,2-10,2.0,10.0,-8.0,12.0,False,blowout,0
+occidental,2019,,,L,2-10,2.0,10.0,-8.0,12.0,False,blowout,0
+occidental,2019,,,L,4-8,4.0,8.0,-4.0,12.0,False,moderate,0
+occidental,2019,,,L,4-8,4.0,8.0,-4.0,12.0,False,moderate,0
+occidental,2019,,,L,5-9,5.0,9.0,-4.0,14.0,False,moderate,0
+occidental,2019,,,L,5-9,5.0,9.0,-4.0,14.0,False,moderate,0
+occidental,2019,,,L,0-11,0.0,11.0,-11.0,11.0,False,blowout,0
+occidental,2019,,,L,0-11,0.0,11.0,-11.0,11.0,False,blowout,0
+occidental,2019,,,L,6-12,6.0,12.0,-6.0,18.0,False,blowout,0
+occidental,2019,,,L,6-12,6.0,12.0,-6.0,18.0,False,blowout,0
+occidental,2019,,,L,0-5,0.0,5.0,-5.0,5.0,False,blowout,0
+occidental,2019,,,L,0-5,0.0,5.0,-5.0,5.0,False,blowout,0
+occidental,2019,,,L,3-15,3.0,15.0,-12.0,18.0,False,blowout,0
+occidental,2019,,,L,3-15,3.0,15.0,-12.0,18.0,False,blowout,0
+occidental,2019,,,L,5-6,5.0,6.0,-1.0,11.0,False,close,0
+occidental,2019,,,L,5-6,5.0,6.0,-1.0,11.0,False,close,0
+occidental,2019,,,L,4-10,4.0,10.0,-6.0,14.0,False,blowout,0
+occidental,2019,,,L,4-10,4.0,10.0,-6.0,14.0,False,blowout,0
+occidental,2019,,,L,7-8,7.0,8.0,-1.0,15.0,False,close,0
+occidental,2019,,,L,7-8,7.0,8.0,-1.0,15.0,False,close,0
+occidental,2019,,,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+occidental,2019,,,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+occidental,2019,,,L,4-8,4.0,8.0,-4.0,12.0,False,moderate,0
+occidental,2019,,,L,4-8,4.0,8.0,-4.0,12.0,False,moderate,0
+occidental,2019,,,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+occidental,2019,,,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+occidental,2019,,,L,0-7,0.0,7.0,-7.0,7.0,False,blowout,0
+occidental,2019,,,L,0-7,0.0,7.0,-7.0,7.0,False,blowout,0
+occidental,2019,,,L,9-10,9.0,10.0,-1.0,19.0,False,close,0
+occidental,2019,,,L,9-10,9.0,10.0,-1.0,19.0,False,close,0
+occidental,2020,,,L,2-13,2.0,13.0,-11.0,15.0,False,blowout,0
+occidental,2020,,,L,2-13,2.0,13.0,-11.0,15.0,False,blowout,0
+occidental,2020,,,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+occidental,2020,,,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,L,3-7,3.0,7.0,-4.0,10.0,False,moderate,0
+occidental,2020,,,L,3-7,3.0,7.0,-4.0,10.0,False,moderate,0
+occidental,2020,,,W,5-4,5.0,4.0,1.0,9.0,True,close,1
+occidental,2020,,,W,5-4,5.0,4.0,1.0,9.0,True,close,1
+occidental,2020,,,L,2-12,2.0,12.0,-10.0,14.0,False,blowout,0
+occidental,2020,,,L,2-12,2.0,12.0,-10.0,14.0,False,blowout,0
+occidental,2020,,,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+occidental,2020,,,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+occidental,2020,,,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+occidental,2020,,,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+occidental,2020,,,L,1-10,1.0,10.0,-9.0,11.0,False,blowout,0
+occidental,2020,,,L,1-10,1.0,10.0,-9.0,11.0,False,blowout,0
+occidental,2020,,,L,3-5,3.0,5.0,-2.0,8.0,False,close,0
+occidental,2020,,,L,3-5,3.0,5.0,-2.0,8.0,False,close,0
+occidental,2020,,,L,3-9,3.0,9.0,-6.0,12.0,False,blowout,0
+occidental,2020,,,L,3-9,3.0,9.0,-6.0,12.0,False,blowout,0
+occidental,2020,,,L,2-10,2.0,10.0,-8.0,12.0,False,blowout,0
+occidental,2020,,,L,2-10,2.0,10.0,-8.0,12.0,False,blowout,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,L,1-9,1.0,9.0,-8.0,10.0,False,blowout,0
+occidental,2020,,,L,1-9,1.0,9.0,-8.0,10.0,False,blowout,0
+occidental,2020,,,L,0-11,0.0,11.0,-11.0,11.0,False,blowout,0
+occidental,2020,,,L,0-11,0.0,11.0,-11.0,11.0,False,blowout,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2020,,,,,,,,,False,,0
+occidental,2021,,,,,,,,,False,,0
+occidental,2021,,,,,,,,,False,,0
+occidental,2021,,,,,,,,,False,,0
+occidental,2021,,,,,,,,,False,,0
+occidental,2021,,,L,7-8,7.0,8.0,-1.0,15.0,False,close,0
+occidental,2021,,,L,7-8,7.0,8.0,-1.0,15.0,False,close,0
+occidental,2021,,,L,3-6,3.0,6.0,-3.0,9.0,False,moderate,0
+occidental,2021,,,L,3-6,3.0,6.0,-3.0,9.0,False,moderate,0
+occidental,2021,,,L,4-7,4.0,7.0,-3.0,11.0,False,moderate,0
+occidental,2021,,,L,4-7,4.0,7.0,-3.0,11.0,False,moderate,0
+occidental,2021,,,L,1-4,1.0,4.0,-3.0,5.0,False,moderate,0
+occidental,2021,,,L,1-4,1.0,4.0,-3.0,5.0,False,moderate,0
+occidental,2021,,,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+occidental,2021,,,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+occidental,2021,,,L,2-6,2.0,6.0,-4.0,8.0,False,moderate,0
+occidental,2021,,,L,2-6,2.0,6.0,-4.0,8.0,False,moderate,0
+occidental,2021,,,L,1-13,1.0,13.0,-12.0,14.0,False,blowout,0
+occidental,2021,,,L,1-13,1.0,13.0,-12.0,14.0,False,blowout,0
+occidental,2021,,,L,1-3,1.0,3.0,-2.0,4.0,False,close,0
+occidental,2021,,,L,1-3,1.0,3.0,-2.0,4.0,False,close,0
+occidental,2021,,,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+occidental,2021,,,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+occidental,2021,,,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+occidental,2021,,,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+occidental,2021,,,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+occidental,2021,,,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+occidental,2021,,,W,13-8,13.0,8.0,5.0,21.0,True,blowout,1
+occidental,2021,,,W,13-8,13.0,8.0,5.0,21.0,True,blowout,1
+occidental,2021,,,L,5-6,5.0,6.0,-1.0,11.0,False,close,0
+occidental,2021,,,L,5-6,5.0,6.0,-1.0,11.0,False,close,0
+occidental,2021,,,W,10-0,10.0,0.0,10.0,10.0,True,blowout,1
+occidental,2021,,,W,10-0,10.0,0.0,10.0,10.0,True,blowout,1
+occidental,2021,,,,,,,,,False,,0
+occidental,2021,,,,,,,,,False,,0
+occidental,2021,,,,,,,,,False,,0
+occidental,2021,,,,,,,,,False,,0
+occidental,2021,,,,,,,,,False,,0
+occidental,2021,,,,,,,,,False,,0
+occidental,2021,,,,,,,,,False,,0
+occidental,2021,,,,,,,,,False,,0
+occidental,2021,,,L,2-7,2.0,7.0,-5.0,9.0,False,blowout,0
+occidental,2021,,,L,2-7,2.0,7.0,-5.0,9.0,False,blowout,0
+occidental,2021,,,L,4-11,4.0,11.0,-7.0,15.0,False,blowout,0
+occidental,2021,,,L,4-11,4.0,11.0,-7.0,15.0,False,blowout,0
+occidental,2021,,,L,0-6,0.0,6.0,-6.0,6.0,False,blowout,0
+occidental,2021,,,L,0-6,0.0,6.0,-6.0,6.0,False,blowout,0
+occidental,2021,,,L,3-5,3.0,5.0,-2.0,8.0,False,close,0
+occidental,2021,,,L,3-5,3.0,5.0,-2.0,8.0,False,close,0
+occidental,2021,,,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+occidental,2021,,,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+occidental,2021,,,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+occidental,2021,,,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+occidental,2021,,,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+occidental,2021,,,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+occidental,2021,,,W,5-3,5.0,3.0,2.0,8.0,True,close,1
+occidental,2021,,,W,5-3,5.0,3.0,2.0,8.0,True,close,1
+occidental,2021,,,L,0-1,0.0,1.0,-1.0,1.0,False,close,0
+occidental,2021,,,L,0-1,0.0,1.0,-1.0,1.0,False,close,0
+occidental,2021,,,L,0-16,0.0,16.0,-16.0,16.0,False,blowout,0
+occidental,2021,,,L,0-16,0.0,16.0,-16.0,16.0,False,blowout,0
+occidental,2021,,,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+occidental,2021,,,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+occidental,2021,,,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+occidental,2021,,,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+occidental,2021,,,L,1-9,1.0,9.0,-8.0,10.0,False,blowout,0
+occidental,2021,,,L,1-9,1.0,9.0,-8.0,10.0,False,blowout,0
+occidental,2021,,,L,0-6,0.0,6.0,-6.0,6.0,False,blowout,0
+occidental,2021,,,L,0-6,0.0,6.0,-6.0,6.0,False,blowout,0
+occidental,2021,,,L,0-2,0.0,2.0,-2.0,2.0,False,close,0
+occidental,2021,,,L,0-2,0.0,2.0,-2.0,2.0,False,close,0
+occidental,2021,,,L,4-7,4.0,7.0,-3.0,11.0,False,moderate,0
+occidental,2021,,,L,4-7,4.0,7.0,-3.0,11.0,False,moderate,0
+occidental,2021,,,,,,,,,False,,0
+occidental,2021,,,,,,,,,False,,0
+occidental,2021,,,,,,,,,False,,0
+occidental,2021,,,,,,,,,False,,0
+occidental,2021,,,,,,,,,False,,0
+occidental,2021,,,,,,,,,False,,0
+occidental,2021,,,,,,,,,False,,0
+occidental,2021,,,,,,,,,False,,0
+occidental,2021,,,,,,,,,False,,0
+occidental,2021,,,,,,,,,False,,0
+occidental,2021,,,,,,,,,False,,0
+occidental,2021,,,,,,,,,False,,0
+occidental,2022,,,L,1-4,1.0,4.0,-3.0,5.0,False,moderate,0
+occidental,2022,,,L,1-4,1.0,4.0,-3.0,5.0,False,moderate,0
+occidental,2022,,,W,4-0,4.0,0.0,4.0,4.0,True,moderate,1
+occidental,2022,,,W,4-0,4.0,0.0,4.0,4.0,True,moderate,1
+occidental,2022,,,L,2-5,2.0,5.0,-3.0,7.0,False,moderate,0
+occidental,2022,,,L,2-5,2.0,5.0,-3.0,7.0,False,moderate,0
+occidental,2022,,,W,3-0,3.0,0.0,3.0,3.0,True,moderate,1
+occidental,2022,,,W,3-0,3.0,0.0,3.0,3.0,True,moderate,1
+occidental,2022,,,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+occidental,2022,,,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+occidental,2022,,,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+occidental,2022,,,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+occidental,2022,,,L,3-8,3.0,8.0,-5.0,11.0,False,blowout,0
+occidental,2022,,,L,3-8,3.0,8.0,-5.0,11.0,False,blowout,0
+occidental,2022,,,L,3-11,3.0,11.0,-8.0,14.0,False,blowout,0
+occidental,2022,,,L,3-11,3.0,11.0,-8.0,14.0,False,blowout,0
+occidental,2022,,,L,1-4,1.0,4.0,-3.0,5.0,False,moderate,0
+occidental,2022,,,L,1-4,1.0,4.0,-3.0,5.0,False,moderate,0
+occidental,2022,,,L,5-6,5.0,6.0,-1.0,11.0,False,close,0
+occidental,2022,,,L,5-6,5.0,6.0,-1.0,11.0,False,close,0
+occidental,2022,,,L,2-8,2.0,8.0,-6.0,10.0,False,blowout,0
+occidental,2022,,,L,2-8,2.0,8.0,-6.0,10.0,False,blowout,0
+occidental,2022,,,W,7-6,7.0,6.0,1.0,13.0,True,close,1
+occidental,2022,,,W,7-6,7.0,6.0,1.0,13.0,True,close,1
+occidental,2022,,,L,5-7,5.0,7.0,-2.0,12.0,False,close,0
+occidental,2022,,,L,5-7,5.0,7.0,-2.0,12.0,False,close,0
+occidental,2022,,,W,11-10,11.0,10.0,1.0,21.0,True,close,1
+occidental,2022,,,W,11-10,11.0,10.0,1.0,21.0,True,close,1
+occidental,2022,,,L,0-17,0.0,17.0,-17.0,17.0,False,blowout,0
+occidental,2022,,,L,0-17,0.0,17.0,-17.0,17.0,False,blowout,0
+occidental,2022,,,L,1-4,1.0,4.0,-3.0,5.0,False,moderate,0
+occidental,2022,,,L,1-4,1.0,4.0,-3.0,5.0,False,moderate,0
+occidental,2022,,,W,5-3,5.0,3.0,2.0,8.0,True,close,1
+occidental,2022,,,W,5-3,5.0,3.0,2.0,8.0,True,close,1
+occidental,2022,,,W,11-4,11.0,4.0,7.0,15.0,True,blowout,1
+occidental,2022,,,W,11-4,11.0,4.0,7.0,15.0,True,blowout,1
+occidental,2022,,,L,0-3,0.0,3.0,-3.0,3.0,False,moderate,0
+occidental,2022,,,L,0-3,0.0,3.0,-3.0,3.0,False,moderate,0
+occidental,2022,,,L,3-11,3.0,11.0,-8.0,14.0,False,blowout,0
+occidental,2022,,,L,3-11,3.0,11.0,-8.0,14.0,False,blowout,0
+occidental,2022,,,L,2-10,2.0,10.0,-8.0,12.0,False,blowout,0
+occidental,2022,,,L,2-10,2.0,10.0,-8.0,12.0,False,blowout,0
+occidental,2022,,,W,6-4,6.0,4.0,2.0,10.0,True,close,1
+occidental,2022,,,W,6-4,6.0,4.0,2.0,10.0,True,close,1
+occidental,2022,,,W,10-6,10.0,6.0,4.0,16.0,True,moderate,1
+occidental,2022,,,W,10-6,10.0,6.0,4.0,16.0,True,moderate,1
+occidental,2022,,,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+occidental,2022,,,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+occidental,2022,,,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+occidental,2022,,,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+occidental,2022,,,L,3-7,3.0,7.0,-4.0,10.0,False,moderate,0
+occidental,2022,,,L,3-7,3.0,7.0,-4.0,10.0,False,moderate,0
+occidental,2022,,,L,0-1,0.0,1.0,-1.0,1.0,False,close,0
+occidental,2022,,,L,0-1,0.0,1.0,-1.0,1.0,False,close,0
+occidental,2022,,,L,6-7,6.0,7.0,-1.0,13.0,False,close,0
+occidental,2022,,,L,6-7,6.0,7.0,-1.0,13.0,False,close,0
+occidental,2022,,,L,2-10,2.0,10.0,-8.0,12.0,False,blowout,0
+occidental,2022,,,L,2-10,2.0,10.0,-8.0,12.0,False,blowout,0
+occidental,2022,,,L,4-11,4.0,11.0,-7.0,15.0,False,blowout,0
+occidental,2022,,,L,4-11,4.0,11.0,-7.0,15.0,False,blowout,0
+occidental,2022,,,L,1-11,1.0,11.0,-10.0,12.0,False,blowout,0
+occidental,2022,,,L,1-11,1.0,11.0,-10.0,12.0,False,blowout,0
+occidental,2022,,,L,6-8,6.0,8.0,-2.0,14.0,False,close,0
+occidental,2022,,,L,6-8,6.0,8.0,-2.0,14.0,False,close,0
+occidental,2022,,,W,6-1,6.0,1.0,5.0,7.0,True,blowout,1
+occidental,2022,,,W,6-1,6.0,1.0,5.0,7.0,True,blowout,1
+occidental,2022,,,L,4-5,4.0,5.0,-1.0,9.0,False,close,0
+occidental,2022,,,L,4-5,4.0,5.0,-1.0,9.0,False,close,0
+occidental,2022,,,L,0-10,0.0,10.0,-10.0,10.0,False,blowout,0
+occidental,2022,,,L,0-10,0.0,10.0,-10.0,10.0,False,blowout,0
+occidental,2022,,,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+occidental,2022,,,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+occidental,2022,,,W,8-7,8.0,7.0,1.0,15.0,True,close,1
+occidental,2022,,,W,8-7,8.0,7.0,1.0,15.0,True,close,1
+occidental,2022,,,L,4-5,4.0,5.0,-1.0,9.0,False,close,0
+occidental,2022,,,L,4-5,4.0,5.0,-1.0,9.0,False,close,0
+occidental,2022,,,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+occidental,2022,,,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+occidental,2022,,,L,2-12,2.0,12.0,-10.0,14.0,False,blowout,0
+occidental,2022,,,L,2-12,2.0,12.0,-10.0,14.0,False,blowout,0
+occidental,2023,,,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+occidental,2023,,,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+occidental,2023,,,L,6-8,6.0,8.0,-2.0,14.0,False,close,0
+occidental,2023,,,L,6-8,6.0,8.0,-2.0,14.0,False,close,0
+occidental,2023,,,L,5-15,5.0,15.0,-10.0,20.0,False,blowout,0
+occidental,2023,,,L,5-15,5.0,15.0,-10.0,20.0,False,blowout,0
+occidental,2023,,,L,6-10,6.0,10.0,-4.0,16.0,False,moderate,0
+occidental,2023,,,L,6-10,6.0,10.0,-4.0,16.0,False,moderate,0
+occidental,2023,,,L,4-13,4.0,13.0,-9.0,17.0,False,blowout,0
+occidental,2023,,,L,4-13,4.0,13.0,-9.0,17.0,False,blowout,0
+occidental,2023,,,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+occidental,2023,,,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+occidental,2023,,,L,0-4,0.0,4.0,-4.0,4.0,False,moderate,0
+occidental,2023,,,L,0-4,0.0,4.0,-4.0,4.0,False,moderate,0
+occidental,2023,,,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+occidental,2023,,,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+occidental,2023,,,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+occidental,2023,,,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+occidental,2023,,,W,7-6,7.0,6.0,1.0,13.0,True,close,1
+occidental,2023,,,W,7-6,7.0,6.0,1.0,13.0,True,close,1
+occidental,2023,,,,,,,,,False,,0
+occidental,2023,,,,,,,,,False,,0
+occidental,2023,,,,,,,,,False,,0
+occidental,2023,,,,,,,,,False,,0
+occidental,2023,,,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+occidental,2023,,,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+occidental,2023,,,L,5-6,5.0,6.0,-1.0,11.0,False,close,0
+occidental,2023,,,L,5-6,5.0,6.0,-1.0,11.0,False,close,0
+occidental,2023,,,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+occidental,2023,,,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+occidental,2023,,,,,,,,,False,,0
+occidental,2023,,,,,,,,,False,,0
+occidental,2023,,,W,17-15,17.0,15.0,2.0,32.0,True,close,1
+occidental,2023,,,W,17-15,17.0,15.0,2.0,32.0,True,close,1
+occidental,2023,,,L,7-9,7.0,9.0,-2.0,16.0,False,close,0
+occidental,2023,,,L,7-9,7.0,9.0,-2.0,16.0,False,close,0
+occidental,2023,,,L,1-3,1.0,3.0,-2.0,4.0,False,close,0
+occidental,2023,,,L,1-3,1.0,3.0,-2.0,4.0,False,close,0
+occidental,2023,,,L,1-11,1.0,11.0,-10.0,12.0,False,blowout,0
+occidental,2023,,,L,1-11,1.0,11.0,-10.0,12.0,False,blowout,0
+occidental,2023,,,L,1-7,1.0,7.0,-6.0,8.0,False,blowout,0
+occidental,2023,,,L,1-7,1.0,7.0,-6.0,8.0,False,blowout,0
+occidental,2023,,,L,1-7,1.0,7.0,-6.0,8.0,False,blowout,0
+occidental,2023,,,L,1-7,1.0,7.0,-6.0,8.0,False,blowout,0
+occidental,2023,,,L,0-6,0.0,6.0,-6.0,6.0,False,blowout,0
+occidental,2023,,,L,0-6,0.0,6.0,-6.0,6.0,False,blowout,0
+occidental,2023,,,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+occidental,2023,,,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+occidental,2023,,,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+occidental,2023,,,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+occidental,2023,,,L,1-3,1.0,3.0,-2.0,4.0,False,close,0
+occidental,2023,,,L,1-3,1.0,3.0,-2.0,4.0,False,close,0
+occidental,2023,,,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+occidental,2023,,,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+occidental,2023,,,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+occidental,2023,,,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+occidental,2023,,,L,0-2,0.0,2.0,-2.0,2.0,False,close,0
+occidental,2023,,,L,0-2,0.0,2.0,-2.0,2.0,False,close,0
+occidental,2023,,,W,4-1,4.0,1.0,3.0,5.0,True,moderate,1
+occidental,2023,,,W,4-1,4.0,1.0,3.0,5.0,True,moderate,1
+occidental,2023,,,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+occidental,2023,,,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+occidental,2023,,,W,4-0,4.0,0.0,4.0,4.0,True,moderate,1
+occidental,2023,,,W,4-0,4.0,0.0,4.0,4.0,True,moderate,1
+occidental,2023,,,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+occidental,2023,,,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+occidental,2023,,,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+occidental,2023,,,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+occidental,2023,,,L,1-7,1.0,7.0,-6.0,8.0,False,blowout,0
+occidental,2023,,,L,1-7,1.0,7.0,-6.0,8.0,False,blowout,0
+occidental,2023,,,L,1-10,1.0,10.0,-9.0,11.0,False,blowout,0
+occidental,2023,,,L,1-10,1.0,10.0,-9.0,11.0,False,blowout,0
+occidental,2023,,,L,0-3,0.0,3.0,-3.0,3.0,False,moderate,0
+occidental,2023,,,L,0-3,0.0,3.0,-3.0,3.0,False,moderate,0
+occidental,2023,,,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+occidental,2023,,,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+occidental,2023,,,W,4-1,4.0,1.0,3.0,5.0,True,moderate,1
+occidental,2023,,,W,4-1,4.0,1.0,3.0,5.0,True,moderate,1
+occidental,2024,,,L,1-3,1.0,3.0,-2.0,4.0,False,close,0
+occidental,2024,,,L,1-3,1.0,3.0,-2.0,4.0,False,close,0
+occidental,2024,,,L,2-5,2.0,5.0,-3.0,7.0,False,moderate,0
+occidental,2024,,,L,2-5,2.0,5.0,-3.0,7.0,False,moderate,0
+occidental,2024,,,L,7-14,7.0,14.0,-7.0,21.0,False,blowout,0
+occidental,2024,,,L,7-14,7.0,14.0,-7.0,21.0,False,blowout,0
+occidental,2024,,,L,2-6,2.0,6.0,-4.0,8.0,False,moderate,0
+occidental,2024,,,L,2-6,2.0,6.0,-4.0,8.0,False,moderate,0
+occidental,2024,,,L,0-2,0.0,2.0,-2.0,2.0,False,close,0
+occidental,2024,,,L,0-2,0.0,2.0,-2.0,2.0,False,close,0
+occidental,2024,,,L,0-10,0.0,10.0,-10.0,10.0,False,blowout,0
+occidental,2024,,,L,0-10,0.0,10.0,-10.0,10.0,False,blowout,0
+occidental,2024,,,W,4-0,4.0,0.0,4.0,4.0,True,moderate,1
+occidental,2024,,,W,4-0,4.0,0.0,4.0,4.0,True,moderate,1
+occidental,2024,,,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+occidental,2024,,,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+occidental,2024,,,L,1-6,1.0,6.0,-5.0,7.0,False,blowout,0
+occidental,2024,,,L,1-6,1.0,6.0,-5.0,7.0,False,blowout,0
+occidental,2024,,,L,1-8,1.0,8.0,-7.0,9.0,False,blowout,0
+occidental,2024,,,L,1-8,1.0,8.0,-7.0,9.0,False,blowout,0
+occidental,2024,,,W,6-2,6.0,2.0,4.0,8.0,True,moderate,1
+occidental,2024,,,W,6-2,6.0,2.0,4.0,8.0,True,moderate,1
+occidental,2024,,,W,13-2,13.0,2.0,11.0,15.0,True,blowout,1
+occidental,2024,,,W,13-2,13.0,2.0,11.0,15.0,True,blowout,1
+occidental,2024,,,W,5-3,5.0,3.0,2.0,8.0,True,close,1
+occidental,2024,,,W,5-3,5.0,3.0,2.0,8.0,True,close,1
+occidental,2024,,,L,0-2,0.0,2.0,-2.0,2.0,False,close,0
+occidental,2024,,,L,0-2,0.0,2.0,-2.0,2.0,False,close,0
+occidental,2024,,,W,14-6,14.0,6.0,8.0,20.0,True,blowout,1
+occidental,2024,,,W,14-6,14.0,6.0,8.0,20.0,True,blowout,1
+occidental,2024,,,L,0-6,0.0,6.0,-6.0,6.0,False,blowout,0
+occidental,2024,,,L,0-6,0.0,6.0,-6.0,6.0,False,blowout,0
+occidental,2024,,,L,1-4,1.0,4.0,-3.0,5.0,False,moderate,0
+occidental,2024,,,L,1-4,1.0,4.0,-3.0,5.0,False,moderate,0
+occidental,2024,,,L,0-1,0.0,1.0,-1.0,1.0,False,close,0
+occidental,2024,,,L,0-1,0.0,1.0,-1.0,1.0,False,close,0
+occidental,2024,,,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+occidental,2024,,,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+occidental,2024,,,L,7-10,7.0,10.0,-3.0,17.0,False,moderate,0
+occidental,2024,,,L,7-10,7.0,10.0,-3.0,17.0,False,moderate,0
+occidental,2024,,,W,6-5,6.0,5.0,1.0,11.0,True,close,1
+occidental,2024,,,W,6-5,6.0,5.0,1.0,11.0,True,close,1
+occidental,2024,,,L,2-5,2.0,5.0,-3.0,7.0,False,moderate,0
+occidental,2024,,,L,2-5,2.0,5.0,-3.0,7.0,False,moderate,0
+occidental,2024,,,L,3-5,3.0,5.0,-2.0,8.0,False,close,0
+occidental,2024,,,L,3-5,3.0,5.0,-2.0,8.0,False,close,0
+occidental,2024,,,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+occidental,2024,,,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+occidental,2024,,,L,0-1,0.0,1.0,-1.0,1.0,False,close,0
+occidental,2024,,,L,0-1,0.0,1.0,-1.0,1.0,False,close,0
+occidental,2024,,,L,6-7,6.0,7.0,-1.0,13.0,False,close,0
+occidental,2024,,,L,6-7,6.0,7.0,-1.0,13.0,False,close,0
+occidental,2024,,,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+occidental,2024,,,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+occidental,2024,,,L,1-9,1.0,9.0,-8.0,10.0,False,blowout,0
+occidental,2024,,,L,1-9,1.0,9.0,-8.0,10.0,False,blowout,0
+occidental,2024,,,L,5-7,5.0,7.0,-2.0,12.0,False,close,0
+occidental,2024,,,L,5-7,5.0,7.0,-2.0,12.0,False,close,0
+occidental,2024,,,L,0-2,0.0,2.0,-2.0,2.0,False,close,0
+occidental,2024,,,L,0-2,0.0,2.0,-2.0,2.0,False,close,0
+occidental,2024,,,L,0-7,0.0,7.0,-7.0,7.0,False,blowout,0
+occidental,2024,,,L,0-7,0.0,7.0,-7.0,7.0,False,blowout,0
+occidental,2024,,,L,2-5,2.0,5.0,-3.0,7.0,False,moderate,0
+occidental,2024,,,L,2-5,2.0,5.0,-3.0,7.0,False,moderate,0
+occidental,2024,,,L,3-11,3.0,11.0,-8.0,14.0,False,blowout,0
+occidental,2024,,,L,3-11,3.0,11.0,-8.0,14.0,False,blowout,0
+occidental,2024,,,W,1-0,1.0,0.0,1.0,1.0,True,close,1
+occidental,2024,,,W,1-0,1.0,0.0,1.0,1.0,True,close,1
+occidental,2024,,,L,1-8,1.0,8.0,-7.0,9.0,False,blowout,0
+occidental,2024,,,L,1-8,1.0,8.0,-7.0,9.0,False,blowout,0
+occidental,2024,,,L,3-9,3.0,9.0,-6.0,12.0,False,blowout,0
+occidental,2024,,,L,3-9,3.0,9.0,-6.0,12.0,False,blowout,0
+occidental,2025,,,W,12-3,12.0,3.0,9.0,15.0,True,blowout,1
+occidental,2025,,,W,12-3,12.0,3.0,9.0,15.0,True,blowout,1
+occidental,2025,,,,,,,,,False,,0
+occidental,2025,,,,,,,,,False,,0
+occidental,2025,,,L,0-15,0.0,15.0,-15.0,15.0,False,blowout,0
+occidental,2025,,,L,0-15,0.0,15.0,-15.0,15.0,False,blowout,0
+occidental,2025,,,L,4-12,4.0,12.0,-8.0,16.0,False,blowout,0
+occidental,2025,,,L,4-12,4.0,12.0,-8.0,16.0,False,blowout,0
+occidental,2025,,,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+occidental,2025,,,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+occidental,2025,,,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+occidental,2025,,,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+occidental,2025,,,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+occidental,2025,,,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+occidental,2025,,,L,5-13,5.0,13.0,-8.0,18.0,False,blowout,0
+occidental,2025,,,L,5-13,5.0,13.0,-8.0,18.0,False,blowout,0
+occidental,2025,,,L,1-9,1.0,9.0,-8.0,10.0,False,blowout,0
+occidental,2025,,,L,1-9,1.0,9.0,-8.0,10.0,False,blowout,0
+occidental,2025,,,L,5-13,5.0,13.0,-8.0,18.0,False,blowout,0
+occidental,2025,,,L,5-13,5.0,13.0,-8.0,18.0,False,blowout,0
+occidental,2025,,,L,1-8,1.0,8.0,-7.0,9.0,False,blowout,0
+occidental,2025,,,L,1-8,1.0,8.0,-7.0,9.0,False,blowout,0
+occidental,2025,,,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+occidental,2025,,,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+occidental,2025,,,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+occidental,2025,,,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+occidental,2025,,,L,7-18,7.0,18.0,-11.0,25.0,False,blowout,0
+occidental,2025,,,L,7-18,7.0,18.0,-11.0,25.0,False,blowout,0
+occidental,2025,,,L,5-6,5.0,6.0,-1.0,11.0,False,close,0
+occidental,2025,,,L,5-6,5.0,6.0,-1.0,11.0,False,close,0
+occidental,2025,,,L,7-10,7.0,10.0,-3.0,17.0,False,moderate,0
+occidental,2025,,,L,7-10,7.0,10.0,-3.0,17.0,False,moderate,0
+occidental,2025,,,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+occidental,2025,,,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+occidental,2025,,,L,4-6,4.0,6.0,-2.0,10.0,False,close,0
+occidental,2025,,,L,4-6,4.0,6.0,-2.0,10.0,False,close,0
+occidental,2025,,,L,4-12,4.0,12.0,-8.0,16.0,False,blowout,0
+occidental,2025,,,L,4-12,4.0,12.0,-8.0,16.0,False,blowout,0
+occidental,2025,,,L,1-15,1.0,15.0,-14.0,16.0,False,blowout,0
+occidental,2025,,,L,1-15,1.0,15.0,-14.0,16.0,False,blowout,0
+occidental,2025,,,,,,,,,False,,0
+occidental,2025,,,,,,,,,False,,0
+occidental,2025,,,,,,,,,False,,0
+occidental,2025,,,,,,,,,False,,0
+occidental,2025,,,L,4-7,4.0,7.0,-3.0,11.0,False,moderate,0
+occidental,2025,,,L,4-7,4.0,7.0,-3.0,11.0,False,moderate,0
+occidental,2025,,,L,1-9,1.0,9.0,-8.0,10.0,False,blowout,0
+occidental,2025,,,L,1-9,1.0,9.0,-8.0,10.0,False,blowout,0
+occidental,2025,,,L,3-11,3.0,11.0,-8.0,14.0,False,blowout,0
+occidental,2025,,,L,3-11,3.0,11.0,-8.0,14.0,False,blowout,0
+occidental,2025,,,L,1-10,1.0,10.0,-9.0,11.0,False,blowout,0
+occidental,2025,,,L,1-10,1.0,10.0,-9.0,11.0,False,blowout,0
+occidental,2025,,,L,1-8,1.0,8.0,-7.0,9.0,False,blowout,0
+occidental,2025,,,L,1-8,1.0,8.0,-7.0,9.0,False,blowout,0
+occidental,2025,,,L,1-6,1.0,6.0,-5.0,7.0,False,blowout,0
+occidental,2025,,,L,1-6,1.0,6.0,-5.0,7.0,False,blowout,0
+occidental,2025,,,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+occidental,2025,,,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+occidental,2025,,,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+occidental,2025,,,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+occidental,2025,,,L,1-5,1.0,5.0,-4.0,6.0,False,moderate,0
+occidental,2025,,,L,1-5,1.0,5.0,-4.0,6.0,False,moderate,0
+occidental,2025,,,W,6-5,6.0,5.0,1.0,11.0,True,close,1
+occidental,2025,,,W,6-5,6.0,5.0,1.0,11.0,True,close,1
+occidental,2025,,,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+occidental,2025,,,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+occidental,2025,,,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+occidental,2025,,,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+occidental,2025,,,L,1-3,1.0,3.0,-2.0,4.0,False,close,0
+occidental,2025,,,L,1-3,1.0,3.0,-2.0,4.0,False,close,0
+occidental,2025,,,W,4-2,4.0,2.0,2.0,6.0,True,close,1
+occidental,2025,,,W,4-2,4.0,2.0,2.0,6.0,True,close,1
+occidental,2025,,,W,6-4,6.0,4.0,2.0,10.0,True,close,1
+occidental,2025,,,W,6-4,6.0,4.0,2.0,10.0,True,close,1
+occidental,2025,,,L,4-17,4.0,17.0,-13.0,21.0,False,blowout,0
+occidental,2025,,,L,4-17,4.0,17.0,-13.0,21.0,False,blowout,0
+occidental,2025,,,L,8-9,8.0,9.0,-1.0,17.0,False,close,0
+occidental,2025,,,L,8-9,8.0,9.0,-1.0,17.0,False,close,0
+occidental,2025,,,L,3-5,3.0,5.0,-2.0,8.0,False,close,0
+occidental,2025,,,L,3-5,3.0,5.0,-2.0,8.0,False,close,0
+occidental,2025,,,L,5-13,5.0,13.0,-8.0,18.0,False,blowout,0
+occidental,2025,,,L,5-13,5.0,13.0,-8.0,18.0,False,blowout,0
+la-verne,2019,alumni,2019-01-26 10:00:00,,,,,,,False,,0
+la-verne,2019,st katherine,2019-01-29 14:00:00,L,10-13,10.0,13.0,-3.0,23.0,False,moderate,0
+la-verne,2019,st katherine,2019-01-29 16:00:00,W,5-3,5.0,3.0,2.0,8.0,True,close,1
+la-verne,2019,whitworth,2019-02-09 12:00:00,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+la-verne,2019,whitworth,2019-02-09 14:00:00,W,1-0,1.0,0.0,1.0,1.0,True,close,1
+la-verne,2019,california-lutheran,2019-02-16 12:00:00,W,11-4,11.0,4.0,7.0,15.0,True,blowout,1
+la-verne,2019,california-lutheran,2019-02-16 14:00:00,W,6-4,6.0,4.0,2.0,10.0,True,close,1
+la-verne,2019,san diego christian,2019-02-20 12:00:00,,,,,,,False,,0
+la-verne,2019,san diego christian,2019-02-20 14:00:00,,,,,,,False,,0
+la-verne,2019,redlands,2019-02-23 12:00:00,W,6-4,6.0,4.0,2.0,10.0,True,close,1
+la-verne,2019,redlands,2019-02-23 14:00:00,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+la-verne,2019,claremont-mudd-scripps,2019-03-09 12:00:00,L,7-8,7.0,8.0,-1.0,15.0,False,close,0
+la-verne,2019,claremont-mudd-scripps,2019-03-09 14:00:00,L,3-5,3.0,5.0,-2.0,8.0,False,close,0
+la-verne,2019,no berry,2019-03-10 12:00:00,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+la-verne,2019,no berry,2019-03-10 14:00:00,L,5-9,5.0,9.0,-4.0,14.0,False,moderate,0
+la-verne,2019,no ithaca,2019-03-13 12:00:00,L,5-6,5.0,6.0,-1.0,11.0,False,close,0
+la-verne,2019,no ithaca,2019-03-13 14:00:00,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+la-verne,2019,whittier,2019-03-16 12:00:00,L,5-13,5.0,13.0,-8.0,18.0,False,blowout,0
+la-verne,2019,whittier,2019-03-16 14:00:00,W,8-7,8.0,7.0,1.0,15.0,True,close,1
+la-verne,2019,occidental,2019-03-17 12:00:00,L,2-6,2.0,6.0,-4.0,8.0,False,moderate,0
+la-verne,2019,occidental,2019-03-17 14:00:00,W,10-0,10.0,0.0,10.0,10.0,True,blowout,1
+la-verne,2019,cortland,2019-03-19 12:00:00,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+la-verne,2019,cortland,2019-03-19 14:00:00,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+la-verne,2019,pomona-pitzer,2019-03-23 12:00:00,L,0-6,0.0,6.0,-6.0,6.0,False,blowout,0
+la-verne,2019,pomona-pitzer,2019-03-23 14:00:00,W,8-1,8.0,1.0,7.0,9.0,True,blowout,1
+la-verne,2019,no williams,2019-03-25 14:00:00,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+la-verne,2019,no williams,2019-03-25 16:00:00,L,3-9,3.0,9.0,-6.0,12.0,False,blowout,0
+la-verne,2019,chapman,2019-03-29 14:00:00,L,1-3,1.0,3.0,-2.0,4.0,False,close,0
+la-verne,2019,chapman,2019-03-29 16:00:00,L,3-10,3.0,10.0,-7.0,13.0,False,blowout,0
+la-verne,2019,california-lutheran,2019-03-30 12:00:00,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+la-verne,2019,california-lutheran,2019-03-30 14:00:00,W,13-0,13.0,0.0,13.0,13.0,True,blowout,1
+la-verne,2019,redlands,2019-04-06 12:00:00,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+la-verne,2019,redlands,2019-04-06 14:00:00,W,5-4,5.0,4.0,1.0,9.0,True,close,1
+la-verne,2019,occidental,2019-04-12 15:00:00,W,5-0,5.0,0.0,5.0,5.0,True,blowout,1
+la-verne,2019,occidental,2019-04-12 17:00:00,W,15-3,15.0,3.0,12.0,18.0,True,blowout,1
+la-verne,2019,claremont-mudd-scripps,2019-04-13 12:00:00,L,1-5,1.0,5.0,-4.0,6.0,False,moderate,0
+la-verne,2019,claremont-mudd-scripps,2019-04-13 14:00:00,L,5-7,5.0,7.0,-2.0,12.0,False,close,0
+la-verne,2019,whittier,2019-04-20 12:00:00,L,4-8,4.0,8.0,-4.0,12.0,False,moderate,0
+la-verne,2019,whittier,2019-04-20 14:00:00,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+la-verne,2019,chapman,2019-04-26 14:00:00,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+la-verne,2019,chapman,2019-04-26 16:00:00,W,6-4,6.0,4.0,2.0,10.0,True,close,1
+la-verne,2019,pomona-pitzer,2019-04-27 12:00:00,L,0-1,0.0,1.0,-1.0,1.0,False,close,0
+la-verne,2019,pomona-pitzer,2019-04-27 14:00:00,W,10-2,10.0,2.0,8.0,12.0,True,blowout,1
+la-verne,2020,st katherine,2020-01-18 12:00:00,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+la-verne,2020,st katherine,2020-01-18 14:00:00,W,7-0,7.0,0.0,7.0,7.0,True,blowout,1
+la-verne,2020,vanguard,2020-01-25 12:00:00,W,2-0,2.0,0.0,2.0,2.0,True,close,1
+la-verne,2020,vanguard,2020-01-25 14:00:00,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+la-verne,2020,alumni,2020-02-08 11:00:00,,,,,,,False,,0
+la-verne,2020,pacific lutheran,2020-02-15 12:00:00,W,4-2,4.0,2.0,2.0,6.0,True,close,1
+la-verne,2020,pacific lutheran,2020-02-15 14:00:00,W,5-4,5.0,4.0,1.0,9.0,True,close,1
+la-verne,2020,no linfield,2020-02-23 12:00:00,L,3-6,3.0,6.0,-3.0,9.0,False,moderate,0
+la-verne,2020,no linfield,2020-02-23 14:00:00,L,2-6,2.0,6.0,-4.0,8.0,False,moderate,0
+la-verne,2020,redlands,2020-02-28 15:00:00,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+la-verne,2020,redlands,2020-02-29 12:00:00,L,2-8,2.0,8.0,-6.0,10.0,False,blowout,0
+la-verne,2020,redlands,,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+la-verne,2020,california-lutheran,2020-03-06 14:00:00,L,1-4,1.0,4.0,-3.0,5.0,False,moderate,0
+la-verne,2020,california-lutheran,2020-03-07 12:00:00,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+la-verne,2020,california-lutheran,2020-03-07 14:00:00,W,11-3,11.0,3.0,8.0,14.0,True,blowout,1
+la-verne,2020,wpi,2020-03-09 12:00:00,W,5-4,5.0,4.0,1.0,9.0,True,close,1
+la-verne,2020,wpi,2020-03-09 14:00:00,L,2-12,2.0,12.0,-10.0,14.0,False,blowout,0
+la-verne,2020,rochester,2020-03-13 16:00:00,,,,,,,False,,0
+la-verne,2020,rochester,2020-03-13 18:00:00,,,,,,,False,,0
+la-verne,2020,dallas,2020-03-16 12:00:00,,,,,,,False,,0
+la-verne,2020,dallas,2020-03-16 14:00:00,,,,,,,False,,0
+la-verne,2020,stevenson,,,,,,,,False,,0
+la-verne,2020,buena vista,,,,,,,,False,,0
+la-verne,2020,grinnell,2020-03-18 10:00:00,,,,,,,False,,0
+la-verne,2020,lewis clark,2020-03-23 16:00:00,,,,,,,False,,0
+la-verne,2020,lewis clark,2020-03-23 18:00:00,,,,,,,False,,0
+la-verne,2020,pomona-pitzer,2020-03-27 15:00:00,,,,,,,False,,0
+la-verne,2020,pomona-pitzer,2020-03-28 12:00:00,,,,,,,False,,0
+la-verne,2020,pomona-pitzer,2020-03-28 14:00:00,,,,,,,False,,0
+la-verne,2020,chapman,2020-04-03 15:00:00,,,,,,,False,,0
+la-verne,2020,chapman,2020-04-04 12:00:00,,,,,,,False,,0
+la-verne,2020,chapman,2020-04-04 14:00:00,,,,,,,False,,0
+la-verne,2020,claremont-mudd-scripps,2020-04-10 14:00:00,,,,,,,False,,0
+la-verne,2020,claremont-mudd-scripps,2020-04-11 12:00:00,,,,,,,False,,0
+la-verne,2020,claremont-mudd-scripps,2020-04-11 14:00:00,,,,,,,False,,0
+la-verne,2020,occidental,2020-04-17 16:00:00,,,,,,,False,,0
+la-verne,2020,occidental,2020-04-18 12:00:00,,,,,,,False,,0
+la-verne,2020,occidental,2020-04-18 14:00:00,,,,,,,False,,0
+la-verne,2020,whittier,2020-04-24 14:00:00,,,,,,,False,,0
+la-verne,2020,whittier,2020-04-25 12:00:00,,,,,,,False,,0
+la-verne,2020,whittier,2020-04-25 14:00:00,,,,,,,False,,0
+la-verne,2020,tba,,,,,,,,False,,0
+la-verne,2020,tba,,,,,,,,False,,0
+la-verne,2020,tba,,,,,,,,False,,0
+la-verne,2021,chapman,2021-05-01 14:00:00,W,8-2,8.0,2.0,6.0,10.0,True,blowout,1
+la-verne,2021,chapman,2021-05-01 16:00:00,L,3-11,3.0,11.0,-8.0,14.0,False,blowout,0
+la-verne,2021,chapman,2021-05-02 14:00:00,L,4-11,4.0,11.0,-7.0,15.0,False,blowout,0
+la-verne,2021,redlands,2021-05-05 16:00:00,,,,,,,False,,0
+la-verne,2021,redlands,2021-05-05 18:00:00,,,,,,,False,,0
+la-verne,2021,california-lutheran,2021-05-07 14:00:00,W,14-1,14.0,1.0,13.0,15.0,True,blowout,1
+la-verne,2021,california-lutheran,2021-05-09 12:00:00,W,14-7,14.0,7.0,7.0,21.0,True,blowout,1
+la-verne,2021,california-lutheran,2021-05-09 14:00:00,L,5-6,5.0,6.0,-1.0,11.0,False,close,0
+la-verne,2021,chapman,2021-05-14 14:00:00,L,2-7,2.0,7.0,-5.0,9.0,False,blowout,0
+la-verne,2021,california-lutheran,2021-05-15 10:00:00,L,7-8,7.0,8.0,-1.0,15.0,False,close,0
+la-verne,2022,alumni,,,,,,,,False,,0
+la-verne,2022,hope intl,2022-02-09 17:00:00,W,3-1,3.0,1.0,2.0,4.0,True,close,1
+la-verne,2022,pacific,2022-02-11 16:00:00,W,10-9,10.0,9.0,1.0,19.0,True,close,1
+la-verne,2022,pacific,,W,7-2,7.0,2.0,5.0,9.0,True,blowout,1
+la-verne,2022,brandeis,2022-02-23 16:00:00,W,3-0,3.0,0.0,3.0,3.0,True,moderate,1
+la-verne,2022,brandeis,2022-02-23 18:00:00,L,3-5,3.0,5.0,-2.0,8.0,False,close,0
+la-verne,2022,pomona-pitzer,2022-02-25 14:00:00,W,8-4,8.0,4.0,4.0,12.0,True,moderate,1
+la-verne,2022,pomona-pitzer,2022-02-26 12:00:00,L,4-9,4.0,9.0,-5.0,13.0,False,blowout,0
+la-verne,2022,pomona-pitzer,,W,10-5,10.0,5.0,5.0,15.0,True,blowout,1
+la-verne,2022,bridgewater,2022-03-02 16:00:00,W,12-6,12.0,6.0,6.0,18.0,True,blowout,1
+la-verne,2022,bridgewater,2022-03-02 18:00:00,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+la-verne,2022,wpi,2022-03-08 15:00:00,W,4-1,4.0,1.0,3.0,5.0,True,moderate,1
+la-verne,2022,wpi,2022-03-08 17:00:00,W,14-7,14.0,7.0,7.0,21.0,True,blowout,1
+la-verne,2022,rochester,2022-03-10 15:00:00,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+la-verne,2022,rochester,2022-03-10 17:00:00,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+la-verne,2022,carnegie mellon,2022-03-11 16:00:00,L,1-7,1.0,7.0,-6.0,8.0,False,blowout,0
+la-verne,2022,carnegie mellon,,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+la-verne,2022,texas-dallas,2022-03-14 16:00:00,L,1-5,1.0,5.0,-4.0,6.0,False,moderate,0
+la-verne,2022,texas-dallas,2022-03-14 18:00:00,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+la-verne,2022,whittier,2022-03-18 15:00:00,W,7-6,7.0,6.0,1.0,13.0,True,close,1
+la-verne,2022,whittier,2022-03-19 12:00:00,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+la-verne,2022,whittier,2022-03-19 14:00:00,L,2-6,2.0,6.0,-4.0,8.0,False,moderate,0
+la-verne,2022,george fox,2022-03-25 13:00:00,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+la-verne,2022,george fox,2022-03-25 15:00:00,L,5-6,5.0,6.0,-1.0,11.0,False,close,0
+la-verne,2022,linfield,2022-03-26 13:00:00,W,1-0,1.0,0.0,1.0,1.0,True,close,1
+la-verne,2022,linfield,2022-03-26 15:00:00,W,6-5,6.0,5.0,1.0,11.0,True,close,1
+la-verne,2022,claremont-mudd-scripps,2022-04-01 15:00:00,W,4-0,4.0,0.0,4.0,4.0,True,moderate,1
+la-verne,2022,claremont-mudd-scripps,2022-04-02 12:00:00,W,5-4,5.0,4.0,1.0,9.0,True,close,1
+la-verne,2022,claremont-mudd-scripps,,L,3-5,3.0,5.0,-2.0,8.0,False,close,0
+la-verne,2022,occidental,,W,10-2,10.0,2.0,8.0,12.0,True,blowout,1
+la-verne,2022,occidental,2022-04-09 12:00:00,W,11-4,11.0,4.0,7.0,15.0,True,blowout,1
+la-verne,2022,occidental,2022-04-09 14:00:00,W,11-1,11.0,1.0,10.0,12.0,True,blowout,1
+la-verne,2022,redlands,2022-04-15 15:00:00,L,0-10,0.0,10.0,-10.0,10.0,False,blowout,0
+la-verne,2022,redlands,2022-04-16 12:00:00,L,1-6,1.0,6.0,-5.0,7.0,False,blowout,0
+la-verne,2022,redlands,2022-04-16 14:00:00,L,4-5,4.0,5.0,-1.0,9.0,False,close,0
+la-verne,2022,california-lutheran,2022-04-22 15:00:00,W,6-5,6.0,5.0,1.0,11.0,True,close,1
+la-verne,2022,california-lutheran,2022-04-23 12:00:00,W,1-0,1.0,0.0,1.0,1.0,True,close,1
+la-verne,2022,california-lutheran,2022-04-23 14:00:00,W,8-2,8.0,2.0,6.0,10.0,True,blowout,1
+la-verne,2022,chapman,2022-04-29 15:00:00,L,2-5,2.0,5.0,-3.0,7.0,False,moderate,0
+la-verne,2022,chapman,2022-04-30 12:00:00,W,6-3,6.0,3.0,3.0,9.0,True,moderate,1
+la-verne,2022,chapman,2022-04-30 14:00:00,L,1-4,1.0,4.0,-3.0,5.0,False,moderate,0
+la-verne,2022,chapman,2022-05-06 16:00:00,L,7-8,7.0,8.0,-1.0,15.0,False,close,0
+la-verne,2022,redlands,2022-05-07 11:00:00,L,5-8,5.0,8.0,-3.0,13.0,False,moderate,0
+la-verne,2023,alumni,2023-01-28 10:00:00,,,,,,,False,,0
+la-verne,2023,george fox,2023-02-10 14:00:00,L,1-6,1.0,6.0,-5.0,7.0,False,blowout,0
+la-verne,2023,george fox,2023-02-10 16:00:00,W,10-7,10.0,7.0,3.0,17.0,True,moderate,1
+la-verne,2023,pacific lutheran,2023-02-11 11:00:00,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+la-verne,2023,puget sound,2023-02-17 15:00:00,W,11-3,11.0,3.0,8.0,14.0,True,blowout,1
+la-verne,2023,puget sound,2023-02-17 17:00:00,W,8-7,8.0,7.0,1.0,15.0,True,close,1
+la-verne,2023,whitworth,2023-02-19 11:00:00,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+la-verne,2023,whitworth,2023-02-19 13:00:00,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+la-verne,2023,redlands,2023-03-02 15:00:00,W,9-5,9.0,5.0,4.0,14.0,True,moderate,1
+la-verne,2023,redlands,2023-03-02 17:00:00,L,4-5,4.0,5.0,-1.0,9.0,False,close,0
+la-verne,2023,baldwin wallace,2023-03-03 15:00:00,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+la-verne,2023,baldwin wallace,2023-03-03 17:00:00,L,1-5,1.0,5.0,-4.0,6.0,False,moderate,0
+la-verne,2023,buena vista,2023-03-07 15:00:00,W,14-3,14.0,3.0,11.0,17.0,True,blowout,1
+la-verne,2023,buena vista,,W,7-3,7.0,3.0,4.0,10.0,True,moderate,1
+la-verne,2023,manhattanville,2023-03-08 15:00:00,L,0-2,0.0,2.0,-2.0,2.0,False,close,0
+la-verne,2023,manhattanville,2023-03-08 17:00:00,W,3-1,3.0,1.0,2.0,4.0,True,close,1
+la-verne,2023,wpi,2023-03-09 15:00:00,W,6-4,6.0,4.0,2.0,10.0,True,close,1
+la-verne,2023,wpi,2023-03-09 17:00:00,W,9-5,9.0,5.0,4.0,14.0,True,moderate,1
+la-verne,2023,pomona-pitzer,2023-03-17 15:00:00,W,5-2,5.0,2.0,3.0,7.0,True,moderate,1
+la-verne,2023,pomona-pitzer,2023-03-18 12:00:00,L,3-14,3.0,14.0,-11.0,17.0,False,blowout,0
+la-verne,2023,pomona-pitzer,2023-03-18 14:00:00,L,1-7,1.0,7.0,-6.0,8.0,False,blowout,0
+la-verne,2023,williams,2023-03-25 14:00:00,W,1-0,1.0,0.0,1.0,1.0,True,close,1
+la-verne,2023,williams,2023-03-25 16:00:00,W,4-0,4.0,0.0,4.0,4.0,True,moderate,1
+la-verne,2023,whittier,2023-03-31 15:00:00,L,0-5,0.0,5.0,-5.0,5.0,False,blowout,0
+la-verne,2023,whittier,2023-04-01 12:00:00,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+la-verne,2023,whittier,2023-04-01 14:00:00,L,2-7,2.0,7.0,-5.0,9.0,False,blowout,0
+la-verne,2023,claremont-mudd-scripps,2023-04-07 15:00:00,W,8-3,8.0,3.0,5.0,11.0,True,blowout,1
+la-verne,2023,claremont-mudd-scripps,2023-04-08 12:00:00,W,8-5,8.0,5.0,3.0,13.0,True,moderate,1
+la-verne,2023,claremont-mudd-scripps,2023-04-08 14:00:00,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+la-verne,2023,redlands,2023-04-11 15:00:00,L,1-4,1.0,4.0,-3.0,5.0,False,moderate,0
+la-verne,2023,occidental,2023-04-14 15:00:00,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+la-verne,2023,occidental,2023-04-15 12:00:00,W,2-0,2.0,0.0,2.0,2.0,True,close,1
+la-verne,2023,occidental,2023-04-15 14:00:00,L,1-4,1.0,4.0,-3.0,5.0,False,moderate,0
+la-verne,2023,california-lutheran,2023-04-28 15:00:00,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+la-verne,2023,california-lutheran,2023-04-29 12:00:00,L,2-4,2.0,4.0,-2.0,6.0,False,close,0
+la-verne,2023,california-lutheran,2023-04-29 14:00:00,L,3-8,3.0,8.0,-5.0,11.0,False,blowout,0
+la-verne,2023,chapman,2023-05-05 19:00:00,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+la-verne,2023,chapman,2023-05-06 12:00:00,W,6-0,6.0,0.0,6.0,6.0,True,blowout,1
+la-verne,2023,chapman,,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+la-verne,2024,fullerton,2024-01-26 11:00:00,,,,,,,False,,0
+la-verne,2024,alumni,2024-01-27 11:00:00,,,,,,,False,,0
+la-verne,2024,whitworth,2024-02-18 10:00:00,L,0-7,0.0,7.0,-7.0,7.0,False,blowout,0
+la-verne,2024,whitworth,2024-02-18 12:00:00,W,7-5,7.0,5.0,2.0,12.0,True,close,1
+la-verne,2024,brandeis,2024-02-22 15:00:00,L,5-6,5.0,6.0,-1.0,11.0,False,close,0
+la-verne,2024,brandeis,2024-02-22 17:00:00,W,4-3,4.0,3.0,1.0,7.0,True,close,1
+la-verne,2024,pacific lutheran,2024-02-24 12:00:00,L,4-10,4.0,10.0,-6.0,14.0,False,blowout,0
+la-verne,2024,pacific lutheran,2024-02-24 14:00:00,L,4-5,4.0,5.0,-1.0,9.0,False,close,0
+la-verne,2024,york,2024-02-29 15:00:00,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+la-verne,2024,york,2024-02-29 17:00:00,L,1-9,1.0,9.0,-8.0,10.0,False,blowout,0
+la-verne,2024,john carroll,2024-03-05 15:00:00,W,9-1,9.0,1.0,8.0,10.0,True,blowout,1
+la-verne,2024,john carroll,2024-03-05 17:00:00,L,7-11,7.0,11.0,-4.0,18.0,False,moderate,0
+la-verne,2024,carnegie mellon,2024-03-07 15:00:00,,,,,,,False,,0
+la-verne,2024,carnegie mellon,2024-03-07 17:00:00,,,,,,,False,,0
+la-verne,2024,baldwin wallace,2024-03-09 11:00:00,W,6-1,6.0,1.0,5.0,7.0,True,blowout,1
+la-verne,2024,chapman,2024-03-09 15:00:00,L,1-5,1.0,5.0,-4.0,6.0,False,moderate,0
+la-verne,2024,redlands,2024-03-15 15:00:00,L,1-9,1.0,9.0,-8.0,10.0,False,blowout,0
+la-verne,2024,redlands,2024-03-16 12:00:00,W,5-3,5.0,3.0,2.0,8.0,True,close,1
+la-verne,2024,redlands,2024-03-16 14:00:00,L,5-6,5.0,6.0,-1.0,11.0,False,close,0
+la-verne,2024,williams,2024-03-20 15:00:00,W,6-3,6.0,3.0,3.0,9.0,True,moderate,1
+la-verne,2024,williams,2024-03-20 17:00:00,L,5-6,5.0,6.0,-1.0,11.0,False,close,0
+la-verne,2024,claremont-mudd-scripps,2024-03-22 15:00:00,L,3-11,3.0,11.0,-8.0,14.0,False,blowout,0
+la-verne,2024,claremont-mudd-scripps,2024-03-24 12:00:00,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+la-verne,2024,oberlin,2024-03-27 15:00:00,L,2-3,2.0,3.0,-1.0,5.0,False,close,0
+la-verne,2024,oberlin,2024-03-27 17:00:00,W,11-0,11.0,0.0,11.0,11.0,True,blowout,1
+la-verne,2024,california-lutheran,2024-03-29 12:00:00,L,0-5,0.0,5.0,-5.0,5.0,False,blowout,0
+la-verne,2024,california-lutheran,2024-03-29 14:00:00,W,10-1,10.0,1.0,9.0,11.0,True,blowout,1
+la-verne,2024,claremont-mudd-scripps,2024-04-04 16:00:00,L,4-5,4.0,5.0,-1.0,9.0,False,close,0
+la-verne,2024,occidental,2024-04-05 15:00:00,W,10-7,10.0,7.0,3.0,17.0,True,moderate,1
+la-verne,2024,occidental,2024-04-06 12:00:00,L,5-6,5.0,6.0,-1.0,11.0,False,close,0
+la-verne,2024,occidental,2024-04-06 14:00:00,W,5-2,5.0,2.0,3.0,7.0,True,moderate,1
+la-verne,2024,california-lutheran,2024-04-09 16:00:00,L,1-4,1.0,4.0,-3.0,5.0,False,moderate,0
+la-verne,2024,pomona-pitzer,2024-04-12 15:00:00,L,1-11,1.0,11.0,-10.0,12.0,False,blowout,0
+la-verne,2024,pomona-pitzer,2024-04-16 17:00:00,W,4-2,4.0,2.0,2.0,6.0,True,close,1
+la-verne,2024,pomona-pitzer,2024-04-16 19:00:00,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+la-verne,2024,chapman,2024-04-19 15:00:00,L,2-6,2.0,6.0,-4.0,8.0,False,moderate,0
+la-verne,2024,chapman,2024-04-20 12:00:00,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+la-verne,2024,chapman,2024-04-20 14:00:00,L,6-7,6.0,7.0,-1.0,13.0,False,close,0
+la-verne,2024,whittier,2024-05-03 17:00:00,W,6-5,6.0,5.0,1.0,11.0,True,close,1
+la-verne,2024,whittier,2024-05-04 12:00:00,L,1-5,1.0,5.0,-4.0,6.0,False,moderate,0
+la-verne,2024,whittier,2024-05-04 14:00:00,L,2-6,2.0,6.0,-4.0,8.0,False,moderate,0
+la-verne,2025,brandeis,2025-02-17 12:00:00,W,7-5,7.0,5.0,2.0,12.0,True,close,1
+la-verne,2025,brandeis,2025-02-17 14:00:00,W,9-1,9.0,1.0,8.0,10.0,True,blowout,1
+la-verne,2025,george fox,2025-03-01 12:00:00,L,4-9,4.0,9.0,-5.0,13.0,False,blowout,0
+la-verne,2025,george fox,2025-03-01 14:00:00,L,4-7,4.0,7.0,-3.0,11.0,False,moderate,0
+la-verne,2025,of pittsburgh at bradford,2025-03-04 15:00:00,W,9-0,9.0,0.0,9.0,9.0,True,blowout,1
+la-verne,2025,of pittsburgh at bradford,2025-03-04 17:00:00,W,9-1,9.0,1.0,8.0,10.0,True,blowout,1
+la-verne,2025,bethel,2025-03-08 15:00:00,L,1-5,1.0,5.0,-4.0,6.0,False,moderate,0
+la-verne,2025,bethel,2025-03-08 17:00:00,W,10-1,10.0,1.0,9.0,11.0,True,blowout,1
+la-verne,2025,washington in st louis,2025-03-15 14:00:00,L,9-12,9.0,12.0,-3.0,21.0,False,moderate,0
+la-verne,2025,washington in st louis,2025-03-15 16:00:00,W,7-1,7.0,1.0,6.0,8.0,True,blowout,1
+la-verne,2025,california-lutheran,2025-03-16 11:00:00,W,4-0,4.0,0.0,4.0,4.0,True,moderate,1
+la-verne,2025,california-lutheran,,L,5-12,5.0,12.0,-7.0,17.0,False,blowout,0
+la-verne,2025,claremont-mudd-scripps,2025-03-21 15:00:00,W,2-1,2.0,1.0,1.0,3.0,True,close,1
+la-verne,2025,claremont-mudd-scripps,2025-03-22 12:00:00,W,3-1,3.0,1.0,2.0,4.0,True,close,1
+la-verne,2025,claremont-mudd-scripps,2025-03-22 14:00:00,L,3-11,3.0,11.0,-8.0,14.0,False,blowout,0
+la-verne,2025,whitworth,2025-03-24 15:00:00,W,6-1,6.0,1.0,5.0,7.0,True,blowout,1
+la-verne,2025,whitworth,2025-03-24 17:00:00,W,8-0,8.0,0.0,8.0,8.0,True,blowout,1
+la-verne,2025,st olaf,2025-03-26 15:00:00,L,3-9,3.0,9.0,-6.0,12.0,False,blowout,0
+la-verne,2025,st olaf,2025-03-26 17:00:00,L,3-11,3.0,11.0,-8.0,14.0,False,blowout,0
+la-verne,2025,linfield,,L,7-13,7.0,13.0,-6.0,20.0,False,blowout,0
+la-verne,2025,linfield,,L,3-12,3.0,12.0,-9.0,15.0,False,blowout,0
+la-verne,2025,williams,2025-03-31 13:00:00,L,1-2,1.0,2.0,-1.0,3.0,False,close,0
+la-verne,2025,williams,2025-03-31 15:00:00,W,3-1,3.0,1.0,2.0,4.0,True,close,1
+la-verne,2025,occidental,2025-04-04 15:00:00,W,3-2,3.0,2.0,1.0,5.0,True,close,1
+la-verne,2025,occidental,2025-04-05 12:00:00,W,5-1,5.0,1.0,4.0,6.0,True,moderate,1
+la-verne,2025,occidental,2025-04-05 14:00:00,L,5-6,5.0,6.0,-1.0,11.0,False,close,0
+la-verne,2025,pomona-pitzer,2025-04-11 15:00:00,L,1-5,1.0,5.0,-4.0,6.0,False,moderate,0
+la-verne,2025,pomona-pitzer,2025-04-12 12:00:00,W,9-5,9.0,5.0,4.0,14.0,True,moderate,1
+la-verne,2025,pomona-pitzer,2025-04-12 14:00:00,L,0-3,0.0,3.0,-3.0,3.0,False,moderate,0
+la-verne,2025,california-lutheran,,L,2-6,2.0,6.0,-4.0,8.0,False,moderate,0
+la-verne,2025,chapman,2025-04-18 15:00:00,L,0-7,0.0,7.0,-7.0,7.0,False,blowout,0
+la-verne,2025,chapman,2025-04-19 12:00:00,L,2-7,2.0,7.0,-5.0,9.0,False,blowout,0
+la-verne,2025,chapman,2025-04-19 15:00:00,L,5-6,5.0,6.0,-1.0,11.0,False,close,0
+la-verne,2025,redlands,2025-04-24 15:00:00,L,3-4,3.0,4.0,-1.0,7.0,False,close,0
+la-verne,2025,redlands,2025-04-26 12:00:00,L,3-11,3.0,11.0,-8.0,14.0,False,blowout,0
+la-verne,2025,redlands,2025-04-26 14:00:00,L,1-6,1.0,6.0,-5.0,7.0,False,blowout,0
+la-verne,2025,whittier,2025-05-02 15:00:00,W,3-0,3.0,0.0,3.0,3.0,True,moderate,1
+la-verne,2025,whittier,2025-05-03 12:00:00,L,0-8,0.0,8.0,-8.0,8.0,False,blowout,0
+la-verne,2025,whittier,2025-05-03 14:00:00,L,6-7,6.0,7.0,-1.0,13.0,False,close,0
